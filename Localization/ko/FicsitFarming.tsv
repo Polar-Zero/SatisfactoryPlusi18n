@@ -1,14 +1,14 @@
 93C386E54C75872553324B90482EE4BA	0 / min	0 / 분
-1626AB36422A967B73B0A8BA8AB81D90	0 Sec	0초
+1626AB36422A967B73B0A8BA8AB81D90	0 Sec	0 초
 6176B1314D96421051FE049302252B60	A Apple Seed To plant and grow Apples	사과를 심고 재배할 수 있는 사과 씨앗
 AC571A774D906C8E72FCE597B949835E	A Banana Seed To plant and grow Bananas	바나나를 심고 재배할 수 있는 바나나 씨앗
 E559998A468807F5E873A1B38BC317F7	A Carrot Seed To plant and grow Carrots	당근을 심고 재배할 수 있는 당근 씨앗
 700F99A84931189104DD81BE09AED93E	A Corn Seed To plant and grow Corn	옥수수를 심고 재배하는 옥수수 씨앗
-6CF7AD4A41F33DC3721F90A0A0FF369E	A Cotton Seed To plant and grow Cotton	목화를 심고 재배하는 목화씨
-6B779D3B4715B3F98C36E69343BF399A	A Flower Seed To plant and grow Flowers	꽃을 심고 재배할 수 있는 꽃씨
+6CF7AD4A41F33DC3721F90A0A0FF369E	A Cotton Seed To plant and grow Cotton	목화를 심고 재배하는 목화 씨앗
+6B779D3B4715B3F98C36E69343BF399A	A Flower Seed To plant and grow Flowers	꽃을 심고 재배할 수 있는 꽃 씨앗
 89EB85A24F1DE3CE5F5AF19F1C68F634	A Mycelia Seed To plant and grow Mycelia	균사체를 심고 재배할 수 있는 균사체 씨앗
 9910AF834369DF3F0E9A9DBC6BC73459	A Potato Seed To plant and grow Potatoes	감자를 심고 재배할 수 있는 감자 씨앗
-014342964AAB00D5A3E78DB81D074048	A Pumpkin Seed To plant and grow Pumpkins	호박을 심고 재배할 수 있는 호박씨
+014342964AAB00D5A3E78DB81D074048	A Pumpkin Seed To plant and grow Pumpkins	호박을 심고 재배할 수 있는 호박 씨앗
 B255351D4671FD115D2B59A6AC00E0DD	A Strawberry Seed To plant and grow Strawberries	딸기를 심고 재배하는 딸기 씨앗
 1969EFB4495621CC1529448B02E522C4	A Tomato Seed To plant and grow Tomatoes	토마토를 심고 재배할 수 있는 토마토 씨앗
 D28B8BEB4654DEB976D37788CB3A8716	A Wheat Seed To plant and grow Wheat	밀을 심고 재배할 수 있는 밀 씨앗
@@ -24,7 +24,7 @@ ADBBA3DC43636B886D1332BC74C5340A	A weird looking berry?	이상하게 생긴 베�
 7B466EB64AEB3AFA1C9D87B274ED191B	Apprentice Farmer - Buildings	견습 농부 - 건물
 14D994E34D044C4E5A8B67A98D85316B	Apprentice Farmer - Buildings	견습 농부 - 건물
 03DF32C74A7BF04804DF4BAC25771E95	Apprentice Farmer - Crops	견습 농부 - 농작물
-40F8AE944B1108E2792AA7A6EF2A6E18	Aubergine Seed	오베르진 씨앗
+40F8AE944B1108E2792AA7A6EF2A6E18	Aubergine Seed	가지 씨앗
 6C9152FF4A7C1F3A841FA3B5FF6D060F	Banana	바나나
 AD35D4464A197D87503AFBB17A0C48B5	Banana	바나나
 EEA9A0DC4AE5E6E5FEE624BAA2242710	Banana Bread	바나나 빵
@@ -39,8 +39,8 @@ D0343D794F728FD1CD687B991ACF43FA	Basic Farmer - Crops	기본 농부 - 농작물
 910395954019104779767D9A8879E6DC	Berry Pie	베리 파이
 8A1D6BED4C1F86F3C845BDAD8233E10E	Berry Pie	베리 파이
 B749E89A41B2C1FC90ED06B2092AA391	Berry funny pun goes here	베리 재미있는 말장난이 여기로 갑니다
-80DEEBCA4B1195829C3573836C1F59FF	Biomass (Capsule)	바이오매스(캡슐)
-C4E436B146E715B23F93D48583D5DFAB	Biomass (Fertilizer)	바이오매스(비료)
+80DEEBCA4B1195829C3573836C1F59FF	Biomass (Capsule)	바이오매스 (캡슐)
+C4E436B146E715B23F93D48583D5DFAB	Biomass (Fertilizer)	바이오매스 (비료)
 1A6696C94884890FCE78D88424A85B7C	Biopolymer Resin	바이오 폴리머 수지
 E0B74D3648B6AF8C2075BE9A7080A9CE	Bread	빵
 7480B25443495CFF4AD88086F7A40C07	Bread	빵
@@ -65,32 +65,32 @@ D2CA8763453CAD980A282FA65A7B4522	Corn Muffin	옥수수 머핀
 E589BB3A45BF0F71DAF5E391593F691F	Corn Seed	옥수수 종자
 345150DB49B11446092A288744544DB8	Corn, can be eaten raw or used to make corn bread.	옥수수는 날것으로 먹거나 옥수수빵을 만드는데 사용될 수 있습니다.
 20944611443C9D8F731D559D6B883F01	Cost	비용
-A44ED2AD4210617C5902B5900EA5C496	Cotton	면
-1986E81341EEC6E175CEEBB560376F4D	Cotton	면
-F04BBE5B4230F508881FE096338D4577	Cotton Fabric	면 원단
-9405FC934077DDCCC06A07B53DFDA141	Cotton Seed	면 씨앗
+A44ED2AD4210617C5902B5900EA5C496	Cotton	목화
+1986E81341EEC6E175CEEBB560376F4D	Cotton	목화
+F04BBE5B4230F508881FE096338D4577	Cotton Fabric	목화 원단
+9405FC934077DDCCC06A07B53DFDA141	Cotton Seed	목화 씨앗
 F4442F3B46A5BD81F3A1769FEB76CE09	Crop Stabiliser	작물 안정기
 CFB4B42C46E0B1FD190F119F7A617FBF	Dodad Thingy	도다드 Thingy
-51BB72A644469BDAC2D7C39518D1EB77	Doggo Cage (Empty)	도고 케이지(비어 있음)
-1E6CF5F6459A2FC74D263DB1E644F356	Doggo Cage (Empty)	도고 케이지(비어 있음)
-D4E5A5B54DA723B55F3C53992FA23754	Doggo Cage (Empty)	도고 케이지(비어 있음)
-04FB245D4ED7DE76AD54658934AD1108	Doggo Cage (Full)	도고 케이지(꽉 참)
-5D99D993443488CF0CF98A96177468C3	Doggo Cage (Full)	도고 케이지(꽉 참)
-0462C4E44C0617240E55809D87C42F2B	Doggo Cage (Full)	도고 케이지(꽉 참)
-15C3B1B44B8BC3A0F5D8AD83269F31C7	Doggo Cages	도고 케이지
+51BB72A644469BDAC2D7C39518D1EB77	Doggo Cage (Empty)	도고 우리 (비어 있음)
+1E6CF5F6459A2FC74D263DB1E644F356	Doggo Cage (Empty)	도고 우리 (비어 있음)
+D4E5A5B54DA723B55F3C53992FA23754	Doggo Cage (Empty)	도고 우리 (비어 있음)
+04FB245D4ED7DE76AD54658934AD1108	Doggo Cage (Full)	도고 우리 (꽉 참)
+5D99D993443488CF0CF98A96177468C3	Doggo Cage (Full)	도고 우리 (꽉 참)
+0462C4E44C0617240E55809D87C42F2B	Doggo Cage (Full)	도고 우리 (꽉 참)
+15C3B1B44B8BC3A0F5D8AD83269F31C7	Doggo Cages	도고 우리
 381DEEBF42DA573BEF36219DC1F654D4	Doggo Chow	도고 음식
 5143A7DE4D3CB26578CAEEAC8993113D	Doggo Chow	도고 음식
 B2795CFF4FE4490B9404D39BFF6DE950	Doggo Chow	도고 음식
 922A8D6A4DB99382AD44F4B964E4BFDE	Doggo House	도고 하우스
 29C51AC2490A799BF7F7B1A7F9C8A776	Doggo House	도고 하우스
 AF8E12FB41F493C6FCAF14BC62AF7D07	Doggo House	도고 하우스
-1F5E61A34FCD2688A65940A511682B5A	Dropping this produces squash (not really)	이것을 떨어뜨리면 스쿼시가 생성됩니다(별로 그렇지 않습니다)
+1F5E61A34FCD2688A65940A511682B5A	Dropping this produces squash (not really)	이것을 떨어뜨리면 스쿼시가 생성됩니다 (실제로는 아님)
 CA38E3CC4F1CC14F55C243896DBBC546	Dust Prevention	먼지 방지
 3927E3D24C931C8FF810F3B98A73A8BC	Enriched Apple	농축된 사과
 531999A3422E62BFAFFE569A969F2836	Enriched Banana	농축된 바나나
 F183579845AFA47A32905B81947EB7F6	Enriched Carrots	농축된 당근
 762EB5444009224145A249BE6846D5F6	Enriched Corn	농축된 옥수수
-9C166F704B141CBD9B453FA7C0CEB8B3	Enriched Cotton	농축된 면
+9C166F704B141CBD9B453FA7C0CEB8B3	Enriched Cotton	농축된 목화
 86EEF76F4350D536AF33BC8FDAA869E2	Enriched Crops	농축된 작물
 C79C632546559B4687B0C2B2C8597758	Enriched Crops 1	농축된 작물 1
 F2D7C99C4A163C1D125687BC389B28DC	Enriched Crops 1	농축된 작물 1
@@ -109,7 +109,7 @@ C43BB91C46F8E7B4D89E87AEBCBDB31A	FF Unlock for Patreons	Patreons를 위한 FF �
 9F73841D46FF74B0261653862152A6D9	Farming Platform Mk1	농사 플랫폼 Mk1
 F1D01624418065EC0A6C94B6B236A16F	Farming Platform Mk1	농사 플랫폼 Mk1
 01C0D9794AD73FA5096B60BE8EFE3590	Farming Platform Mk1	농사 플랫폼 Mk1
-5165954D42E3DA0280CEE9A67716A059	Farming Platform Mk1 can house 1x Farming Plot (All variants) With the restriction of no fluid inputs on this platform only the Crop Plot & Flower plot will work on this platform.	농사 플랫폼 Mk1은 농업 용지 1개(모든 변형)을 수용할 수 있습니다. 이 플랫폼에서는 유체 입력이 제한되므로 Crop Plot & Flower Plot만 이 플랫폼에서 작동합니다.
+5165954D42E3DA0280CEE9A67716A059	Farming Platform Mk1 can house 1x Farming Plot (All variants) With the restriction of no fluid inputs on this platform only the Crop Plot & Flower plot will work on this platform.	농사 플랫폼 Mk1은 농업 용지 1개(모든 변형)을 수용할 수 있습니다. 이 플랫폼에서는 유체 입력이 제한되므로 농업 & 꽃 용지만 이 플랫폼에서 작동합니다.
 5E6735554A2491D9823FA5BCBEEA872F	Farming Platform Mk2	농사 플랫폼 Mk2
 B8A989364A066711202F84A1F87E4B4E	Farming Platform Mk2	농사 플랫폼 Mk2
 F51E68654DFB21B3B84C9EA5644FF80A	Farming Platform Mk2 can house 4x Farming Plots (All variants).	농사 플랫폼 Mk2는 농업 용지 4개(모든 변형)을 수용할 수 있습니다.
@@ -130,7 +130,7 @@ AFB391734DF390817F6A7C834DA25948	Fertilised Pumpkin	비옥한 호박
 79E6557B431FFCE73CAFEB8926FAB6EE	Fertilized Banana	비옥한 바나나
 EDFD57B7488A99E55F886D851F2CE911	Fertilized Carrots	비옥한 당근
 CF63676A442A8468D19403B489448000	Fertilized Corn	비옥한 옥수수
-9F088F00478FBADCC4E1629ECD764997	Fertilized Cotton	비옥한 면
+9F088F00478FBADCC4E1629ECD764997	Fertilized Cotton	비옥한 목화
 3944DD36449949286364E78E463242BB	Fertilized Crops 1	비옥한 작물 1
 1401C656403C5C1B5152618BA5FA536F	Fertilized Crops 2	비옥한 작물 2
 FA6226224D8E5648A80962A63AF06E56	Fertilized Potato	비옥한 감자
@@ -140,7 +140,7 @@ ACFACE57475DE7450F61348252618E45	Fertilized Yosse Berry	비옥한 요세 베리
 A6AE0A1A4C591F163525A8815D711F20	Fertilizer	비료
 9CEBF0114607731F51CBA183E7A334CB	Fertilizer	비료
 A2D09CE94C58696CE42A76A14EE3423A	Ficsit Farming	Ficsit 농업
-5E912B4E414AAE953935A3970EF83150	Ficsit Farming Misc	Ficsit 농업 기타
+5E912B4E414AAE953935A3970EF83150	Ficsit Farming Misc	Ficsit 기타 농업
 6BE40B3E4BA7B6EB62DEA2B91C5CC119	FicsitFarming	Ficsit 농업
 B477C9E9430C2D2A4FADC88D63DFE74A	Flower Plot	꽃 농지
 729668C14DFF0616C6C640A84D7F8320	Flower Plot	꽃 농지
@@ -148,7 +148,7 @@ E78B6AA843C3029BEAA99099AF5AB203	Flower Seed	꽃씨
 8372044B454A4ED11E2C35B91ED720D5	Fluid Discharge	유체 방출
 36F772374636341DF29FF086B228F217	Generator	발전기
 884BAFB3499483853C65F5B457E150E1	Greenhouse	온실
-D176309C4771AF7B648209BAF7EE5924	Greenhouse Gas	온실가스
+D176309C4771AF7B648209BAF7EE5924	Greenhouse Gas	온실 가스
 17F12EBD443D95AFCF65E4BF74A03DB2	Greenhouse Module	온실 모듈
 101584984CBE6CE42638098438430D6B	Greenhouse Module	온실 모듈
 E3452CE54D92E38D3906C68BE025EB59	Growth	성장
@@ -166,9 +166,9 @@ A227EEE046377860BD7EC1904042721A	Insert dirt product to get turned into seeds. F
 B4FF9EB941E242AF58C8E6845E5C150B	Irrigation Module	관개 모듈
 78355103452EC669025AF88AA579C6DC	Irrigation Module	관개 모듈
 EC2D5CBB4FF30AC7D333EE97FBCDFA00	It has a yellow tint.	노란색입니다.
-302B64534DE76306C0E760965C1F0DF0	It's a jar of dirt..\n\nCan extract to different seeds\n\n- Apple\n- Banana\n- Flower\n- Potato	흙이 담긴 병입니다..\n\n다양한 씨앗을 추출할 수 있습니다\n\n- 사과\n- 바나나\n- flower\n- 감자
-79AB65A5400FA77912F0C2B2F1A7CE5F	It's a jar of dirt..\n\nCan extract to different seeds\n\n- Wheat\n- Carrot\n- Corn\n- Potato	흙이 담긴 병입니다..\n\n다양한 씨앗을 추출할 수 있습니다\n\n- 밀\n- 당근\n- 옥수수\n- 감자
-CA967F064EC5F00FAA9C40A7F72775B8	It's a jar of dirt..\n\nCan extract to different seeds\n\n- Yosse\n- Pumpkin\n- Mycelia\n- Cotton	흙이 담긴 병입니다..\n\n다양한 씨앗을 추출할 수 있습니다\n\n- yosse\n- 호박\n- 균사\n- 면
+302B64534DE76306C0E760965C1F0DF0	It's a jar of dirt..\n\nCan extract to different seeds\n\n- Apple\n- Banana\n- Flower\n- Potato	흙이 담긴 병입니다..\n\n다양한 씨앗을 추출할 수 있습니다\n\n- 사과\n- 바나나\n- flower\n- 감자
+79AB65A5400FA77912F0C2B2F1A7CE5F	It's a jar of dirt..\n\nCan extract to different seeds\n\n- Wheat\n- Carrot\n- Corn\n- Potato	흙이 담긴 병입니다..\n\n다양한 씨앗을 추출할 수 있습니다\n\n- 밀\n- 당근\n- 옥수수\n- 감자
+CA967F064EC5F00FAA9C40A7F72775B8	It's a jar of dirt..\n\nCan extract to different seeds\n\n- Yosse\n- Pumpkin\n- Mycelia\n- Cotton	흙이 담긴 병입니다..\n\n다양한 씨앗을 추출할 수 있습니다\n\n- yosse\n- 호박\n- 균사\n- 목화
 DABC8E3244A2FD0BFA1332B6DF3BA323	It's corny.	진부해요.
 ED5686A042DA9908F0D2958949A9A95F	Item Name	항목 이름
 D236BEB144040798AB658D9026368448	Its just a Banana	그건 그냥 바나나야
@@ -180,16 +180,16 @@ D236BEB144040798AB658D9026368448	Its just a Banana	그건 그냥 바나나야
 B13F30334BD516023002ADA88FCF169E	Magic berry muffin	매직베리 머핀
 F2AFE0FE4366375BF131AEBEEFC066D4	Master Farmer	마스터 파머
 B5630D09475267A1CF6D6AB8AEE21712	Master Farmer	마스터 파머
-CD4EFE104FA34912F333A3856ED4CA78	Milestone Reached. Alternate Watered Crop recipes unlocked. Carrots, Potatoes, Pumpkins and Wheat can now use water to speed up their growth rate.	마일스톤에 도달했습니다. 대체 물이 들어간 크롭 조리법의 잠금이 해제됩니다. 당근, 감자, 호박 그리고 밀은 이제 물을 사용하여 성장 속도를 높일 수 있습니다.
-60CEE3264BEF1978FF302CA13F67711B	Milestone Reached. Alternate Watered Crop recipes unlocked. Carrots, Potatoes, Pumpkins and Wheat can now use water to speed up their growth rate.	마일스톤에 도달했습니다. 대체 물이 들어간 크롭 조리법의 잠금이 해제됩니다. 당근, 감자, 호박 그리고 밀은 이제 물을 사용하여 성장 속도를 높일 수 있습니다.
-61DBA5D24CB38B671B2078A4E1C9A5B6	Milestone Reached. Cooking Hub unlocked. Pioneers can now cook, bake, boil, blend, fry any crop into foods. In addition, to keep the pioneer morale value high Yossie Berry Muffins have been unlocked. You can now also craft doggo chow. Doggo Chow is used to feed your doggos so they don’t die a painful and agonizing death.	milestone reached. 쿠킹 허브 unlocked. pioneers can now cook, bake, boil, blend, fry any crop into foods. in addition, to keep the pioneer morale value high yossie berry muffins have been unlocked. you can now also craft 도고 음식. 도고 음식 is 당신의 개에게 먹이를 주는 데 사용됩니다 so they don’t die a painful and agonizing death.
-36D5F92A4237BAF90C81849AFFA26962	Milestone Reached. Cooking Hub unlocked. Pioneers can now cook, bake, boil, blend, fry any crop into foods. In addition, to keep the pioneer morale value high Yossie Berry Muffins have been unlocked. You can now also craft doggo chow. Doggo Chow is used to feed your doggos so they don’t die a painful and agonizing death.	milestone reached. 쿠킹 허브 unlocked. pioneers can now cook, bake, boil, blend, fry any crop into foods. in addition, to keep the pioneer morale value high yossie berry muffins have been unlocked. you can now also craft 도고 음식. 도고 음식 is 당신의 개에게 먹이를 주는 데 사용됩니다 so they don’t die a painful and agonizing death.
+CD4EFE104FA34912F333A3856ED4CA78	Milestone Reached. Alternate Watered Crop recipes unlocked. Carrots, Potatoes, Pumpkins and Wheat can now use water to speed up their growth rate.	마일스톤에 도달했습니다. 유체를 사용한 작물 제작법 잠금이 해제됩니다. 당근, 감자, 호박, 밀은 이제 물을 사용하여 성장 속도를 높일 수 있습니다.
+60CEE3264BEF1978FF302CA13F67711B	Milestone Reached. Alternate Watered Crop recipes unlocked. Carrots, Potatoes, Pumpkins and Wheat can now use water to speed up their growth rate.	마일스톤에 도달했습니다. 유체를 사용한 작물 제작법 잠금이 해제됩니다. 당근, 감자, 호박, 밀은 이제 물을 사용하여 성장 속도를 높일 수 있습니다.
+61DBA5D24CB38B671B2078A4E1C9A5B6	Milestone Reached. Cooking Hub unlocked. Pioneers can now cook, bake, boil, blend, fry any crop into foods. In addition, to keep the pioneer morale value high Yossie Berry Muffins have been unlocked. You can now also craft doggo chow. Doggo Chow is used to feed your doggos so they don’t die a painful and agonizing death.	마일스톤에 도달했습니다. 쿠킹 허브의 잠금이 해제되었습니다. pioneers can now cook, bake, boil, blend, fry any crop into foods. in addition, to keep the pioneer morale value high yossie berry muffins have been unlocked. you can now also craft 도고 음식. 도고 음식 is 당신의 개에게 먹이를 주는 데 사용됩니다 so they don’t die a painful and agonizing death.
+36D5F92A4237BAF90C81849AFFA26962	Milestone Reached. Cooking Hub unlocked. Pioneers can now cook, bake, boil, blend, fry any crop into foods. In addition, to keep the pioneer morale value high Yossie Berry Muffins have been unlocked. You can now also craft doggo chow. Doggo Chow is used to feed your doggos so they don’t die a painful and agonizing death.	마일스톤에 도달했습니다. 쿠킹 허브의 잠금이 해제되었습니다, bake, boil, blend, fry any crop into foods. in addition, to keep the pioneer morale value high yossie berry muffins have been unlocked. you can now also craft 도고 음식. 도고 음식 is 당신의 개에게 먹이를 주는 데 사용됩니다 so they don’t die a painful and agonizing death.
 B97EDEEC4361FACA5C3CEA8B1BCA7918	Milestone Reached. Corn, Wheat and Potatoes have been unlocked. These can be farmed in the crop plot. In addition, Flower Petal seeds have been unlocked. These can be used to grow flower petals in the flower plot. Note, The pioneer has to manually farm these crops until later tech for automated harvesting is unlocked.	마일스톤에 도달했습니다. 옥수수, 밀, 감자의 잠금이 해제되었습니다. 이것들은 경작지에서 경작될 수 있습니다. 또한, 꽃잎 씨앗의 잠금이 해제되었습니다. 이것들은 꽃밭에서 꽃잎을 기르는 데 사용될 수 있습니다.
 9653788C4FFBCDE5AD867DB0BE3A7D53	Milestone Reached. Corn, Wheat and Potatoes have been unlocked. These can be farmed in the crop plot. In addition, Flower Petal seeds have been unlocked. These can be used to grow flower petals in the flower plot. Note, The pioneer has to manually farm these crops until later tech for automated harvesting is unlocked.	마일스톤에 도달했습니다. 옥수수, 밀, 감자의 잠금이 해제되었습니다. 이것들은 경작지에서 경작될 수 있습니다. 또한, 꽃잎 씨앗의 잠금이 해제되었습니다. 이것들은 꽃밭에서 꽃잎을 기르는 데 사용될 수 있습니다.
 71C301D74909B439403A10B250F572EE	Milestone Reached. Crops can now use fertilizer for the increased speed boost of Potatoes, Carrots, Pumpkins and wheat growth.	마일스톤에 도달했습니다. 농작물은 이제 감자, 당근, 호박 및 밀 성장의 증가된 속도 향상을 위해 비료를 사용할 수 있습니다.
 E52A52C74EA7F496BF5B2985F4DF4156	Milestone Reached. Crops can now use fertilizer for the increased speed boost of Potatoes, Carrots, Pumpkins and wheat growth.	마일스톤에 도달했습니다. 농작물은 이제 감자, 당근, 호박 및 밀 성장의 증가된 속도 향상을 위해 비료를 사용할 수 있습니다.
-99AC2BA049AD51BF4D6618B0EC145CDD	Milestone Reached. Farming Platform Mk1, Crop Plot and Flower Plot unlocked. With these new buildings you can use them for the production of any form of crop and flower.	마일스톤에 도달했습니다. 농사 플랫폼 Mk1, 작물 재배지 및 꽃 재배지 잠금 해제. 이 새로운 건물들로 당신은 그것들을 어떤 형태의 농작물과 꽃의 생산에 사용할 수 있습니다.
-2B886CDB4262CC462FD1C981C266B5CB	Milestone Reached. Farming Platform Mk1, Crop Plot and Flower Plot unlocked. With these new buildings you can use them for the production of any form of crop and flower.	마일스톤에 도달했습니다. 농사 플랫폼 Mk1, 작물 재배지 및 꽃 재배지 잠금 해제. 이 새로운 건물들로 당신은 그것들을 어떤 형태의 농작물과 꽃의 생산에 사용할 수 있습니다.
+99AC2BA049AD51BF4D6618B0EC145CDD	Milestone Reached. Farming Platform Mk1, Crop Plot and Flower Plot unlocked. With these new buildings you can use them for the production of any form of crop and flower.	마일스톤에 도달했습니다. 농사 플랫폼 Mk1, 작물 및 꽃 농지의 잠금이 해제되었습니다. 이 새로운 건물은 농작물과 꽃의 재배에 사용할 수 있습니다.
+2B886CDB4262CC462FD1C981C266B5CB	Milestone Reached. Farming Platform Mk1, Crop Plot and Flower Plot unlocked. With these new buildings you can use them for the production of any form of crop and flower.	마일스톤에 도달했습니다. 농사 플랫폼 Mk1, 작물 및 꽃 농지의 잠금이 해제되었습니다. 이 새로운 건물은 농작물과 꽃의 재배에 사용할 수 있습니다.
 8B83B8AF4F6E55C55FBDC89BD60BAF2A	Milestone Reached. Farming Plot Mk2, the seed extractor, Tree Plot and irrigation module have been unlocked. The Farming Plot mk2 is an upgrade to allow a liquid input to be used by the irrigation module for better crop efficiency. The Tree Plot can be used to farm trees. In addition the Seed extractor can be used to automate the production of seeds, with the added ability to output 2 seeds of the same crop that was inserted. Note. The seed extractor can also accept any input of a biomass product for the output of a randomized seed.	마일스톤에 도달했습니다. 농지 mk2, 씨앗 추출기, 나무 농지 및 관개 모듈의 잠금이 해제되었습니다. 농지 mk2는 작물의 효율성을 높이기 위해 관개 모듈에서 액체 입력을 사용할 수 있도록 하기 위한 업그레이드입니다. 트리 농지은 나무를 경작하는 데 사용할 수 있습니다. 또한 씨앗 추출기를 사용하여 씨앗 생산을 자동화할 수 있으며, 삽입된 동일한 작물의 씨앗 2개를 출력할 수 있습니다. 참고. 씨앗 추출기는 또한 무작위 씨앗의 출력을 위한 바이오매스 제품의 모든 입력을 수용할 수 있습니다.
 7F666576419950165D1500BB7BA299B7	Milestone Reached. Farming Plot Mk2, the seed extractor, Tree Plot and irrigation module have been unlocked. The Farming Plot mk2 is an upgrade to allow a liquid input to be used by the irrigation module for better crop efficiency. The Tree Plot can be used to farm trees. In addition the Seed extractor can be used to automate the production of seeds, with the added ability to output 2 seeds of the same crop that was inserted. Note. The seed extractor can also accept any input of a biomass product for the output of a randomized seed.	마일스톤에 도달했습니다. 농지 mk2, 씨앗 추출기, 나무 농지 및 관개 모듈의 잠금이 해제되었습니다. 농지 mk2는 작물의 효율성을 높이기 위해 관개 모듈에서 액체 입력을 사용할 수 있도록 하기 위한 업그레이드입니다. 트리 농지은 나무를 경작하는 데 사용할 수 있습니다. 또한 씨앗 추출기를 사용하여 씨앗 생산을 자동화할 수 있으며, 삽입된 동일한 작물의 씨앗 2개를 출력할 수 있습니다. 참고. 씨앗 추출기는 또한 무작위 씨앗의 출력을 위한 바이오매스 제품의 모든 입력을 수용할 수 있습니다.
 E4694A594E95616A7BC89E8532D9E0C4	Milestone Reached. Farming Plot mk3 has been unlocked. Pioneers now have a larger platform for their farms.	마일스톤에 도달했습니다. 농지 mk3의 잠금이 해제되었습니다. 개척자들은 이제 농장을 위한 더 큰 플랫폼을 갖게 되었습니다.
@@ -231,7 +231,7 @@ BB35E16740294E177AA76FAE582343AE	Plot {plotIndex}	농지 {plotIndex}
 4FED3B414CDB061EB943C5A23BBCC9C5	Potato	감자
 B89E606145A5EFF2A87144914785C569	Potato	감자
 5B41E84945DD2D8C893B899C003D4C0A	Potato Eat it raw or can be cooked in a stew.	감자 그것을 날것으로 먹거나 스튜로 요리할 수 있습니다.
-F1DB123246D221968BA63E8DAD55C3C9	Potato Seed	감자씨
+F1DB123246D221968BA63E8DAD55C3C9	Potato Seed	감자 씨앗
 83D460A44B71F76464E2FFAD0BA2F13D	Power	힘
 8E7CC03745F4ACAAE670AB87CBD495B1	Probably the best type of pie	아마도 가장 좋은 종류의 파이일 것입니다
 49D7AF9F49A518678ABCC096C2011F85	Processed Flowers	가공된 꽃
@@ -243,27 +243,27 @@ AA3285D4437006DCD3145BBC796C1E3A	Pumpkin Pie	호박 파이
 36A490B94E61A4E25215AAB5D287E572	Pumpkin Pie	호박 파이
 2B47B3C547A708CFF254A5832583DDAE	Pumpkin Pie?	호박 파이?
 7509762F4F1A5AEEA5C7E384D029B417	Pumpkin Seed	호박씨
-ABE4D4D1444024FFE89139BA5DD7A273	Rancher	목장주
-EF43F0F5409E983B1A1682AA18F8A26D	Rancher	목장주
+ABE4D4D1444024FFE89139BA5DD7A273	Rancher	목장 경영자
+EF43F0F5409E983B1A1682AA18F8A26D	Rancher	목장 경영자
 14B0F02D430324F82AADE9A1E77DD5C1	Random Math	랜덤 수학
 EF9FF5CC4C7E4222AD9F44B4BD4B1DB5	Recipe:	제작법:
 6931364546C6BD8B10BDD293F9309513	Recipes	제작법
 9C50B5CD426D189F45224C88F379489A	Regulator	조절기
 D94D06EB466F14FFBCDD388E66E08DBE	Regulator	조절기
 234FFD2D4F0DE7B800DDAB9E41BA0F15	Regulator	조절기
-07BE829D4A534F8D62C7D49AED59214F	Required Plot Modules	필수 농지 모듈
+07BE829D4A534F8D62C7D49AED59214F	Required Plot Modules	필요한 농지 모듈:
 6F2F1C9E4AE9CF67BDDC36990EAF497F	Seed Extractor	씨앗 추출기
 72F3CE284C0DB5B2AA14AA99177A48BC	Seed Extractor	씨앗 추출기
 90C105E2465CDA9B59A38986C3DEE5E0	Seed Extractor	씨앗 추출기
 FB6A6DAE48706A9E9538788468165D49	Seed Extractor	씨앗 추출기
-51E713E84E08DB9738599DB8A39D54AA	Seed Sifting	씨앗 시프팅
+51E713E84E08DB9738599DB8A39D54AA	Seed Sifting	종자 선별
 EE94FC2648911DB332ADAD918C9950EE	Slime Power Crystal	슬라임 파워 크리스탈
 596AAD2C487F6B5D1653859100754D5C	Slug Slime	슬러그 슬라임
 8FC56F7745AE8CBE4DED9A9B36F78FD2	Slug Slime	슬러그 슬라임
 387971774F4E019795C739908684C75A	Slug Slime	슬러그 슬라임
 70DF407447DAA3097D381CBAE046698D	Sound	소리
-8B1553764164BFAC5C23629862B3B8F4	Sous Chef	수셰프
-99D3675949036751F286EDB8E6AF346C	Sous Chef	수셰프
+8B1553764164BFAC5C23629862B3B8F4	Sous Chef	부 주방장
+99D3675949036751F286EDB8E6AF346C	Sous Chef	부 주방장
 ADFA57F24577298FEF727D87694579A2	Stats	통계
 7C2AC33448186DAC2D0C46AE93A202AA	Strawberry Seed	딸기 씨앗
 6B0B41364745E5C74AC37996D57DA75F	Tomato Seed	토마토 씨앗
@@ -274,17 +274,17 @@ BD9D245A444D234C671A088E3ABD5694	Used to cook, Bake, Shake, Boil, Fry, Blend eve
 6CC97A9348677573152382920B1279BC	Used to create fertilizer from organic products such as crops and leaves into fertilizer for a higher crop output	농작물, 잎과 같은 유기농 제품에서 비료를 만들어 작물 생산량을 높이는 데 사용됩니다
 C8204AD743F92063DDB9F8847BCA475F	Used to feed your doggos	당신의 개에게 먹이를 주는 데 사용됩니다
 BDB6186D4DFEFFB45746118FE45996EB	Used to grow Mycelia, Needs irrigation & greenhouse modules to work	균사를 재배하는 데 사용되며, 관개 및 온실 모듈이 필요합니다
-A91509C948559707FDB51189CDBDD3AA	Used to grow all types of crops	모든 종류의 농작물을 재배하는 데 사용됨
+A91509C948559707FDB51189CDBDD3AA	Used to grow all types of crops	모든 종류의 농작물을 재배하는 데 사용됩니다
 D6EA34794800ED701601F0BA7F713231	Used to grow all types of trees	모든 종류의 나무를 재배하는 데 사용됩니다
 63F9F3A94B0D7C9F615828A2F50EE9F7	Used to grow flowers	꽃을 재배할 때 사용됩니다
-796B183049F21130CB7FF9ADBDF3C647	Used to house up to 16 doggos to be fed, watered, pet and heaten up while also extracting resources from them	최대 16마리의 개를 수용하여 먹이를 주고, 물을 주고, 쓰다듬고, 데우는 동시에 그들로부터 자원을 추출하는 데 사용됩니다
+796B183049F21130CB7FF9ADBDF3C647	Used to house up to 16 doggos to be fed, watered, pet and heaten up while also extracting resources from them	최대 16마리의 도고를 수용하여 먹이를 주고, 물을 주고, 쓰다듬고, 데우는 동시에 그들로부터 자원을 추출하는 데 사용됩니다
 2D8AD47E4721E7A2E46395A2E8E49ED9	Used to make Bread	빵을 만드는 데 사용됨
 BB9FAAC54A540AED7B41F4A44277C587	Used to make fine cloth	고운 천을 만드는 데 사용됩니다
 D32D99C64B6B3F38EA1103A1F2E29F18	Used to speed up the growth of crops. needs to be placed on a farming plot	농작물의 성장 속도를 높이는 데 사용됩니다. 농사를 지을 필요가 있습니다
 7FB786A84B3C551832027FB5A04D99BB	Used to water or fertlize crops. needs to be placed on a farming plot	농작물에 물을 주거나 비료를 주는 데 사용됩니다. 농사를 지을 필요가 있습니다
 3E9000A34999E42F4B431DB7102A4754	Wet Dirt	젖은 흙
 22B0C4CA4A84A98587479C99B8971475	Wet Dirt	젖은 흙
-1397FFC147F17891F024E5B4A2BC41DA	What's up doc! Eat it raw or can be cooked in a stew.	안녕하세요, 선생님! 그것을 날것으로 먹거나 스튜로 요리할 수 있습니다.
+1397FFC147F17891F024E5B4A2BC41DA	What's up doc! Eat it raw or can be cooked in a stew.	안녕하세요, 선생님! 생으로 먹거나 스튜로 요리할 수 있습니다.
 FACD46D34A369CD5B97993B451C3DE71	Wheat	밀
 FA7597B5447227645E6C999B84192B40	Wheat	밀
 EFE7E34F4EA5939238A47ABAAC53F07F	Wheat Muffin	밀 머핀
@@ -295,10 +295,10 @@ BECB0F4242D932B5426BF49CE30A70D3	Yosse Berry	요세 베리
 F502FD8349CC460C98279598A7965481	Yosse Muffin	요세 머핀
 EDEF7710484C66C82248C39FCF413BB6	Yosse Muffin	요세 머핀
 26730E454512A0840D7C94B8D3CD90BA	Yosse Seed	요세 씨앗
-7E7F12D748D65B33EE8DCC9C464C9AC3	Your basic muffin.	기본 머핀
+7E7F12D748D65B33EE8DCC9C464C9AC3	Your basic muffin.	당신의 기본 머핀
 E5C043A843DEC1A63D2A0BB9D47FB045	{count} / min	{count} / 분
-B28066E44DC48C4F0667368114F6D162	{num} secs	{num}초
-1EE2F27A4CA47FAC791783A4C9C97DFF	{time} Sec	{time}초
+B28066E44DC48C4F0667368114F6D162	{num} secs	{num} 초
+1EE2F27A4CA47FAC791783A4C9C97DFF	{time} Sec	{time} 초
 CropPlot	Crop Plot	농업 용지
 Crops	Crops	작물
 EnrichedCrops	Enriched Crops	농축된 작물

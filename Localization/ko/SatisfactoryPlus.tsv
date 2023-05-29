@@ -1,8 +1,8 @@
-BDFC32A44E226628BF212CB72F2CC730	<LightGrey12Reg>Availability on the planet: </><Orange12Reg>{Rare}</>\n<LightGrey12Reg>Can be found in every biome. In bodies of water such as lakes or oceans.</>\n<LightGrey12Reg>Note: this resource can also be extracted from the ground. (Resource Wells)</>\n\n<Orange16Reg>Extractor Informations:</>\n<LightGrey12Reg>Default extraction with Water Extractor: </><Orange12Reg>{PerMinute}</>	<lightgrey12reg>희귀도: </><orange12reg>{rare}</>\n<lightgrey12reg>모든 생물권의 호수나 바다와 같은 수역에서 발견될 수 있습니다. </>\n<lightgrey12reg>참고: 이 리소스는 지면에서도 추출할 수 있습니다. (자원정)</>\n\n<orange16reg>추출 정보:</>\n<lightgrey12reg>물 추출기를 사용한 기본 추출: </><orange12reg>{perminute}</>
-EE47F45B46DAF86C6E467997AF276461	<LightGrey12Reg>Availability on the planet: </><Orange12Reg>{Rare}</>\n<LightGrey12Reg>{Where}</>	<lightgrey12reg>희귀도: </><orange12reg>{rare}</>\n<lightgrey12reg>{where}</>
-B8BF302D43E21675A47C1DA05745A239	<LightGrey12Reg>Availability on the planet: </><Orange12Reg>{Rare}</>\n<LightGrey12Reg>{Where}</>\n\n<Orange16Reg>Extractor Informations:</>\n<LightGrey12Reg>Can used to produce Power</>	<lightgrey12reg>희귀도: </><orange12reg>{rare}</>\n<lightgrey12reg>{where}</>\n\n<orange16reg>추출 정보:</>\n<lightgrey12reg>전력 생산에 사용할 수 있습니다</>
-024F60EF41645CDFFA51CAB06192B6C9	<LightGrey12Reg>Availability on the planet: </><Orange12Reg>{Rare}</>\n<LightGrey12Reg>{Where}</>\n\n<Orange16Reg>Extractor Informations:</>\n<LightGrey12Reg>Default extraction with Extractor: </><Orange12Reg>{PerMinute}</>	<lightgrey12reg>희귀도: </><orange12reg>{rare}</>\n<lightgrey12reg>{where}</>\n\n<orange16reg>추출 정보:</>\n<lightgrey12reg>채굴기를 이용한 기본 추출: </><orange12reg>{perminute}</>
-4CD77C564B614330B64D3597CF12D586	<LightGrey12Reg>Availability on the planet: </><Orange12Reg>{Rarity}</>\n<LightGrey12Reg>{found}</>\n\n<Orange16Reg>Miner Informations:</>\n<LightGrey12Reg>Extraction with Mk.1 Drill Head and Normal purity: </><Orange12Reg>2x30/min</>\n<LightGrey12Reg>Min Miner Tier: </><Orange12Reg>{MTier}</>\n<LightGrey12Reg>Needed Modules: </><Orange12Reg>{MNeedModule}</>\n<LightGrey12Reg>Allowed Producer: </><Orange12Reg>{MProducer}</>\n<LightGrey12Reg>Allowed Fluids: </><Orange12Reg>{MFluids}</>	<lightgrey12reg>희귀도: </><orange12reg>{rarity}</>\n<lightgrey12reg>{found}</>\n\n<orange16reg>채광 정보:</>\n<lightgrey12reg>Mk.1 드릴 헤드 및 보통 순도로 추출: </><orange12reg>2x30/분</>\n<lightgrey12reg>필요 채굴기 티어: </><orange12reg>{mtier}</>\n<lightgrey12reg>필요한 모듈: </><orange12reg>{mneedmodule}</>\n<lightgrey12reg>허용된 제작소: </><orange12reg>{mproducer}</>\n<lightgrey12reg>허용되는 유체: </><orange12reg>{mfluids}</>
+BDFC32A44E226628BF212CB72F2CC730	<LightGrey12Reg>Availability on the planet: </><Orange12Reg>{Rare}</>\n<LightGrey12Reg>Can be found in every biome. In bodies of water such as lakes or oceans.</>\n<LightGrey12Reg>Note: this resource can also be extracted from the ground. (Resource Wells)</>\n\n<Orange16Reg>Extractor Informations:</>\n<LightGrey12Reg>Default extraction with Water Extractor: </><Orange12Reg>{PerMinute}</>	<lightgrey12reg>희귀도: </><orange12reg>{rare}</>\n<lightgrey12reg>모든 생물권의 호수나 바다와 같은 수역에서 발견될 수 있습니다. </>\n<lightgrey12reg>참고: 이 리소스는 지면에서도 추출할 수 있습니다. (자원정)</>\n\n<orange16reg>추출 정보:</>\n<lightgrey12reg>물 추출기를 사용한 기본 추출: </><orange12reg>{perminute}</>
+EE47F45B46DAF86C6E467997AF276461	<LightGrey12Reg>Availability on the planet: </><Orange12Reg>{Rare}</>\n<LightGrey12Reg>{Where}</>	<lightgrey12reg>희귀도: </><orange12reg>{rare}</>\n<lightgrey12reg>{where}</>
+B8BF302D43E21675A47C1DA05745A239	<LightGrey12Reg>Availability on the planet: </><Orange12Reg>{Rare}</>\n<LightGrey12Reg>{Where}</>\n\n<Orange16Reg>Extractor Informations:</>\n<LightGrey12Reg>Can used to produce Power</>	<lightgrey12reg>희귀도: </><orange12reg>{rare}</>\n<lightgrey12reg>{where}</>\n\n<orange16reg>추출 정보:</>\n<lightgrey12reg>전력 생산에 사용할 수 있습니다</>
+024F60EF41645CDFFA51CAB06192B6C9	<LightGrey12Reg>Availability on the planet: </><Orange12Reg>{Rare}</>\n<LightGrey12Reg>{Where}</>\n\n<Orange16Reg>Extractor Informations:</>\n<LightGrey12Reg>Default extraction with Extractor: </><Orange12Reg>{PerMinute}</>	<lightgrey12reg>희귀도: </><orange12reg>{rare}</>\n<lightgrey12reg>{where}</>\n\n<orange16reg>추출 정보:</>\n<lightgrey12reg>채굴기를 이용한 기본 추출: </><orange12reg>{perminute}</>
+4CD77C564B614330B64D3597CF12D586	<LightGrey12Reg>Availability on the planet: </><Orange12Reg>{Rarity}</>\n<LightGrey12Reg>{found}</>\n\n<Orange16Reg>Miner Informations:</>\n<LightGrey12Reg>Extraction with Mk.1 Drill Head and Normal purity: </><Orange12Reg>2x30/min</>\n<LightGrey12Reg>Min Miner Tier: </><Orange12Reg>{MTier}</>\n<LightGrey12Reg>Needed Modules: </><Orange12Reg>{MNeedModule}</>\n<LightGrey12Reg>Allowed Producer: </><Orange12Reg>{MProducer}</>\n<LightGrey12Reg>Allowed Fluids: </><Orange12Reg>{MFluids}</>	<lightgrey12reg>희귀도: </><orange12reg>{rarity}</>\n<lightgrey12reg>{found}</>\n\n<orange16reg>채광 정보:</>\n<lightgrey12reg>Mk.1 드릴 헤드 및 보통 순도로 추출: </><orange12reg>2x30/분</>\n<lightgrey12reg>필요 채굴기 티어: </><orange12reg>{mtier}</>\n<lightgrey12reg>필요한 모듈: </><orange12reg>{mneedmodule}</>\n<lightgrey12reg>허용된 제작소: </><orange12reg>{mproducer}</>\n<lightgrey12reg>허용되는 유체: </><orange12reg>{mfluids}</>
 8F776979451B4042CB09469BAD24825E	<White10Reg>Production Multiplier: </>	<white10reg>제작 배율: </>
 9DC614D1491DA31A05BF06A6EED612DE	A golden future	황금빛 미래
 E5943C7D459D94F15E1756A692B3BABC	A.I Limiter	인공지능 진폭 제한 회로터
@@ -76,7 +76,7 @@ C306302142B1BBAD8C237B9C02B2A0FD	Build Gun Upgrade: Blueprints	빌드 건 업그
 391CFA1440E5CAC680E8A2A14DDB662F	Build Gun Upgrade: Customizer	빌드 건 업그레이드: 커스터마이저
 A1AD650747A0D6DECC77BBBEF1BD2353	Build the HUB	허브 구축
 EF55187F45D42426D84370ACC767DF59	Bullet Guidance System	총알 유도 시스템
-F1457AD8430B45121E18E28D58496A4B	Can be placed on a boiler platform to turn water into steam….but better.\n\nNote:this boiler does not run effectively at 500°C. it needs at least 750°C!	물을 증기로 전환하기 위해 보일러 플랫폼에 배치할 수 있습니다.하지만 더 낫습니다.\n\n참고: 이 보일러는 500°C에서 효과적으로 작동하지 않습니다.  적어도 750°C를 필요로 합니다!
+F1457AD8430B45121E18E28D58496A4B	Can be placed on a boiler platform to turn water into steam….but better.\n\nNote:this boiler does not run effectively at 500°C. it needs at least 750°C!	물을 증기로 전환하기 위해 보일러 플랫폼에 배치할 수 있습니다.하지만 더 낫습니다.\n\n참고: 이 보일러는 500°C에서 효과적으로 작동하지 않습니다.  적어도 750°C를 필요로 합니다!
 D9154DEA45481ABE52751896064E62DE	Carrot	당근
 FE10D3AE4F6522C74DD5058F0153DBF3	Casted Copper Parts	주조 구리 부품
 50500EBC4831008AD46B40AE71DA794F	Casted Iron Parts	주철 부품
@@ -119,7 +119,7 @@ B085EF864CD9DC32B0F53BAA092E8E3A	Crushed Stone Dust	분쇄된 돌가루
 94B6E32D4AF13915C22717B5C4939005	DNA Reseaching	DNA 연구
 AE5A7C8D4A78971B6859FFB538329906	DNA Reseaching	DNA 연구
 4D0958FE403B21C666890A86523D8F2A	Data has shown this 'element' to simply be an unusual mixture of primarily sulfide and sulfate minerals from which Sulfur might be extraced. The properties of Sulfur would allow for the production of more... volatile self-defense applications.	데이터는 이 '원소'가 주로 황화물과 황산염 광물로 이루어진, 유황을 추출할 수 있는 특이한 혼합물임을 보여주었습니다. 유황의 속성은 더 많은... 불안정한 자기 방어 응용 프로그램의 생산을 허용합니다.
-EC5E54B74CD6F1E86896F7BE2E9CC976	Default extraction rate: 60m³ water per minute.\nHead Lift: 10 meters.\n(Allows fluids to be transported 10 meters upwards.)\n\nExtracts water from the body of water it is built on.\nNote that the water needs to be deep enough and that rivers do not commonly suffice.	기본 추출 속도: 분당 60m³ 물.\n헤드 리프트: 10미터.\n(액체를 10m 위로 운반할 수 있습니다.)\n\n물이 형성된 본체에서 물을 추출합니다.\n충분히 깊은 지역에 설치해야 하며, 일반적인 강으로는 충분하지 않습니다.
+EC5E54B74CD6F1E86896F7BE2E9CC976	Default extraction rate: 60m³ water per minute.\nHead Lift: 10 meters.\n(Allows fluids to be transported 10 meters upwards.)\n\nExtracts water from the body of water it is built on.\nNote that the water needs to be deep enough and that rivers do not commonly suffice.	기본 추출 속도: 분당 60m³ 물.\n헤드 리프트: 10미터.\n(액체를 10m 위로 운반할 수 있습니다.)\n\n물이 형성된 본체에서 물을 추출합니다.\n충분히 깊은 지역에 설치해야 하며, 일반적인 강으로는 충분하지 않습니다.
 74709ED142E467823AD94D89CCC068C3	Destruction of Nature	자연 파괴
 3928AF844A4D007ADD1A2492641EEE8A	Desulfurization 	탈황 
 153A7EDF4E9AE4070900C7941143D107	Diamond Extraction	다이아몬드 추출
@@ -129,7 +129,7 @@ EC5E54B74CD6F1E86896F7BE2E9CC976	Default extraction rate: 60m³ water per minute
 089F1B9443B5278E1AE321A1036EBBE4	Dirt Crops	흙으로 만든 농작물
 509872C24B1FD099BDB7C799CA5D42DA	Dirty	더러움
 4E19BE1D4E2481D28E8F32ABC63CA3C2	Doggo Love	도고 러브
-3916399C47021F2707FDA191A44936A3	Don't load old save games that didn't \nhave SatisfactoryPlus mod installed	Satisfactory Plus 모드가 설치되지 않은 \n기존 저장 파일을 로드하지 말아주세요
+3916399C47021F2707FDA191A44936A3	Don't load old save games that didn't \nhave SatisfactoryPlus mod installed	Satisfactory Plus 모드가 설치되지 않은 \n기존 저장 파일을 로드하지 말아주세요
 C88F8C5B4B0099E777DA55B159E3F3E8	Elevator	엘레베이터
 6CE57771400446DCEDCF808DB83E99FC	Enable push rule	푸시 규칙 사용
 3927E3D24C931C8FF810F3B98A73A8BC	Enriched Apple	농축된 사과
@@ -159,7 +159,7 @@ B8611D8F4D657B570927A2A92D8CFE43	Farming Platform Mk1	농사 플랫폼 Mk1
 B8CF5626407B818BFF8EF9BEBED81702	Farming Platform Mk1	농사 플랫폼 Mk1
 A37A16974FB51A660803E1A6E16D37B5	Farming Platform Mk2	농사 플랫폼 Mk2
 6E1044044F5EDCA92379EC910B2CB6F8	Farming Platform Mk2	농사 플랫폼 Mk2
-57746DD143F8458A7A49588D3C673133	Farming Platform can house different type of Plots.\n\nthese can be used to farm and automate crops.	Farming Platform can house different type of Plots.\n\nthese can be used to farm and automate crops.
+57746DD143F8458A7A49588D3C673133	Farming Platform can house different type of Plots.\n\nthese can be used to farm and automate crops.	Farming Platform can house different type of Plots.\n\nthese can be used to farm and automate crops.
 966FB3C74F848A22D636E0839F54D018	Fertilised Apple	비옥한 사과
 79E6557B431FFCE73CAFEB8926FAB6EE	Fertilized Banana	비옥한 바나나
 EDFD57B7488A99E55F886D851F2CE911	Fertilized Carrots	비옥한 당근
@@ -193,7 +193,7 @@ E9F73F954C2F5E8746A47EAA9D3CC6D0	Further instructions on how to use the Build Me
 CF5FE4BD4C99ED8D1DC779993BFCFD10	Gas Mask	방독면
 7A6BF63E4F3EE551B95DC499E9D24022	Generates 150MW of power.	150MW의 전력을 생성합니다.
 BF27B71D474ACCAF22B37D93A2858203	Generates 400MW of power.	400MW의 전력을 생성합니다.
-280CC8634D1047D4F1F814992C854267	Generates up to {0}MW during the day!\n\nHas a higher efficiency due to if its sun tracking solar panel, that brings the efficiency up to 69%.\n\nBigger solar panels can also produce power at night.\n\nSome Renewable power from the binary star system of Akycha!	낮에 최대 {0}MW를 생성합니다!\n\n태양 추적 태양 전지판을 사용하면 효율이 69%까지 향상되기 때문에 효율이 높습니다.\n\n더 큰 태양 전지판은 또한 밤에 전력을 생산할 수 있습니다.\n\n아키차 쌍성계의 재생 가능한 전력!
+280CC8634D1047D4F1F814992C854267	Generates up to {0}MW during the day!\n\nHas a higher efficiency due to if its sun tracking solar panel, that brings the efficiency up to 69%.\n\nBigger solar panels can also produce power at night.\n\nSome Renewable power from the binary star system of Akycha!	낮에 최대 {0}MW를 생성합니다!\n\n태양 추적 태양 전지판을 사용하면 효율이 69%까지 향상되기 때문에 효율이 높습니다.\n\n더 큰 태양 전지판은 또한 밤에 전력을 생산할 수 있습니다.\n\n아키차 쌍성계의 재생 가능한 전력!
 3558E2274BBCA3AA3055708830CCDC7A	Geothermal Generator	지열 발전기
 B7275B7F44414C0A15EBE0A65F739EDB	Glass Walls	유리벽
 809125104184A06AF1327DBA02B57EC5	Good night Slugs!	잘 자요, 민달팽이들!
@@ -224,9 +224,9 @@ C7736A444969F528F6A26387A97DBC8B	Industrial Manufacturing	산업 제조업
 C4037E774B6DB1A8EF3875A80BCF42CB	Instant Wires	인스턴트 와이어
 2D7D9C1E415D6CADFB917EB64C478C95	Invert Stackable Hyper Support	반전된 스택 가능한 하이퍼 지원
 C4760D634BAAC8746CCFEAA89EAECCDC	Invert Stackable Pipe Support	반전된 스택형 파이프 지지대
-D7569C8F44E43BE28E6EBFAE04927231	It's a jar of dirt..\n\ncan be extracted into different seeds:\n- Flower\n- Apple\n- Mycelia\n- Cotton	it's a jar of 흙..\n\n다양한 씨앗을 추출할 수 있습니다:\n- 꽃\n- 사과\n- 균사\n- 면
-D6E7095846E1FC9BDAFD6BA597DB86CA	It's a jar of dirt..\n\ncan be extracted into different seeds:\n- Yosse\n- Banana\n- Pumpkin	it's a jar of 흙..\n\n다양한 씨앗을 추출할 수 있습니다:\n- 요세\n- 바나나\n- 호박
-8FD0E3074AEB7A30D186A09C94FBA865	It's a jar of dirt.. \n\ncan be extracted into different seeds:\n- Carrot\n- Corn\n- Potato\n- Wheat	it's a jar of 흙.. \n\n다양한 씨앗을 추출할 수 있습니다:\n- 당근\n- 옥수수\n- 감자\n- 밀
+D7569C8F44E43BE28E6EBFAE04927231	It's a jar of dirt..\n\ncan be extracted into different seeds:\n- Flower\n- Apple\n- Mycelia\n- Cotton	it's a jar of 흙..\n\n다양한 씨앗을 추출할 수 있습니다:\n- 꽃\n- 사과\n- 균사\n- 면
+D6E7095846E1FC9BDAFD6BA597DB86CA	It's a jar of dirt..\n\ncan be extracted into different seeds:\n- Yosse\n- Banana\n- Pumpkin	it's a jar of 흙..\n\n다양한 씨앗을 추출할 수 있습니다:\n- 요세\n- 바나나\n- 호박
+8FD0E3074AEB7A30D186A09C94FBA865	It's a jar of dirt.. \n\ncan be extracted into different seeds:\n- Carrot\n- Corn\n- Potato\n- Wheat	it's a jar of 흙.. \n\n다양한 씨앗을 추출할 수 있습니다:\n- 당근\n- 옥수수\n- 감자\n- 밀
 5408331A4D915047B81994B9229AB2AF	Item Storage Mk.1	아이템 보관함 Mk.1
 B411E18C4F6D681AEE81B7B4F725CE3B	Item Storage Mk.2	아이템 보관함 Mk.2
 F111C4F343205F65F9AFFDB7F4D91C47	Item Storage Mk.3	아이템 보관함 Mk.3
@@ -255,7 +255,7 @@ D1DED66C423F53D56CEE29BE1DC1D09D	Mixed Stritarite	혼합된 스티라타이트
 98CB06974DF8E4E40B73458A81878054	Modular Miner	모듈식 채굴기
 EBD693DE40EA6101C88D64BD8FD11536	Molten Metals	금속 용융
 087BCBBA45303EADF320449E7FFE2E16	Monorail Train Technology	모노레일 기술
-8D95E07C4EE515732343DA90C3E99F92	More Network Cables	추가 네트워크 케이블
+8D95E07C4EE515732343DA90C3E99F92	More Network Cables	네트워크 케이블 추가
 5D416825425C5DF353E21CAB3413A5AE	Muffins	머핀
 A66977F34E820F46D40966B0E74810CE	Mycelia	균사
 04FB1F47418136E48DF88F92E550284B	Mycelia	균사
@@ -271,7 +271,7 @@ B64CA75C41346051BB3090A73A79EFFD	Oil Refining	석유 정제
 C14B79E04762A0892561E090FDA3C78E	Open Inagme Wiki	인게임 위키 열기
 2B49A2F34217A2A83FA182A5BBAB5249	Ore Sorting	광석 분류
 E4B458D0482921E7FD88AD9917EC3B26	Our scans have shown that there is a metal on this planet that comes very close to gold. 	우리가 스캔한 결과 이 행성에는 금에 매우 가까운 금속이 존재하는 것으로 나타났습니다. 
-D4AF21F442DB73E2B17B98B153D6F885	Outside indicators show volume, flow rate and direction.\nTransports up to {permin}m³ of fluid per minute.\nUsed to transport fluids.	외부 표시기는 부피, 유량 및 방향을 나타냅니다.\n분당 최대 {permin}m³의 유체를 운반합니다.\n유체를 운반하는 데 사용됩니다.
+D4AF21F442DB73E2B17B98B153D6F885	Outside indicators show volume, flow rate and direction.\nTransports up to {permin}m³ of fluid per minute.\nUsed to transport fluids.	외부 표시기는 부피, 유량 및 방향을 나타냅니다.\n분당 최대 {permin}m³의 유체를 운반합니다.\n유체를 운반하는 데 사용됩니다.
 6AB71E894696739207E01E830FDF1570	Overclocking	오버클럭
 4EBA881943EF6A9B6A54C7911BC9E71C	Parachute	낙하산
 A47874464B6244ADCAE37BB37FE12F4E	Peat Soil	이탄 토양
@@ -362,7 +362,7 @@ C2887CCE472037B4F4D154A0CE20E5B8	Sulfur Extraction	황 추출
 98F50DD542F330357D258F8419E1D68A	Supercomputer	슈퍼컴퓨터
 FED5A98F4A9685BA67754FAC3B084D94	Synthetic Paint Color	합성 페인트 색
 C78150BD4364F0A3AECB83A53001BCCC	T1: Sorted Cryolit Salt	T1: 선별된 빙정석 소금
-5AB28AD0432511DCA43773AFB3F5CB25	T1: Sorted Cryolit Silica	T1: 선별된 빙정석 실리카
+5AB28AD0432511DCA43773AFB3F5CB25	T1: Sorted Cryolit Silica	T1: 선별된 빙정석 이산화규소
 ACA2245945B62DDC3E5CEFA4650A6E53	T1: Sorted Rubyte	T1: 선별된 루바이트
 3429BAFF4E827952B79CE6B355C43B63	T1: Sorted Saphirite	T1: 선별된 사피라이트
 D0E2AE6C47793E2B1A94AFBD928E6338	T1: Sorted Satmonium	T1: 선별된 사트모늄
@@ -404,12 +404,12 @@ E1EBD8CD41A143901CE80E8F6F5E0F40	Turbo Fuel	터보 연료
 760AC5154F709E49BC914EBF36EB0246	Turbo Rifle Ammo	터보 소총 탄약
 8324C29C4AB7F5C78815EDB2759A2138	Unknown Chemical Element	알 수 없는 화학 원소
 23C6262240E868EC39622FA033BDA359	Unknown Crystalline Mineral	알 수 없는 크리스탈 자원
-1B47484C49BCA2A5C0DD38B0BC72E199	Unknown Time Crystalline Mineral	알 수 없는  타임 크리스탈 자원
-1E65629C4B831D33782ECE9676D6216E	Unlock a new network tier	새 네트워크 계층 잠금 해제
-86457B7E4FB4D0A886FE45B51AFE54F4	Unlocked a new recipe in the Fluid Conditioner 	유체 조절기에서 새 제작법 잠금 해제 
+1B47484C49BCA2A5C0DD38B0BC72E199	Unknown Time Crystalline Mineral	알 수 없는 타임 크리스탈 자원
+1E65629C4B831D33782ECE9676D6216E	Unlock a new network tier	새 네트워크 티어 잠금 해제
+86457B7E4FB4D0A886FE45B51AFE54F4	Unlocked a new recipe in the Fluid Conditioner 	유체 여과기에서 새 제작법 잠금 해제 
 1EFC37944096DC50654FBDA6C9B6E84E	Used to burn any type of gas fuel to be turned into heat and also makes a waste product of carbon dioxide that needs to be vented out or used in recipes.	모든 종류의 가스 연료를 연소하여 열로 전환하고 배출하거나 제작에 사용되는 이산화탄소 폐기물을 만듭니다.
-B24C0BDB42F7C4684B57B393A4E69EC2	Used to disperse Gasses into the atmosphere.\n\nCarbon Dioxide\nAir and Toxic Air\nMethane	가스를 대기 중으로 분산시키는 데 사용됩니다.\n\n이산화탄소\n공기와 유독성 공기\n메탄
-C0B25F1D4D3FFF764D1039A9695F889E	Used to disperse Steam types into the atmosphere.\n\nHot Steam\nSteam	증기를 대기 중으로 분산시키는 데 사용됩니다.\n\n뜨거운 증기\n스팀
+B24C0BDB42F7C4684B57B393A4E69EC2	Used to disperse Gasses into the atmosphere.\n\nCarbon Dioxide\nAir and Toxic Air\nMethane	가스를 대기 중으로 분산시키는 데 사용됩니다.\n\n이산화탄소\n공기와 유독성 공기\n메탄
+C0B25F1D4D3FFF764D1039A9695F889E	Used to disperse Steam types into the atmosphere.\n\nHot Steam\nSteam	증기를 대기 중으로 분산시키는 데 사용됩니다.\n\n뜨거운 증기\n스팀
 88C1CA9349B501805B0CC6894A7DDF8F	Welcome to SF+ the unique total conversion mod! 	고유한 재구성 모드  SF+에 오신 것을 환영합니다.
 F833489F4A85C5BF63E705AA09DC34DB	Welcome to Satisfactory Plus!	Satisfactory Plus에 오신 것을 환영합니다!
 FACD46D34A369CD5B97993B451C3DE71	Wheat	밀
