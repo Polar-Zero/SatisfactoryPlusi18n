@@ -4,11 +4,7 @@ BDE2E6C6429FEDA81040A1B25241961F	A adapter for different connections in a networ
 33D6CEBC47ED9B1D2A64E38F8A532DAE	A product that is created when oil is distilled	원유가 증류될 때 생성되는 제품
 73876663427B75C1E9AC58AE2D6608AD	A product that is created when refine hydrocarbons and is used to manufacture plastics and rubber	탄화수소를 정제할 때 생성되는 제품으로 플라스틱과 고무를 제조하는 데 사용됩니다
 F037997D407E43B429D711BFBF38117A	A sack full of finely crushed powdered coal. Perfect for making gunpowder.	잘게 부순 가루 탄이 가득 든 자루. 화약 제조에 완벽합니다.
-B84556B740DAF01A0F3FDD99AA0017C8	A solid and highly compressed form of the element carbon. This material is extremely hard and cannot sink.
-
-is used, for example, for advanced drilling heads.	a solid and highly compressed form of the element carbon. this material is extremely hard and cannot sink.
-
-is used, for example, for advanced 드릴ing heads.
+B84556B740DAF01A0F3FDD99AA0017C8	A solid and highly compressed form of the element carbon. This material is extremely hard and cannot sink.\n\nis used, for example, for advanced drilling heads.	a solid and highly compressed form of the element carbon. this material is extremely hard and cannot sink.\n\nis used, for example, for advanced 드릴ing heads.
 5C4EB7F34F75221C61154D81D8CB00EC	A special crystal cannot lose energy. Perfect to make a good computing system out of it. Is very unstable...	특별한 결정체는 에너지를 잃을 수 없습니다. 그것으로 좋은 컴퓨터 시스템을 만들기에 완벽합니다. 매우 불안정한...
 2EEA2A0E46CEF25B630CECACFEC4C729	A waste product from the burning of various things	각종 연소로 인한 폐기물
 750CC58242B93E6C41CA608A4F13CA92	A waste product that contains trace amounts of iron, magnesium and tin.	철분, 마그네슘, 주석이 미량 함유된 폐기물.
@@ -38,12 +34,8 @@ D326DCB54C2334997CBEA5AC6A693425	Breakfast Snail Food	아침 슬러그 음식
 666625CD47BE6343E5DDCBA76D75B737	Bronze Pipes	청동 파이프
 433F13B64C8B0430F5EC0CB031EAD6FB	Bronze Plates	청동 판
 415422B7429106F66805C3BD2D8B72B5	Bronze Rod	청동 봉
-B926A4BF4F13A9EA54E0838253E48548	Cannot found a Nexus
-or is not powered / cooled	Nexus를 찾을 수 없거나
-전원이 공급/냉각되지 않음
-562444554F7EC9013237D4976B634069	Cannot found a Nexus
-or is not powered / cooled	Nexus를 찾을 수 없거나
-전원이 공급/냉각되지 않음
+B926A4BF4F13A9EA54E0838253E48548	Cannot found a Nexus\nor is not powered / cooled	Nexus를 찾을 수 없거나\n전원이 공급/냉각되지 않음
+562444554F7EC9013237D4976B634069	Cannot found a Nexus\nor is not powered / cooled	Nexus를 찾을 수 없거나\n전원이 공급/냉각되지 않음
 0AA37BF543414F6E32B832A598C7F36C	Carbon Dioxide	이산화탄소
 154044124B4F7A863D50108F61732B5B	Carbon Dioxide, packaged for alternative transport.	대체 수송을 위해 포장된 이산화탄소.
 0C8F35974AF55B347B7F3B8DE0C4BC8C	Carbon Dust	탄소 가루
@@ -53,11 +45,7 @@ or is not powered / cooled	Nexus를 찾을 수 없거나
 7E1E624C40A5EA003634D383B27E3347	Caterium Sheet	카테리움 박판
 283602C4426576B1077AD88297962BAB	Caustic Soda 	가성 소다 
 FC0D7B1542A0F0D6B92ACF908F5D7536	Caustic Soda , packaged for alternative transport.	대체 수송을 위해 포장된 가성 소다.
-6F8223524461B546FE2F6D9F94BE6708	Caustic soda is mainly used in aluminum production. 
-
-Warning: very HOT!	가성 소다 is mainly used in aluminum production. 
-
-warning: very 뜨거운!
+6F8223524461B546FE2F6D9F94BE6708	Caustic soda is mainly used in aluminum production. \n\nWarning: very HOT!	가성 소다 is mainly used in aluminum production. \n\nwarning: very 뜨거운!
 6EDAD6D24ADC960209B679999624E113	Chest	상자
 6D95D1284CC8C5C326C83CB56CD694F4	Chlorine	염소
 6F0C7B1D4B5D632CBB9814AEABE80C78	Chlorine, packaged for alternative transport.	대체 수송을 위해 포장된 염소.
@@ -75,11 +63,7 @@ C697F84E4AAB87353EB57787DC4AA598	Cold	냉각
 B1D9DAD2445D862BC902B89FD1BC8F24	Collectors in Range: 	수집기 범위: 
 A5E50DBD4B30F7D53B2F7CA383F99AF2	Commonly used to surface roads and building parts.	일반적으로 도로 및 건물 부품을 표면화하는 데 사용됩니다.
 BFCFB7CE435E5959E19C71BFD044C99D	Compact Biomass	압축 바이오매스
-C196D8A74192BB408D5875836210EE3A	Compact Biomass to Burn in the Biomass Heater.
-
-Can not use in the Biomass Burner!	바이오매스 가열기에서 사용 가능한 압축 바이오매스.
-
-바이오매스 버너에서는 사용할 수 없습니다!
+C196D8A74192BB408D5875836210EE3A	Compact Biomass to Burn in the Biomass Heater.\n\nCan not use in the Biomass Burner!	바이오매스 가열기에서 사용 가능한 압축 바이오매스.\n\n바이오매스 버너에서는 사용할 수 없습니다!
 FBE94CB04B0EC665C216F5A7BE79DB03	Conveyor Belt	컨베이어 벨트
 3EB66F2E44FF2801DBBDB2A47ED6DA40	Coolant	냉각수
 CA0F599F437F18E169FC97BE614BD274	Cooling Water, packaged for alternative transport.	대체 수송을 위해 포장된 냉각수.
@@ -175,9 +159,7 @@ C49A16814469F77227B7D29D05B8CE1C	Hot	뜨거운
 AEAC5D2E46FA0AD21407C491B22B0AF3	Hot Steam	뜨거운 증기
 07D41BD1450EB47FE2AEA28637A7D85A	Hot Steam, packaged for alternative transport.	대체 수송을 위해 포장된 뜨거운 증기.
 4055F7414B9822E363A6CD9E49F19EE6	Humidity	습도
-24F399974C0700B1AB79B5A4DED2AC2E	Humidity
-{value}%	습도
-{value}%
+24F399974C0700B1AB79B5A4DED2AC2E	Humidity\n{value}%	습도\n{value}%
 A18D9FCF42405256A5C183804578B797	Humidity:	습도:
 8525D1CD4647605362C440943EE2B351	Humidity:	습도:
 896F4B6F41668E1F174E44BBD1275AE6	Humidity: {TEMP}%	습도: {TEMP}%
@@ -193,13 +175,7 @@ D5B553144D9EEA2E1817DDB5DF0EEA9D	Hydrogen Gas can used to make a Fuel for the Ga
 D5778CE4435ED7D261E53DB699EBF86F	I think we should adjust the temperature better... 	온도를 더 잘 조절해야 할 것 같아요... 
 2A54F0BC47054A43CD55BC84748B9003	IMPURE	순도 낮음
 5EC971A44BAEFC63FD861EA3683533E7	INSERT FILTER	필터 삽입
-D13F8BEA44B46CC3C0E501804D9F2FC4	Increase the item capacity by {Bytes} Ficsit Bytes
-Total: {Value} {Suffix}
-
-increases power consumption by {Consume} MW	Increase the item capacity by {Bytes} Ficsit Bytes
-Total: {Value} {Suffix}
-
-increases power consumption by {Consume} MW
+D13F8BEA44B46CC3C0E501804D9F2FC4	Increase the item capacity by {Bytes} Ficsit Bytes\nTotal: {Value} {Suffix}\n\nincreases power consumption by {Consume} MW	Increase the item capacity by {Bytes} Ficsit Bytes\nTotal: {Value} {Suffix}\n\nincreases power consumption by {Consume} MW
 4C5DBD3A4B1CB8D9F067A6A200D96B3F	Incubator	부화기
 26CF2B3D46ACFF8B950B78A5B76B4644	Incubator Tier:	부화기 티어:
 4ECE2B5740DFE52C2C6D0CB0D926EFDB	Invar Ingot	인바 주괴
@@ -230,24 +206,14 @@ C3B3FF964B0F2DD5C80753ACBE377CE8	Lead Plates	납판
 6046AE4543D1574070B10E81F0A2A03F	Lime Dust	라임 더스트
 5A980280495861B2D2D5ABB2F52D7AB4	Lime Slug	라임슬러그
 C71A42F8450F546004E0CD90EA54A137	Lime Slug Egg	라임 슬러그 알
-FFC02D534B4868A7E227298AD2D22CA4	Lime dust is used for many things! Examples include fertilisers, clarification processes, containment of harmful gases, steel manufacture, plastics/rubbers, paints and concrete. 
-
-A really important thing.	라임 더스트 is used for many things! examples include fertilisers, clarification processes, containment of harmful 가스es, steel manufacture, plastics/rubbers, 페인트s and concrete. 
-
-a really important thing.
+FFC02D534B4868A7E227298AD2D22CA4	Lime dust is used for many things! Examples include fertilisers, clarification processes, containment of harmful gases, steel manufacture, plastics/rubbers, paints and concrete. \n\nA really important thing.	라임 더스트 is used for many things! examples include fertilisers, clarification processes, containment of harmful 가스es, steel manufacture, plastics/rubbers, 페인트s and concrete. \n\na really important thing.
 5E0A6D6342908C4EC18A73A837D838AB	Low Energized Slug Slime	낮은 에너지의 슬러그 슬라임
 170F2F2148E89DFF7E1C61A6CBE5E38C	MAX	맥스.
 249966D94F57BA99E8689DA058FCD30B	Magnesium Granules	마그네슘 과립
 5A16252449C0CAD9E5AB08893A0FC7F5	Magnesium Ingot	마그네슘 주괴
 0B6E54234B60C386F33334858C4CE71F	Magnesium Plates	마그네슘 판
-5E5F1E504E5459C7E3DA15901FFE5635	Mainly used for conducting electricity. 
-Good use for buildings that produce a lot of electricity or consume large amounts. 	mainly used for conduc주석g electricity. 
-good use for buildings that produce a lot of electricity or consume large amounts. 
-973AC9424BF4C62A81C24B976D85971D	Mainly used in the Gas Generator to make Power
-
-Can burn in the Gas Generator	mainly used in the 가스 generator to make power
-
-can burn in the 가스 generator
+5E5F1E504E5459C7E3DA15901FFE5635	Mainly used for conducting electricity. \nGood use for buildings that produce a lot of electricity or consume large amounts. 	mainly used for conduc주석g electricity. \ngood use for buildings that produce a lot of electricity or consume large amounts. 
+973AC9424BF4C62A81C24B976D85971D	Mainly used in the Gas Generator to make Power\n\nCan burn in the Gas Generator	mainly used in the 가스 generator to make power\n\ncan burn in the 가스 generator
 EA2D0F804D9D2C15BD1D2EBB6AD1E38D	Malus: 	말러스: 
 FFC90DC44104D82CA147F49CD0EF5604	Max Ficsit Byes : {Bytes} | Increse storage: {Increase}{suffix}	최대 Ficsit Byes: {Bytes} | 스토리지 증가: {Increase}{suffix}
 1D58C3954D0855CA6599839B578A3F80	Max Item Amount	최대 항목 금액
@@ -344,57 +310,11 @@ AB29EE9F4B2DF3A6545A249FE9CFBC71	One of the most basic parts from Titan.	티타�
 5764A21C46BE0C023FDAB4B9EBBA8E45	Open Storage Network	개방형 스토리지 네트워크
 DF85D8704DC8D8D2FD648EAB27E6C4A2	Orange Slug	오렌지 슬러그
 535A135943835ED7951BF6A3D2B9CA7E	Orange Slug Egg	오렌지 슬러그 알
-7C61041F47205DDD8395E69D17FA18CD	Ore that can be process to
-
-- Bauxite
-- Nickle
-- Lead	다음 광석으로 가공할 수 있습니다:
-
-- 보크사이트
-- 니켈
-- 납
-32F097394AFC26CAAC399F91CC988472	Ore that can be process to
-
-- Copper
-- Zinc
-- Lead
-- Iridium	다음 광석으로 가공할 수 있습니다:
-
-- 구리
-- 아연
-- 납
-- 이리듐
-C5677BD541A9F19F0F44048172E5C79B	Ore that can be process to
-
-- Gold
-- Copper
-- Platinum	다음 광석으로 가공할 수 있습니다:
-
-- 금
-- 구리
-- 백금
-F702E87749B9025240BFA89368DA46D4	Ore that can be process to
-
-- Iron
-- Magnesium
-- Cobalt
-- Rutile	다음 광석으로 가공할 수 있습니다:
-
-- 철
-- 마그네슘
-- 코발트
-- 금홍석
-CE4702464B7B556D389E76B70B80E361	Ore that can be process to
-
-- Tin
-- Lead
-- Nickle
-- Rutile	다음 광석으로 가공할 수 있습니다:
-
-- 주석
-- 납
-- 니켈
-- 금홍석
+7C61041F47205DDD8395E69D17FA18CD	Ore that can be process to\n\n- Bauxite\n- Nickle\n- Lead	다음 광석으로 가공할 수 있습니다:\n\n- 보크사이트\n- 니켈\n- 납
+32F097394AFC26CAAC399F91CC988472	Ore that can be process to\n\n- Copper\n- Zinc\n- Lead\n- Iridium	다음 광석으로 가공할 수 있습니다:\n\n- 구리\n- 아연\n- 납\n- 이리듐
+C5677BD541A9F19F0F44048172E5C79B	Ore that can be process to\n\n- Gold\n- Copper\n- Platinum	다음 광석으로 가공할 수 있습니다:\n\n- 금\n- 구리\n- 백금
+F702E87749B9025240BFA89368DA46D4	Ore that can be process to\n\n- Iron\n- Magnesium\n- Cobalt\n- Rutile	다음 광석으로 가공할 수 있습니다:\n\n- 철\n- 마그네슘\n- 코발트\n- 금홍석
+CE4702464B7B556D389E76B70B80E361	Ore that can be process to\n\n- Tin\n- Lead\n- Nickle\n- Rutile	다음 광석으로 가공할 수 있습니다:\n\n- 주석\n- 납\n- 니켈\n- 금홍석
 420892AC4F8A7562AB75BDB1C32776B0	Oxygen	산소
 361316514DA8984186F085B30BC70B4D	Oxygen, packaged for alternative transport.	대체 수송을 위해 포장된 산소.
 E9C910214AB1AB96382628A453DA4807	Oxyhydrogen	산소 수소
@@ -469,11 +389,7 @@ E2B5D93445FBDBEC200E10847FC96AD1	Power: {cur}/{max} MW	전원: {cur}/{맥스.} m
 B89D42F94335F1C00C0024AA39623EF0	Press [E] to Open Supply Box	[E]를 눌러 공급 상자를 엽니다
 CE4796774C2E3BC9D84E528EEC12C76B	Prod. Time: {time} sec	제품 시간: {시간을}초
 415D01B948C48F588451369FC6A37EF0	Productivity: {perc}%	생산성: {perc}%
-8797158642F2889839DB9690FE04F9D4	Project Part #10. Ship with the Space Elevator to complete Phases of Project Assembly.
-
-Power Management Relays are responsible for powering Project Assembly and managing it's vast demand of energy. They are a core part of it's power network.	Project Part #10. Ship with the Space Elevator to complete Phases of Project Assembly.
-
-Power Management Relays are responsible for powering Project Assembly and managing it's vast demand of energy. They are a core part of it's power network.
+8797158642F2889839DB9690FE04F9D4	Project Part #10. Ship with the Space Elevator to complete Phases of Project Assembly.\n\nPower Management Relays are responsible for powering Project Assembly and managing it's vast demand of energy. They are a core part of it's power network.	Project Part #10. Ship with the Space Elevator to complete Phases of Project Assembly.\n\nPower Management Relays are responsible for powering Project Assembly and managing it's vast demand of energy. They are a core part of it's power network.
 99604C65410399A1500590BB0460CEF2	Purified Caterium	정제된 카테리움
 D9FBA95E4841D991AA2805B695E0D1FD	Purified Cobalt	정제된 코발트
 1CA9ABEE4F4B5D4B05BE60BB41048784	Purified Copper	정제된 구리
@@ -550,9 +466,7 @@ AED6F62F4B5E635B6CA4B092A4A6050D	Teleport!	텔레포트!
 6AD7A4AF4C83E40473AB909398FA1C2A	Temp:	온도:
 98D042DF4A4BB532F3E537AB5C0E4F85	Temperature	온도
 853F99794C4D057DEA2550B81BC463BA	Temperature	온도
-ED948E3E49EEFAAF7FB2A8876FD25FA4	Temperature
-{value}°C	온도
-{value}°c
+ED948E3E49EEFAAF7FB2A8876FD25FA4	Temperature\n{value}°C	온도\n{value}°c
 E24981DD45BD156A1AC1E199DB12F887	Temperature:	온도:
 4659BEF5462D50ABE2E3E588B34E9927	Temperature: {TEMP}°C	온도: {temp}°c
 475720664230D7D47FFD27AF46B1F6D8	Thats Slime contains a high value of minerals that we can maybe extract!	슬라임은 우리가 추출할 수 있는 높은 가치의 미네랄을 함유하고 있습니다!
@@ -561,23 +475,11 @@ E24981DD45BD156A1AC1E199DB12F887	Temperature:	온도:
 08215C214DF17DA149FC2B8C1F87F954	The snails don't like each other! 	슬러그들은 서로를 좋아하지 않습니다! 
 5BBD78044A5F563A22A09E9C78D35EBB	This Cable is perfect to transfer a insane amount of data!	이 케이블은 엄청난 양의 데이터를 전송하기에 완벽합니다!
 DF2F97D44713E444C2D097A3E8EF668B	This Crystal is perfect for storage and teleport systems!	이 크리스탈은 저장 및 텔레포트 시스템에 완벽합니다!
-39ECEE3C40B8627254162BA90F1FF96E	This Teleporter can teleport peoples to a other location in the network.
-
-The teleport costs are based onf the distance between the teleporterts (not the cable distance)
-
-The items will automatic removed from tehe storage network.	this teleporter can teleport peoples to a other location in the network.
-
-the teleport costs are based onf the distance between the teleporterts (not the cable distance)
-
-the items will automatic removed from tehe 창고 네트워크.
+39ECEE3C40B8627254162BA90F1FF96E	This Teleporter can teleport peoples to a other location in the network.\n\nThe teleport costs are based onf the distance between the teleporterts (not the cable distance)\n\nThe items will automatic removed from tehe storage network.	this teleporter can teleport peoples to a other location in the network.\n\nthe teleport costs are based onf the distance between the teleporterts (not the cable distance)\n\nthe items will automatic removed from tehe 창고 네트워크.
 C34159AB4B990EB8968454B4A0B9ADB3	This coolant has been specially developed for the storage system. 	이 냉각수는 스토리지 시스템을 위해 특별히 개발되었습니다. 
 A96E8CA64286B89AA990BE885AE260D6	This frame can stabilize a Quantum Crystal.	이 프레임은 양자 결정을 안정시킬 수 있습니다.
 31008A6C49C719975C0621A1C850EED6	This processor can process gigantic amounts of data. This is mainly used for digitizing various objects.. as well as in storage systems.	이 프로세서는 엄청난 양의 데이터를 처리할 수 있습니다. 이것은 주로 다양한 객체를 디지털화하는 데 사용됩니다.. 스토리지 시스템에서도 마찬가지입니다.
-2D83D4FA4BB6868B50D8EAA5B96AE495	This server can be built into a server rack and increases the storage capacity of the network.
-
-To Increase the bytes in the network place Hard Drive in the server.	this server can be built into a 서버 랙 and increases the storage capacity of the network.
-
-to increase the bytes in the network place hard drive in the server.
+2D83D4FA4BB6868B50D8EAA5B96AE495	This server can be built into a server rack and increases the storage capacity of the network.\n\nTo Increase the bytes in the network place Hard Drive in the server.	this server can be built into a 서버 랙 and increases the storage capacity of the network.\n\nto increase the bytes in the network place hard drive in the server.
 D1D9AF4F45E72FC411A5D79FA4F11C11	This should be able to be used effectively to produce electricity!? let's try	이것은 전기를 생산하는 데 효과적으로 사용될 수 있어야 합니다!? 한번 해보지요
 47A2C4184135CCA963D1BDA921D1B2C1	This slime is just right to press a stable crystal out of it	이 슬라임은 그것에서 안정된 결정을 밀어내기에 딱 좋습니다
 E6E9C92B4FD83BA506310C8E1FEB4247	Time	시간을
@@ -685,23 +587,13 @@ F4055CEB4AC987703FE9CAAEC2E142B7	Unpackaging - Barrel	포장 풀기 - 배럴
 BD90E420482FB3063E84F38FCC1C5D81	Upgrade	업그레이드
 8332D6004FA2BEB81D13E8BBB484AC9F	Uranium Fuel	우라늄 연료
 229820804CB1FC95D51776BC6EFAC967	Used for Alumium process and other processes	알루미늄 공정 및 기타 공정에 사용
-C67C4B5E41172509B51D30BB0E613C59	Used for crafting.
-Crafted into parts and buildings.	제작에 사용됩니다.
-부품 및 건물 제작에 사용됩니다.
-C03F157C4B587D702CC41AB73990717F	Used for crafting.
-Multi-purpose building block.	제작에 사용됩니다.
-다목적 건설용 블록입니다.
-CF75F7E647849B0A05A9EB99D0E980D8	Used for crafting.
-Multi-purpose building block.	제작에 사용됩니다.
-다목적 건설용 블록입니다.
-9D3CC175496F5CFEA766C585C0C056AB	Used for crafting.
-One of the most basic parts.	제작에 사용됩니다.
-one of the most basic parts.
+C67C4B5E41172509B51D30BB0E613C59	Used for crafting.\nCrafted into parts and buildings.	제작에 사용됩니다.\n부품 및 건물 제작에 사용됩니다.
+C03F157C4B587D702CC41AB73990717F	Used for crafting.\nMulti-purpose building block.	제작에 사용됩니다.\n다목적 건설용 블록입니다.
+CF75F7E647849B0A05A9EB99D0E980D8	Used for crafting.\nMulti-purpose building block.	제작에 사용됩니다.\n다목적 건설용 블록입니다.
+9D3CC175496F5CFEA766C585C0C056AB	Used for crafting.\nOne of the most basic parts.	제작에 사용됩니다.\none of the most basic parts.
 7F4817B8410856E8345CD2A6408F4395	Used for desulfurization and as reducing agent 	탈황 및 환원제로 사용됩니다.
 127EFEE44653F3BF2E8EE685DA3F96BD	Used in solar panel construction.	태양 전지판 제작에 사용됩니다.
-1C28D134490E0187E821498329F12C1F	Used to connect Network poles, Network core and Network buildings.
-This Cable transfer power and informations.	used to connect network poles, 네트워크 코어 and 네트워크 빌딩.
-this cable transfer power and informations.
+1C28D134490E0187E821498329F12C1F	Used to connect Network poles, Network core and Network buildings.\nThis Cable transfer power and informations.	used to connect network poles, 네트워크 코어 and 네트워크 빌딩.\nthis cable transfer power and informations.
 7175B1FF450D390EEA144C81FDFA5913	Very fine sulfur powder with coal dust, it can be very explosive! 	석탄 먼지가 있는 매우 미세한 유황 분말, 그것은 매우 폭발적일 수 있습니다! 
 9CB2489F4D7A96263E0BB5A75589903D	Very hot steam and high pressure	매우 뜨거운 증기 및 고압
 FAA97CF9406D4FF94E769DB73F8573FB	Violett Slug	바이올렛 슬러그
@@ -722,61 +614,21 @@ FD578C974F3A980DD22528BA4954C6DB	Zinc Plates	아연 판
 7DE46A8D4EA462A236A83BB674DBEB26	not enough food or the quality is not correct! 	음식이 충분하지 않거나 품질이 올바르지 않습니다! 
 96FE78E94078A36CA8FA4A9C8EF957FF	used for create new Power Shards	새 전원 조각 생성에 사용
 4E3D3AED4ABD01F0FA5A79915ECDFFF6	yellow-green, non-flammable, pungent-smelling gas... better hold your nose.	황록색, 무독성, 자극성 가스... 당신의 코를 잡는 것이 낫습니다.
-2C6442E2411AB30C0EDE3C8A1CE68F95	yellow-green, non-flammable, pungent-smelling gas... better hold your nose.
-
-Can used to produce Titanium.	황록색, 무독성, 자극성 가스... 당신의 코를 잡는 것이 낫습니다.
-
-티타늄을 생산하는 데 사용할 수 있습니다.
+2C6442E2411AB30C0EDE3C8A1CE68F95	yellow-green, non-flammable, pungent-smelling gas... better hold your nose.\n\nCan used to produce Titanium.	황록색, 무독성, 자극성 가스... 당신의 코를 잡는 것이 낫습니다.\n\n티타늄을 생산하는 데 사용할 수 있습니다.
 FD3C0E0748F6C6FF009975BC583A40AB	{percent}% Used - {value} Items left	{%}% 사용 - {value}개 남음
 02D01ADE4B5F73E77122328BA2A33820	{percent}% Used - {value} m³ left	{percent}% 사용 - {value}m³ 남음
 PuriItems	A box full of metal that has no dirt. perfect for melting and further processing.	먼지 없이 금속만으로 가득 차있습니다. 용해 및 추가 처리에 적합합니다.
-MetalMix	A metal mixture for advaned smelting. This Mixtures are used in the Foundary or in the Blast Furnace!
-
-Note: can weigh a lot. 	a metal mixture for advaned smelting. this mixtures are used in the foundary or in the blast furnace!
-
-참고: 매우 무거움 . 
-CrushedOres	Crushed metal that can be mined from various ore clusters. Used to create ingots or liquid metals.
-
-It can also be cleaned with machines to extract more metal from them.	다양한 광석 클러스터에서 채굴할 수 있는 분쇄된 금속입니다. 주괴나 녹은 금속을 만드는 데 사용됩니다.
-
-세척하면 더 많은 금속을 추출할 수 있습니다.
-SlugFoodDesc	Food for Slugs. hmm yummy
-
-Food Tier: {Tier}	슬러그를 위한 음식. 맛있다
-
-음식 티어: {Tier}
+MetalMix	A metal mixture for advaned smelting. This Mixtures are used in the Foundary or in the Blast Furnace!\n\nNote: can weigh a lot. 	a metal mixture for advaned smelting. this mixtures are used in the foundary or in the blast furnace!\n\n참고: 매우 무거움 . 
+CrushedOres	Crushed metal that can be mined from various ore clusters. Used to create ingots or liquid metals.\n\nIt can also be cleaned with machines to extract more metal from them.	다양한 광석 클러스터에서 채굴할 수 있는 분쇄된 금속입니다. 주괴나 녹은 금속을 만드는 데 사용됩니다.\n\n세척하면 더 많은 금속을 추출할 수 있습니다.
+SlugFoodDesc	Food for Slugs. hmm yummy\n\nFood Tier: {Tier}	슬러그를 위한 음식. 맛있다\n\n음식 티어: {Tier}
 BeltItemDesc	Important part for conveyor belts.	컨베이어 벨트의 핵심 부품입니다.
 MoltenMetals	Molten metal waiting for further processing	추가 처리를 기다리는 녹은 금속
 SlugDesc_Hidden	Note: they use the same temperature and humidity as the eggs.	참고: 알과 동일한 온도와 습도를 사용합니다.
-SlugDesc_Show	Note: they use the same temperature and humidity as the eggs.
-
-Comfortable with: {OtherSlugs}
-Need Food Tier: {FoodTierNum}	참고: 알과 동일한 온도와 습도를 사용합니다.
-
-편안함을 느낌: {OtherSlugs}
-필요한 음식 티어: {Food TierNum}
+SlugDesc_Show	Note: they use the same temperature and humidity as the eggs.\n\nComfortable with: {OtherSlugs}\nNeed Food Tier: {FoodTierNum}	참고: 알과 동일한 온도와 습도를 사용합니다.\n\n편안함을 느낌: {OtherSlugs}\n필요한 음식 티어: {Food TierNum}
 PackagedItemsDesc	Packaged fluid or gas for alternative transport.	대체 운송을 위해 포장된 유체 또는 가스.
-EggDescDesc	Time to Hatch: {HatchingTime} seconds
-Temperature: {MinHeat}-{MaxHeat}°C
-Humidity: {MinHumidity}-{MaxHumidity}%
-Day Time: {SlugTime}
-Need Fluid: {IsFluidConsume}
-Incubator Tier: {IncubatorTier}
-
-Note: can't sink!	부화 시간: {HatchingTime} seconds
-온도: {MinHeat}-{MaxHeat}°C
-습도: {MinHumidity}-{MaxHumidity}%
-일광 시간: {SlugTime}
-필요한 유체: {IsFluidConsume}
-부화기 티어: {IncubatorTier}
-
-참고: 버릴 수 없습니다!
-Desc_UsedAsBasic	Used for crafting.
-Crafted into parts and buildings.	제작에 사용됩니다.
-부품과 건설 재료로 사용됩니다.
-KLib_BasicParts	Used for crafting.
-Crafted into the most basic parts.	제작에 사용됩니다.
-기본 부품에 사용됩니다.
+EggDescDesc	Time to Hatch: {HatchingTime} seconds\nTemperature: {MinHeat}-{MaxHeat}°C\nHumidity: {MinHumidity}-{MaxHumidity}%\nDay Time: {SlugTime}\nNeed Fluid: {IsFluidConsume}\nIncubator Tier: {IncubatorTier}\n\nNote: can't sink!	부화 시간: {HatchingTime} seconds\n온도: {MinHeat}-{MaxHeat}°C\n습도: {MinHumidity}-{MaxHumidity}%\n일광 시간: {SlugTime}\n필요한 유체: {IsFluidConsume}\n부화기 티어: {IncubatorTier}\n\n참고: 버릴 수 없습니다!
+Desc_UsedAsBasic	Used for crafting.\nCrafted into parts and buildings.	제작에 사용됩니다.\n부품과 건설 재료로 사용됩니다.
+KLib_BasicParts	Used for crafting.\nCrafted into the most basic parts.	제작에 사용됩니다.\n기본 부품에 사용됩니다.
 Acid	Acid	황
 AdvancedMoltenMetals	Advanced Molten Metals	고급 금속 용융
 AdvancedSorting	Advanced Sorting	고급 분류
@@ -801,144 +653,30 @@ SimpleSorting	Simple Sorting	단순 정렬
 Smelting	Smelting	제련
 Washing	Washing	세척
 Weaving	Weaving	천뜨기
-NetworkPoles_D	A network pole for transmitting and dividing information over longer distances.
-
-Can connect up to 6 cables. and attached walls.	더 먼 거리에서 정보를 전송하고 분할하기 위한 네트워크 전신주입니다.
-
-최대 6개의 케이블을 연결할 수 있으며, 벽에 붙일 수 있습니다.
+NetworkPoles_D	A network pole for transmitting and dividing information over longer distances.\n\nCan connect up to 6 cables. and attached walls.	더 먼 거리에서 정보를 전송하고 분할하기 위한 네트워크 전신주입니다.\n\n최대 6개의 케이블을 연결할 수 있으며, 벽에 붙일 수 있습니다.
 Build_AirCollector_Name	Air Collector	공기 수집기
-Build_Module_Crusher_D	Attached to the Modular Miner.
-
-Crushed the ore that extract instantly.
-
-Increases the power required by the modular miner. 
-
-Halved the bonus from all Modules 
-Example: you have 3 Energy Modules Mk.1 so your total bonus with that module is 37.5%	모듈식 채굴기에 부착할 수 있습니다.
-
-추출한 광석을 즉시 분쇄하며,
-
-모듈식 채굴기 작동에 필요한 전력량이 증가됩니다. 
-
-모든 모듈의 보너스 절반으로 감소 
-예시: 3개의 에너지 모듈 Mk.1이 있으므로 해당 모듈의 총 보너스는 37.5%입니다
-Build_SmelterModule_D	Attached to the Modular Miner.
-
-Smelt the ore that extract instantly.
-
-Smelt only the first ingot types (like iron, copper or tin)
-
-Increases the power required by the modular miner. 
-
-Has no bonus or malus.	모듈식 채굴기에 부착할 수 있습니다.
-
-추출한 광석을 즉시 제련합니다.
-
-첫 번째 광석 유형(철, 구리, 주석 등)만 제련합니다
-
-모듈식 채굴기 작동에 필요한 전력량이 증가됩니다. 
-
-보너스나 마이너스가 없습니다.
-Build_Module_Energy_Tier2_D	Attached to the Modular Miner.
-
-The energy consumption fluctuates now! ({PowerMin}-{PowerMax} MW per Module) 
-Give the miner more power to extract resources faster.
-
-Increases the power required by the modular miner.
-
-Bonus to production: {BonusOnProduction}%	모듈식 채굴기에 부착할 수 있습니다.
-
-에너지 소비량이 시간에 따라 변동됩니다! ({PowerMin}-{PowerMax} MW/모듈) 
-채굴기에 더 많은 전력을 주어 더 빠른 속도로 채굴할 수 있도록 돕습니다.
-
-increases the power required by the 모듈식 채굴기.
-
-생산성 보너스: {BonusOnProduction}%
-Build_Module_Fluid_D	Attached to the Modular Miner.
-
-increases the miner's effectiveness. this requires gas or liquid. 
-
-Increases the power required by the modular miner. 
-
-Bonus to effectivity: based on fluid / Gas	모듈식 채굴기에 부착할 수 있습니다.
-
-기체나 액체를 추가 소비하는 것으로, 광부의 효율성을 높입니다. 
-
-모듈식 채굴기 작동에 필요한 전력량이 증가됩니다. 
-
-효율성 보너스: 유체/가스에 따라 다름
-Build_MiningHead_Mk1_D	Attached to the Modular Miner.
-Depending on the level, the amount of material that is extracted changes.
-Some ores require a certain tier.
-
-Increases the power required by the modular miner. 
-
-Quantity per run: {Quantity}	모듈식 채굴기에 부착할 수 있습니다.
-레벨에 따라 채광되는 광석의 양이 달라집니다.
-어떤 광석은 특정 티어가 필요합니다.
-
-모듈식 채굴기 작동에 필요한 전력량이 증가됩니다. 
-
-실행 당 수량: {Quantity}
+Build_Module_Crusher_D	Attached to the Modular Miner.\n\nCrushed the ore that extract instantly.\n\nIncreases the power required by the modular miner. \n\nHalved the bonus from all Modules \nExample: you have 3 Energy Modules Mk.1 so your total bonus with that module is 37.5%	모듈식 채굴기에 부착할 수 있습니다.\n\n추출한 광석을 즉시 분쇄하며,\n\n모듈식 채굴기 작동에 필요한 전력량이 증가됩니다. \n\n모든 모듈의 보너스 절반으로 감소 \n예시: 3개의 에너지 모듈 Mk.1이 있으므로 해당 모듈의 총 보너스는 37.5%입니다
+Build_SmelterModule_D	Attached to the Modular Miner.\n\nSmelt the ore that extract instantly.\n\nSmelt only the first ingot types (like iron, copper or tin)\n\nIncreases the power required by the modular miner. \n\nHas no bonus or malus.	모듈식 채굴기에 부착할 수 있습니다.\n\n추출한 광석을 즉시 제련합니다.\n\n첫 번째 광석 유형(철, 구리, 주석 등)만 제련합니다\n\n모듈식 채굴기 작동에 필요한 전력량이 증가됩니다. \n\n보너스나 마이너스가 없습니다.
+Build_Module_Energy_Tier2_D	Attached to the Modular Miner.\n\nThe energy consumption fluctuates now! ({PowerMin}-{PowerMax} MW per Module) \nGive the miner more power to extract resources faster.\n\nIncreases the power required by the modular miner.\n\nBonus to production: {BonusOnProduction}%	모듈식 채굴기에 부착할 수 있습니다.\n\n에너지 소비량이 시간에 따라 변동됩니다! ({PowerMin}-{PowerMax} MW/모듈) \n채굴기에 더 많은 전력을 주어 더 빠른 속도로 채굴할 수 있도록 돕습니다.\n\nincreases the power required by the 모듈식 채굴기.\n\n생산성 보너스: {BonusOnProduction}%
+Build_Module_Fluid_D	Attached to the Modular Miner.\n\nincreases the miner's effectiveness. this requires gas or liquid. \n\nIncreases the power required by the modular miner. \n\nBonus to effectivity: based on fluid / Gas	모듈식 채굴기에 부착할 수 있습니다.\n\n기체나 액체를 추가 소비하는 것으로, 광부의 효율성을 높입니다. \n\n모듈식 채굴기 작동에 필요한 전력량이 증가됩니다. \n\n효율성 보너스: 유체/가스에 따라 다름
+Build_MiningHead_Mk1_D	Attached to the Modular Miner.\nDepending on the level, the amount of material that is extracted changes.\nSome ores require a certain tier.\n\nIncreases the power required by the modular miner. \n\nQuantity per run: {Quantity}	모듈식 채굴기에 부착할 수 있습니다.\n레벨에 따라 채광되는 광석의 양이 달라집니다.\n어떤 광석은 특정 티어가 필요합니다.\n\n모듈식 채굴기 작동에 필요한 전력량이 증가됩니다. \n\n실행 당 수량: {Quantity}
 Build_StorageContainerMk1_N	Awesome Sink Storage Mk.1	Awesome Sink 저장소 Mk.1
 Build_StorageContainerMk2_N	Awesome Sink Storage Mk.2	Awesome Sink 저장소 Mk.2
 Build_BioWaterExtractor_SF+_Name	Bio Water Extractor	바이오 워터 추출기
 Build_PipeHole2_D	Can be attached to walls, allowing Pipelines to pass through them.	파이프라인이 벽을 통과할 수 있도록 벽에 부착할 수 있습니다.
 Build_Conv_WallHole_D	Can be used as a connection for conveyor belts. 	컨베이어 벨트의 연결부로 사용할 수 있습니다. 
 Build_SoldifierAndCooler_D	Can cool down material or produce various materials from chemical compounds. Cooling metals produces water steam that has to be removed.	물질을 식히거나 화합물로부터 다양한 물질을 생성할 수 있습니다.  금속을 냉각시키면 수증기가 생성되며, 제거되어야 합니다.
-FluidConditioner_D	Can purify fluids and extract resources from them.
-
-Has one output but many products.
-The products depend on which liquid is being processed.
-
-Sorting systems are recommended! 	유체를 정화하고 부산물을 추출할 수 있습니다.
-
-한 출력부에서 모든 부산물이 배출됩니다.
-가공되는 유체에 따라 출력이 다릅니다.
-
-분류 시스템 사용을 권장합니다! 
+FluidConditioner_D	Can purify fluids and extract resources from them.\n\nHas one output but many products.\nThe products depend on which liquid is being processed.\n\nSorting systems are recommended! 	유체를 정화하고 부산물을 추출할 수 있습니다.\n\n한 출력부에서 모든 부산물이 배출됩니다.\n가공되는 유체에 따라 출력이 다릅니다.\n\n분류 시스템 사용을 권장합니다! 
 Build_CeilingStackableConvPole_N	Ceiling Stackable Conveyor Pole	천장 적층형 컨베이어 폴
 Build_ChemReactor_n	Chemical Reactor	화학 반응기
-Build_AirCollector_Desc	Collects air from the environment. The higher it is, the more air the Air Collector can collect.
-
-If there are other collectors nearby, it collects less air.
-
-There should always be a certain range between 2 buildings in order to suck up air more efficiently. This range can be viewed with R in build mode.
-
-If Placed nearly from Gas Pillar it will collect Toxic Air.	collects air from the environment. the higher it is, the more air the 공기 수집기 can collect.
-
-근처에 다른 수집기가 있으면 효율이 감소됩니다.
-
-공기를 더 효율적으로 수집하려면 건물 사이에 일정한 거리가 있어야 합니다.  이 범위는 빌드 모드에서 R로 볼 수 있습니다.
-
-가스 기둥 근처에 두면 유독성 공기가 수집됩니다.
-ModularMiner_D	Consumes different amount of power. The amount depends on the modules.
-
-The miner needs a drill to run. and different resources depending on the module.	모듈에 따라 다른 가변적인 전력을 소비합니다.
-
-채굴기 작동에는 드릴이 필요하며, 모듈에 따라 유체 자원 역시 필요할 수 있습니다.
-Build_StorageContainerMk1_D	Contains 24 slots for storing large amounts of items.
-Has one inputs and outputs for conveyor belts.
-
-The last slot will be sinked if the Storage has Power	대량의 항목을 저장하기 위한 24개의 슬롯이 제공됩니다.
-컨베이어 벨트에 대한 입력 및 출력이 하나 있습니다.
-
-스토리지에 전원이 공급되면 마지막 슬롯이 싱크됩니다
-Build_StorageContainerMk2_D	Contains 48 slots for storing large amounts of items.
-Has two inputs and outputs for conveyor belts.
-
-The last slot will be sinked if the Storage has Power	대량의 항목을 저장하기 위한 48개의 슬롯이 제공됩니다.
-컨베이어 벨트에 대한 두 개의 입력 및 출력이 있습니다.
-
-스토리지에 전원이 공급되면 마지막 슬롯이 싱크됩니다
+Build_AirCollector_Desc	Collects air from the environment. The higher it is, the more air the Air Collector can collect.\n\nIf there are other collectors nearby, it collects less air.\n\nThere should always be a certain range between 2 buildings in order to suck up air more efficiently. This range can be viewed with R in build mode.\n\nIf Placed nearly from Gas Pillar it will collect Toxic Air.	collects air from the environment. the higher it is, the more air the 공기 수집기 can collect.\n\n근처에 다른 수집기가 있으면 효율이 감소됩니다.\n\n공기를 더 효율적으로 수집하려면 건물 사이에 일정한 거리가 있어야 합니다.  이 범위는 빌드 모드에서 R로 볼 수 있습니다.\n\n가스 기둥 근처에 두면 유독성 공기가 수집됩니다.
+ModularMiner_D	Consumes different amount of power. The amount depends on the modules.\n\nThe miner needs a drill to run. and different resources depending on the module.	모듈에 따라 다른 가변적인 전력을 소비합니다.\n\n채굴기 작동에는 드릴이 필요하며, 모듈에 따라 유체 자원 역시 필요할 수 있습니다.
+Build_StorageContainerMk1_D	Contains 24 slots for storing large amounts of items.\nHas one inputs and outputs for conveyor belts.\n\nThe last slot will be sinked if the Storage has Power	대량의 항목을 저장하기 위한 24개의 슬롯이 제공됩니다.\n컨베이어 벨트에 대한 입력 및 출력이 하나 있습니다.\n\n스토리지에 전원이 공급되면 마지막 슬롯이 싱크됩니다
+Build_StorageContainerMk2_D	Contains 48 slots for storing large amounts of items.\nHas two inputs and outputs for conveyor belts.\n\nThe last slot will be sinked if the Storage has Power	대량의 항목을 저장하기 위한 48개의 슬롯이 제공됩니다.\n컨베이어 벨트에 대한 두 개의 입력 및 출력이 있습니다.\n\n스토리지에 전원이 공급되면 마지막 슬롯이 싱크됩니다
 Build_Conv_WallHole_N	Conveyor Wall Hole	컨베이어 벽 구멍
 Build_Crusher_N	Crusher	파쇄기
 Build_Module_Crusher_N	Crusher Module	파쇄 모듈
-Build_BioWaterExtractor_SF+_desc	Default extraction rate: 60m³ Bio Water per minute.
-
-Note This Building need Bio Water nodes.	기본 추출 속도: 60m³ 바이오 워터 / 분.
-
-바이오 워터 노드 위에 배치해야 합니다.
+Build_BioWaterExtractor_SF+_desc	Default extraction rate: 60m³ Bio Water per minute.\n\nNote This Building need Bio Water nodes.	기본 추출 속도: 60m³ 바이오 워터 / 분.\n\n바이오 워터 노드 위에 배치해야 합니다.
 Build_MiningHead_Mk3_N	Diamond Mining Head	다이아몬드 채굴 드릴
 NetworkPoleWallDouple	FaxIT Double Wall Pole	FaxIT 이중 벽극
 Ram_In_N	FaxIT Input Processor	FaxIT 입력 프로세서
@@ -955,11 +693,7 @@ Build_Module_Fluid_N	Fluid & Gas Module	유체 및 가스 모듈
 FluidConditioner_N	Fluid Conditioner 	유체 컨디셔너
 Build_Hatchery_Tank_Module_Name	Fluid Tank Module	유체 탱크 모듈
 Build_Module_Energy_Tier2_N	High Energy Module	고에너지 모듈
-Build_FlexibleBlastFurnaceSmelter_D	High heat can cause this machine to liquefy metals to produce more metal. It is also possible to produce more complex alloys and harder metals.
-
-ATTENTION: HOT!	높은 열은 이 기계가 금속을 액화시켜 더 많은 금속을 생산하게 할 수 있다. 더 복잡한 합금과 더 단단한 금속을 생산하는 것도 가능하다.
-
-경고: 매우 뜨거움!
+Build_FlexibleBlastFurnaceSmelter_D	High heat can cause this machine to liquefy metals to produce more metal. It is also possible to produce more complex alloys and harder metals.\n\nATTENTION: HOT!	높은 열은 이 기계가 금속을 액화시켜 더 많은 금속을 생산하게 할 수 있다. 더 복잡한 합금과 더 단단한 금속을 생산하는 것도 가능하다.\n\n경고: 매우 뜨거움!
 Build_Hatchery_Humidity_Module_Name	Humidity Module	습도 모듈
 Build_Hatchery_Small_Module_Name	Incubator Module	부화 모듈
 Build_CeilingStackableHyperPole_N	Invert Stackable Hypertube Support	중첩 가능한 반전된 하이퍼튜브 지원 
@@ -970,15 +704,7 @@ Build_MiningHead_Mk1_N	Metal Mining Head	금속 채굴 드릴
 ModularMiner_N	Modular Miner	모듈식 채굴기
 Build_OreWascher_N	Ore Washer	광석 세척기
 Build_PipeHole2_N	Pipeline Wall Hole	파이프라인 벽 구멍
-Build_ChemReactor_D	Refines fluid and/or solid parts into other parts.
-Head Lift: 10 meters.
-(Allows fluids to be transported 10 meters upwards.)
-
-Contains both a Conveyor Belt and Pipe input and output, to allow for the automation of various recipes.	유체 및/또는 고체 부품을 다른 부품으로 정제합니다.
-head lift: 10 meters.
-(allows fluids to be transported 10 meters upwards.)
-
-컨베이어 벨트와 파이프 입력 및 출력이 모두 포함되어 있어 다양한 제작법를 자동화할 수 있습니다.
+Build_ChemReactor_D	Refines fluid and/or solid parts into other parts.\nHead Lift: 10 meters.\n(Allows fluids to be transported 10 meters upwards.)\n\nContains both a Conveyor Belt and Pipe input and output, to allow for the automation of various recipes.	유체 및/또는 고체 부품을 다른 부품으로 정제합니다.\nhead lift: 10 meters.\n(allows fluids to be transported 10 meters upwards.)\n\n컨베이어 벨트와 파이프 입력 및 출력이 모두 포함되어 있어 다양한 제작법를 자동화할 수 있습니다.
 Build_Hatchery_Name	Slug Hatchery	슬러그 부화장
 Build_Terrarium_Name	Slug Terratium	슬러그 테라리움
 Build_SmelterModule_N	Smelter Module	제련 모듈
@@ -987,43 +713,15 @@ Build_SorterMk1_N	Sorter	분류기
 Build_MiningHead_Mk2_N	Steel Mining Head	강철 채굴 드릴
 Build_CS_Core_N	Storage Network Nexus	스토리지 네트워크 Nexus
 Build_CS_Cable_N	Storage Network Wire	스토리지 네트워크 전선
-Build_CeilingStackableHyperPole_D	Support for Hypertubes. Can be stacked on other stackable supports.
-
-WARNING: this is a experimental building and can have snap bugs in some cases!	하이퍼튜브를 지지합니다. 다른 중첩 가능한 지지대 위에 쌓을 수 있습니다.
-
-경고: 이것은 실험적인 건물이며 경우에 따라 스냅 버그가 있을 수 있습니다!
-Build_CeilingStackablePipePole_D	Support for Pipelines. Can be stacked on other stackable supports.
-
-WARNING: this is a experimental building and can have snap bugs in some cases!	파이프라인을 지지합니다. 다른 중첩 가능한 지지대 위에 쌓을 수 있습니다.
-
-경고: 이것은 실험적인 건물이며 경우에 따라 스냅 버그가 있을 수 있습니다!
-Build_CeilingStackableConvPole_D	Support for conveyor belts. Can be stacked on other stackable supports.
-
-WARNING: this is a experimental building and can have snap bugs in some cases!	컨베이어 벨트를 지지합니다. 다른 중첩 가능한 지지대 위에 쌓을 수 있습니다.
-
-경고: 이것은 실험적인 건물이며 경우에 따라 스냅 버그가 있을 수 있습니다!
+Build_CeilingStackableHyperPole_D	Support for Hypertubes. Can be stacked on other stackable supports.\n\nWARNING: this is a experimental building and can have snap bugs in some cases!	하이퍼튜브를 지지합니다. 다른 중첩 가능한 지지대 위에 쌓을 수 있습니다.\n\n경고: 이것은 실험적인 건물이며 경우에 따라 스냅 버그가 있을 수 있습니다!
+Build_CeilingStackablePipePole_D	Support for Pipelines. Can be stacked on other stackable supports.\n\nWARNING: this is a experimental building and can have snap bugs in some cases!	파이프라인을 지지합니다. 다른 중첩 가능한 지지대 위에 쌓을 수 있습니다.\n\n경고: 이것은 실험적인 건물이며 경우에 따라 스냅 버그가 있을 수 있습니다!
+Build_CeilingStackableConvPole_D	Support for conveyor belts. Can be stacked on other stackable supports.\n\nWARNING: this is a experimental building and can have snap bugs in some cases!	컨베이어 벨트를 지지합니다. 다른 중첩 가능한 지지대 위에 쌓을 수 있습니다.\n\n경고: 이것은 실험적인 건물이며 경우에 따라 스냅 버그가 있을 수 있습니다!
 Build_Hatchery_Temperature_Module_Name	Temperature Module	온도 모듈
 Build_Hatchery_Desc	The Hatchery can hatch Slug Eggs. But unfortunately now analyze the adult slugs. We'll have to test what the eggs like! 	부화장은 슬러그 알을 부화시킬 수 있다. 하지만 불행하게도 이제 성체 슬러그를 분석합니다. 우리는 알이 무엇을 좋아하는지 시험해봐야 할 것이다! 
-Build_CS_Core_D	The Storage Network Nexus is the heath of the network he manage all items and transfers.
-
-WIP Description	the 스토리지 네트워크 Nexus is the heath of the network he manage all items and transfers.
-
-WIP 설명
-Build_Weavingmachine_N	The Weaver can transform simple materials into something beautiful!
-
-ATTENTION: Keep your fingers out of the way, otherwise you'll turn into Swiss cheese! 	위버는 간단한 재료를 아름다운 것으로 바꿀 수 있습니다!
-
-주의: 손조심, 아차하면 스위스 치즈가 됩니다!
-Build_Terrarium_Desc	The slugs can reproduce happily in the terrarium. We need the eggs!
-
-Note: The Slugs need the same settings (Except the Time) as the egg type of them. you can adjust the temperature and the humidity in the terrarium. 	슬러그들은 테라리움에서 행복하게 번식할 수 있다. 알이 필요해요!
-
-참고: 슬러그는 알 유형과 동일한 설정(시간 제외)이 필요합니다. 당신은 테라리움의 온도와 습도를 조절할 수 있습니다. 
-Build_SorterMk1_D	This building can split ores into their component parts and thus extract different ores. It can also enrich ores or soil components.
-
-Pure metals can be used to make metals more efficient and are essential for some processes.	이 건물은 광석을 구성 요소로 분할하여 다른 광석을 추출할 수 있다. 그것은 또한 광석이나 토양 성분을 풍부하게 할 수 있다.
-
-순수한 금속은 금속을 더 효율적으로 만들기 위해 사용될 수 있으며 일부 공정에서 필수적이다.
+Build_CS_Core_D	The Storage Network Nexus is the heath of the network he manage all items and transfers.\n\nWIP Description	the 스토리지 네트워크 Nexus is the heath of the network he manage all items and transfers.\n\nWIP 설명
+Build_Weavingmachine_N	The Weaver can transform simple materials into something beautiful!\n\nATTENTION: Keep your fingers out of the way, otherwise you'll turn into Swiss cheese! 	위버는 간단한 재료를 아름다운 것으로 바꿀 수 있습니다!\n\n주의: 손조심, 아차하면 스위스 치즈가 됩니다!
+Build_Terrarium_Desc	The slugs can reproduce happily in the terrarium. We need the eggs!\n\nNote: The Slugs need the same settings (Except the Time) as the egg type of them. you can adjust the temperature and the humidity in the terrarium. 	슬러그들은 테라리움에서 행복하게 번식할 수 있다. 알이 필요해요!\n\n참고: 슬러그는 알 유형과 동일한 설정(시간 제외)이 필요합니다. 당신은 테라리움의 온도와 습도를 조절할 수 있습니다. 
+Build_SorterMk1_D	This building can split ores into their component parts and thus extract different ores. It can also enrich ores or soil components.\n\nPure metals can be used to make metals more efficient and are essential for some processes.	이 건물은 광석을 구성 요소로 분할하여 다른 광석을 추출할 수 있다. 그것은 또한 광석이나 토양 성분을 풍부하게 할 수 있다.\n\n순수한 금속은 금속을 더 효율적으로 만들기 위해 사용될 수 있으며 일부 공정에서 필수적이다.
 Description_IO_CS	This building is responsible for the transfer of resources in the network. The maximum rate depends on the Nexus each fax machine can have.	이 건물은 네트워크의 자원 전송을 담당한다. 최대 속도는 각 팩스기가 가질 수 있는 Nexus에 따라 다릅니다.
 Build_Hatchery_Small_Module_Desc	This module is required to hatch eggs. Increasing more modules decreases the time required for an egg. 	이 모듈은 알을 부화시키는 데 필요합니다. 모듈을 많이 설치할수록 알에 필요한 시간이 줄어듭니다. 
 Build_Hatchery_Tank_Module_Desc	This module is used to collect liquids in the hatchery. For example, food for the babies. 	이 모듈은 부화장에서 액체를 수집하는 데 사용됩니다. 예를 들어, 아기들을 위한 음식. 
@@ -1031,9 +729,7 @@ Build_Hatchery_Temperature_Module_Desc	This module is used to regulate the tempe
 Build_Hatchery_Humidity_Module_Desc	This module regulates the humidity... Yes, some slugs like it dry on these planets! 	이 모듈은 습도를 조절합니다... 그래요, 어떤 슬러그들은 이 행성에서 말라죽는 것을 좋아해요! 
 Build_Hatchery_Night_Module_Desc	This module simulates the time of day in the Hatchery. 	이 모듈은 부화장에서의 일과를 시뮬레이션합니다. 
 Build_Hatchery_Night_Module_Name	Time Module	시간 모듈
-Build_CS_Cable_D	Used to connect Network poles, Network core and Network buildings.
-This Cable transfer power and informations.	Used to connect Network poles, Network core and Network buildings.
-This Cable transfer power and informations.
+Build_CS_Cable_D	Used to connect Network poles, Network core and Network buildings.\nThis Cable transfer power and informations.	Used to connect Network poles, Network core and Network buildings.\nThis Cable transfer power and informations.
 NetworkTerminal_D	WIP CONTENT!	예정된 컨텐츠!
 Ram_In_D	WIP CONTENT!	예정된 컨텐츠!
 Ram_Out_D	WIP CONTENT!	예정된 컨텐츠!

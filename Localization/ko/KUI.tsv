@@ -1,7 +1,5 @@
 C4BAFC444D436969B0CD6CBD1047B694	<White10Reg>Produced in: </><Orange10SemiB>{WHERE}</>	<Orange10SemiB>{WHERE}</><White10Reg>에서 제작 가능</>
-45DBBC9B44A4A5C997D826BEE0CA8113	FUNCTION:
-{Function}	기능:
-{function}
+45DBBC9B44A4A5C997D826BEE0CA8113	FUNCTION:\n{Function}	기능:\n{function}
 BD546764466D3697E30DAA95D542D5FE	INSERT FUEL	연료 필요
 822C87EB4CC0A665A5C4098B9E2091BC	Select an Icon	아이콘 선택
 /min	/ min	/ 분
@@ -20,19 +18,11 @@ Consumed	Consumed	소비됨
 ConsumedIn	Consumed In	사용 대상
 Copy	Copy	알았다.
 Workbench	Craft Bench	제작대
-CrushedOres	Crushed metal that can be mined from various ore clusters. Used to create ingots or liquid metals.
-
-It can also be cleaned with machines to extract more metal from them.	다양한 광석 클러스터에서 채굴할 수 있는 분쇄된 금속입니다. 주괴나 녹은 금속을 만드는 데 사용됩니다.
-
-세척하면 더 많은 금속을 추출할 수 있습니다.
+CrushedOres	Crushed metal that can be mined from various ore clusters. Used to create ingots or liquid metals.\n\nIt can also be cleaned with machines to extract more metal from them.	다양한 광석 클러스터에서 채굴할 수 있는 분쇄된 금속입니다. 주괴나 녹은 금속을 만드는 데 사용됩니다.\n\n세척하면 더 많은 금속을 추출할 수 있습니다.
 CycleTime	Cycle Time	작동 주기
 Time_Day	Day	낮
 Delete	Delete	삭제
-PP_OpenUrl_T	Do you really want to open this website? Your browser will open and open the website!
-
-{url}	Do you really want to open this website? Your browser will open and open the website!
-
-{url}
+PP_OpenUrl_T	Do you really want to open this website? Your browser will open and open the website!\n\n{url}	Do you really want to open this website? Your browser will open and open the website!\n\n{url}
 Edit	Edit	편집
 Effect	Effect	영향
 DefaultSearchText	Enter text here...	여기에 텍스트 입력...
