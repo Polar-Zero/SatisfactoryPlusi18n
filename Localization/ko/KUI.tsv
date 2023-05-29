@@ -1,0 +1,125 @@
+C4BAFC444D436969B0CD6CBD1047B694	<White10Reg>Produced in: </><Orange10SemiB>{WHERE}</>	<Orange10SemiB>{WHERE}</><White10Reg>에서 제작 가능</>
+45DBBC9B44A4A5C997D826BEE0CA8113	FUNCTION:
+{Function}	기능:
+{function}
+BD546764466D3697E30DAA95D542D5FE	INSERT FUEL	연료 필요
+822C87EB4CC0A665A5C4098B9E2091BC	Select an Icon	아이콘 선택
+/min	/ min	/ 분
+Accept	Accept	수락
+Add	Add	추가
+Added	Added!	추가됨!
+Amount	Amount	수량
+Time_Any	Any Time	아무 때나
+BuildGun	Build Gun	빌드 건
+Building	Building	건물
+Found_Danger	Can be found in Dangerous Areas.	위험한 지역에서 찾을 수 있습니다.
+Found_Everywhere	Can be found in every biome.	모든 생물권에서 발견할 수 있습니다.
+Cancle	Cancle	취소
+Rare_Common	Common	흔함
+Consumed	Consumed	소비됨
+ConsumedIn	Consumed In	사용 대상
+Copy	Copy	알았다.
+Workbench	Craft Bench	제작대
+CrushedOres	Crushed metal that can be mined from various ore clusters. Used to create ingots or liquid metals.
+
+It can also be cleaned with machines to extract more metal from them.	다양한 광석 클러스터에서 채굴할 수 있는 분쇄된 금속입니다. 주괴나 녹은 금속을 만드는 데 사용됩니다.
+
+세척하면 더 많은 금속을 추출할 수 있습니다.
+CycleTime	Cycle Time	작동 주기
+Time_Day	Day	낮
+Delete	Delete	삭제
+PP_OpenUrl_T	Do you really want to open this website? Your browser will open and open the website!
+
+{url}	Do you really want to open this website? Your browser will open and open the website!
+
+{url}
+Edit	Edit	편집
+Effect	Effect	영향
+DefaultSearchText	Enter text here...	여기에 텍스트 입력...
+Workshop	Equipment Workshop	장비 작업장
+State_Error	Error	오류
+Heat	Heat	열
+State_Idle	Idle	대기 중
+Idle	Idle	대기 중
+Image	Image	이미지
+Time_Invalid	Invalid	잘못됨
+Invalid	Invalid	잘못됨
+InvFormat	Invalid Information	잘못된 정보
+Item	Item	아이템
+ItemName	Item Name	아이템 이름
+Layout	Layout	레이아웃
+RSS_LayOutLoaded	Layout loaded	레이아웃 불러옴
+LessDetails	Less Details	내용 줄이기
+LivePreview	Live Preview	실시간 보기
+Loading	Loading...	로드 중...
+State_MissingModule	Missing Module	모듈 누락됨
+MoreDetails	More Details	내용 더보기
+NO	NO	아니요
+Time_Night	Night	밤
+No	No	아니요
+Warning_NoFluid	No Fluid!	유체 없음!
+NoInv	No Inventory set	인벤토리 설정 없음
+NoPower	No Power	전력 없음
+State_NoPower	No Power	전력 없음
+Warning_NoPower	No Power!	전력 없음!
+NoCon	No connection	연결 없음
+Rate_60	Normal extraction rate is: 60/min	기본 추출 속도: 60/min
+Rate_60m³	Normal extraction rate is: 60m³/min	기본 추출 속도: 60m³/min
+PP_OpenUrl_D	Open Url	URL 열기
+State_Overclocked	Overclocked	오버클럭됨
+Part	Parts	부품
+Paste	Paste	붙여넣기
+Paused	Paused	일시 중지됨
+State_Produce	Produce	제작
+Produced	Produced	제작됨
+ProducedIn	Produced In	제작 가능:
+Rare_Rare	Rare	희귀함
+RecipeFormat	Recipe: {Name}	제작법: {Name}
+Refresh	Refresh	새로고침
+RelevantItems	Relevant Items:	관련 아이템:
+Remove	Remove	제거
+Reset	Reset	초기화
+RSS_DefaultTextElementText	Rss Sign Text	RSS 표지 텍스트
+Running	Running	작동 중.
+Save	Save	저장
+SaveAndExit	Save & Exit	저장하고 나가기
+SaveAsPreset	Save as preset	프리셋으로 저장
+Saved	Saved	저장됨
+Select	Select	선택
+SelectItem	Select Item	아이템 선택
+SlotNotUsed	Slot not in use	슬롯 미사용됨
+Stable	Stable	안정적임
+Stack	Stack	스택
+State_Standby	Standby	대기 중
+Template	Template	템플릿
+Text	Text	텍스트
+Type	Type	종류
+Unknown	Unknown	알 수 없음
+UnStable	Unstable	불안정함
+Rare_VeryCommon	Very Common	매우 흔함
+Rare_VeryRare	Very Rare	매우 희귀함
+NotInit	Widget not Init!	위젯이 초기화되지 않음!
+YES	YES	네
+Yes	Yes	네
+Deleted	deleted	삭제쇧
+loaded	loaded	로드됨
+m³	m³	m³
+m3/min	m³ / min	m³ / 분
+no	no	아니요
+PartPMin	per minute	분당
+yes	yes	네
+FromTo	{From} to {To}	{From} -> {To}
+FromToCelc	{From} to {To}°C	{From} -> {To}°c
+ToPercent	{From}% to {To}%	{From}% to {To}%
+TimeInSec	{Time} Sec	{Time} 초
+Percent	{Value} %	{Value} %
+PerMin	{Value} / Min	{값} / 분
+MW	{Value} MW	{Value} MW
+Format_m³	{Value} m³	{Value} m³
+m3PerMin	{Value} m³ / Min	{Value} m³ / 분
+Celcius	{Value} °C	{Value} °C
+CountMulti	{count}x	{count}x
+Liquid	Fluid	유체
+Gas	Gas	기체
+Heat	Heat	열량
+Solid	Solid	고체

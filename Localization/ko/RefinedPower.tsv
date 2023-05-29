@@ -1,0 +1,669 @@
+784E565C4D7249D0A8229885B29CA1F1	#  CURRENT STAGE:	#  CURRENT STAGE:
+744B0AAF414297153DB94D9BB9997CE3	#  DYSON SPHERE STATE:	#  DYSON SPHERE STATE:
+ED1CDE6A4FC698083E50F5B95035826D	#  ITEMS REMAINING:	#  ITEMS REMAINING:
+4CC398C946B8FBBDBF2BC48D8A682AF8	#  POWER OUTPUT:	#  POWER OUTPUT:
+C07E4D864618CA26CAC748B2B7094580	0 Sec	0초
+05CD4EC0486236B0564916A4DF35C773	1. Check the reactor control at zero
+2. Check the amount of fuel is above 25 items
+3. Check your power grid and make it can support 100MW minimum
+4. Activate all 10 reactor coils (each coil is 5MW draw)
+5. Lock all the reactor coils (aborting at this stage will still consume power)
+6. Prime the initial charge by holding down the prime charge button.
+7. Monitor the total charge until it is in the green section.
+8. Set the switches for either Power output or Steam output ( If Unlocked ) or both.
+9. Increase the reactor control to the 25% ‘Start’ section.
+10. Press the release charge button to start the reactor.
+11. The reactor is now running. You may increase the control level.
+
+<Bold>Alternatively;</> If you have a priority access chip installed, you can use this to automate the process.
+	1. 원자력 제어도가 0인지 확인
+2. 연료가 25개 이상 있는지 확인
+3. 전력망을 확인하여 취소 100MW를 지원할 수 있는지 확인
+4. 10개의 원자로 코일을 모두 활성화 (5MW/코일 소모)
+5. 모든 원자로 코일을 잠급니다 (이 단계에서 중단해도 전력이 소비됨)
+6. 초기 충전 버튼을 눌러 초기 충전을 사용합니다.
+7. 녹색 부분에 도달할 때까지 총 충전량을 모니터링합니다.
+8. 전원 출력 또는 증기 출력(해제된 경우) 또는 모든 스위치를 활성화합니다.
+9. increase the reactor 컨트롤 to the 25% ‘start’ section.
+10. 충전 사용 버튼을 눌러 원자로를 작동합니다.
+11. 원자로가 이제 가동합니다. 이제 원자력 제어 수준을 높일 수 있습니다.
+
+우선 엑세스 칩이 설치되었다면, 사용하여 이 단계를 자동화할 수 있습니다.
+
+F74F37EC485FF535A367CDA6E046FC7E	100k statue	100,000 석상
+B7E2D7AC4A361F466B065AA91360E79A	<Bold>Section A: Output control overview</>
+• This section contains between 1 and 5 slider controls.
+• Each represents one reactor.
+• The main control adjusts reactor ‘clock’ levels.
+• Minimum run level is 25%
+• Normal run level is up to 100%
+• The system may also be overclocked to a maximum of 250%
+• The system will run dry and Auto-stop after a time if the run level is set beyond what is available. This can be seen to the left of each slider and is represented by 4 coloured lights:
+
+    • Green - Fuel level
+    • Blue - Coolant level
+    • Orange - Water level
+    • White - Maximum sustainable run level (always the same as the lowest indicator)
+    • The reactor will remain stable up to 150% provided that the white light is used as a maximum limit.
+
+<Bold>Note:</> Values beyond 150% will work for a time, but will always lead to an Auto-stop event unless the slider is returned to a sustainable level.
+	<Bold>A구역: 출력 제어 개요</>
+• 이 구역에는 1~5 사이의 슬라이더 제어장치가 있습니다.
+• 각 컨트롤은 하나의 원자로를 나타냅니다.
+• 주 컨트롤은 원자로 ‘클럭’ 레벨을 조정합니다.
+• 최소 출력: 25%
+• 정상 출력은 100%
+• 최대 250%까지 오버클럭될 수 있습니다.
+• 실행 수준이 사용 가능한 수준 이상으로 설정되면 시스템이 건조 상태로 실행되고 일정 시간이 지나면 자동 정지됩니다. 이것은 각 슬라이더 왼쪽에서 볼 수 있으며 4가지 색 표시등으로 표시됩니다.
+
+    • 초록 - 연료 수준
+    • 파랑 - 냉각 수준
+    • 오렌지 - 물 level
+    • 흰색 - 지속 가능한 최대 클럭(최소 수준과 동일)
+    • 반응기는 백색광이 최대 한계로 사용되는 경우 최대 150%까지 안정적으로 유지됩니다.
+
+<Bold>참고:</> 150%를 초과하는 값은 한동안 작동하지만 그러나 슬라이더가 지속 가능한 수준으로 돌아가지 않는 한 항상 자동 중지 이벤트로 이어집니다..
+
+E2DE65FC4F347B36BFB0AB853167AE08	<FailedRepairs>{repaircount}/10</>	<FailedRepairs>{repaircount}/10</>
+ADDD9B914E789908D1959486D56B2947	<TextGreen>300MW - Maximum Efficiency!</>	<text초록>300mw - 최대 효율!</>
+FEE679554F269421C15804B30F33D33F	<TextGreen>{power}MW - Maximum efficiency!</>	<text초록>{전력}mw - maximum efficiency!</>
+A33A3FAF4E97FD3D145C058BB0C74BB8	<TextOrange>{power}MW - Average efficiency!</>	<text오렌지>{전력}mw - 보통 효율!</>
+FE54C37D4A617064C6D128B4C882EC7A	<TextRed>{power}MW - Minimum efficiency!</>	<text빨간색>{전력}mw - 최소 효율!</>
+F84A6B0849D73A99DD9C8A8CD3D9AA41	A New source of refined power	정제된 힘의 새로운 원천
+3A915AAD4119C83DA78A58B48AC49073	A filtered reactive fluid used to create reactor cores.	원자로 노심을 생성하는 데 사용되는 여과된 반응성 유체.
+242A97D947D26AE79FC0CEB59085B513	A message from the Refined R&D branch of Ficsit. we would not be as motivated as much as we are without you, and can not give back as much as we would ever want. This is our way of saying "Thank you" to you all of you that support our work while working on Ficsit farming. We love you guys to death, even just using the mod means a lot to us. Thank you, so much. Regards Refined R&D.Now go back to work	A message from the Refined R&D branch of Ficsit. we would not be as motivated as much as we are without you, and can not give back as much as we would ever want. This is our way of saying "Thank you" to you all of you that support our work while working on Ficsit farming. We love you guys to death, even just using the mod means a lot to us. Thank you, so much. Regards Refined R&D.Now go back to work
+3AE822BE46A23CCF07C48193AF2866F2	A message from the Refined R&D branch of Ficsit. we would not be as motivated as much as we are without you, and can not give back as much as we would ever want. This is our way of saying "Thank you" to you all of you that support our work while working on Ficsit farming. We love you guys to death, even just using the mod means a lot to us. Thank you, so much. Regards Refined R&D.Now go back to work	A message from the Refined R&D branch of Ficsit. we would not be as motivated as much as we are without you, and can not give back as much as we would ever want. This is our way of saying "Thank you" to you all of you that support our work while working on Ficsit farming. We love you guys to death, even just using the mod means a lot to us. Thank you, so much. Regards Refined R&D.Now go back to work
+A33C333048E41501FA981996D72257F8	A refined version of Element65.	Element65의 세련된 버전입니다.
+2C6FF1064B5A1AA38205EBAA17416318	A small micro reactor capiable of 1GW of power!	1GW의 출력이 가능한 소형 마이크로 원자로!
+3FDE0ED4431EA5925DF747893D04DD19	A unfiltered reactive fluid used to create reactor cores.	원자로 노심을 만드는 데 사용되는 여과되지 않은 반응성 유체.
+188F9AF9439C4DCF789F21A7638C58B2	ALTIMITER	고도 제한 장치
+73AB281A460BCC36F839AABC6BEB1EF3	ARC Reactor	아크 원자로
+5CB40B9D4B551D0E9566F1B02DB3C9F1	ARC Reactor	아크 원자로
+F224D88E4F24785153FA19A45D79797E	Adds the Solar Roof Material to the Customizer, from where it can be applied to any Roof. 
+
+- Refined Power	adds the 태양열 지붕 material to the customizer, from where it can be applied to any roof. 
+
+- refined 전력
+72122F9644259A38ACD563A94BD5A94D	Advanced Cooling	고급 냉각
+88FD27244CCEA8871469919F2AE5499A	Advanced Modular Sizzling	고급 모듈식 지글링
+3DD1FDCB4827C8E93C5C85ADC3A29409	Advanced Reactor Casing	고급 원자로 케이싱
+71B0C63845DAC06FEBC40F9187E52170	Advanced Reactor Casing	고급 원자로 케이싱
+2DCEED4B4E70B6447653218B29032523	Advanced Reactor Casing	고급 원자로 케이싱
+4C45DEFC4CB9A55649AF6E94CE62439C	Advanced Reactor Core	고급 원자로 노심
+FD72B7134F9A2D96AAFE5FA15D58C2F9	Advanced Reactor Core	고급 원자로 노심
+89BD581247A31A87C4AE64B2E6186F25	Advanced Reactor Core, Produced in the packager.	고급 원자로 노심, 포장기에서 생산.
+BADC64794531ABBF170937AB1A7DD6C7	After consultation with Ficsit Inc. legal representatives and their marketing department, we here at RR&D have opted to integrate all research and upgrade paths through Ficsit Inc’s MAM system.
+
+We advise users to be aware of this requirement and that various technologies will need to be properly researched through Ficsit Inc’s proprietary systems.	After consultation with Ficsit Inc. legal representatives and their marketing department, we here at RR&D have opted to integrate all research and upgrade paths through Ficsit Inc’s MAM system.
+
+We advise users to be aware of this requirement and that various technologies will need to be properly researched through Ficsit Inc’s proprietary systems.
+A05865A14530328CF735C89F5528472B	Alternate: Carbon Steel Ingot	대체: 탄소강 주괴
+992B0C7443A219139FF166AB874E5469	Applied to Roofs to convert them to the Solar FICSIT style with function.
+
+- Refined Power.	applied to roofs to convert them to the solar ficsit style with function.
+
+- refined 전력.
+6964A2154C32E43E8BD008BFA2C25E5D	Arc Reactor	아크 원자로
+68E023F14300C76E72C1CD833B40996F	Arc Reactor	아크 원자로
+D052E17046CD52B633FB3890F331E24C	Arc Reactor capable of generating 5GW of power.
+
+Requires Advanced Reactor Cores and Reactor Coolant for it to function.	아크 원자로 capable of generating 5GW of 전력.
+
+requires 고급 원자로 노심s and reactor 냉각수 for it to function.
+C382116F460C37AA039DDEA5E5CB4AF6	Automate the process of fuel insertion with the Reactor IO Module.	원자로 IO 모듈을 사용하여 연료 삽입 프로세스를 자동화합니다.
+90219FB34410BB47C8587D98FA562C00	Automated Biomass Generator	자동화된 바이오매스 발전기
+27AD5E7646FB5DBF65897F992E44C775	Automated Biomass Generator	자동화된 바이오매스 발전기
+A6A6986B4438E888CA0C5FA7AA503175	BUILD	건설
+1EE554E1409E4281027A608C2103EA41	BUILD	건설
+F2260FDD4D09916809B82AB1E4065C78	Biomass Heater	바이오매스 가열기
+1E9D4E614CA6D856C975DEAC24B8D715	Biomass Heater	바이오매스 가열기
+00A8CA9945E42E83F5A84EBBCD08B702	Boiler Attached	보일러 부착됨
+D0458F3D4595807426D8A58C247A0C1B	Boiler Mk1	보일러 Mk1
+D588C2EA45FE293268563687EB833308	Boiler Mk1	보일러 Mk1
+9874DF9642E85AA4153A238DF24F0C9E	Boiler Mk2	보일러 Mk2
+68E4E0A64F18E8440EBE0293D725009D	Boiler Mk2	보일러 Mk2
+6DFAD43A4E3656B4EDC369A1D5D2041A	Boiler Not Attached	보일러 없음
+D1BFC988475507BC37CEB7B0BD4FEF21	Boiler Not Attached	보일러 없음
+41918B37406BBF7A533089A81DAEE175	Boiler Not Attached	보일러 없음
+CEACE8A041713416C4F9119CA0D71E20	Boiler Platform	보일러 플랫폼
+F40973E9459E922EA7D33C89C7FD7BD5	Boiler Platform	보일러 플랫폼
+15F12B014FA26B0157A248A100EB6918	Burn Percentage:	연료 사용량:
+B32D50F4496E502594655386C41F0243	Burns the biomass in your world to convert it into power and has an automated input for a higher building cost!
+
+Burn baby burn.	burns the biomass in your world to convert it into 전력 and has an automated input for a higher 건설ing cost!
+
+burn baby burn.
+833B2566431A2755405494B4573ECFBC	CARGO DEPARTURE	화물 출발됨
+08386B1C4ECEB440CAC7678D48F3D228	CCoolant	CCoolant
+408CD4B441A8463B2CBE29A3C04C64FA	CO2	이산화탄소
+694F44B94C41072D308B81B36229FE0C	CO2 Canister	이산화탄소 용기
+559223CC4227ADA3A81F76A6973336CD	CO2 Pressure	이산화탄소 압력
+9AEDBA0642154612C4794D987B32916C	CONTROL	컨트롤
+B5049FB84E357C8AEC03D7835947E27E	Can Generate 100MW. If more than 1 turbine is in its range it will produce less. Maxes out at 4 turbines and makes no power at all. Each wind turbine in range redurce the power output.
+
+Can be daisy chained up to 2 power lines.	발전량: 100MW 2개 이상의 터빈이 일정 범위에 있으면 효율이 감소됩니다. 최대 4개의 터빈을 사용하고 전력을 전혀 공급하지 않습니다. 범위 내의 각 풍력 터빈은 출력을 줄입니다.
+
+최대 2개의 전원 라인을 데이지 체인으로 연결할 수 있습니다.
+B770DF7A47666671EE6ACCB18FB3905E	Can Generate 150MW. If more than 1 turbine is in its range it will produce less. Maxes out at 4 turbines and makes no power at all. Each wind turbine in range redurce the power output.
+
+Can be daisy chained up to 2 power lines.	발전량: 150MW 2개 이상의 터빈이 일정 범위에 있으면 효율이 감소됩니다. 최대 4개의 터빈을 사용하고 전력을 전혀 공급하지 않습니다. 범위 내의 각 풍력 터빈은 출력을 줄입니다.
+
+최대 2개의 전원 라인을 데이지 체인으로 연결할 수 있습니다.
+1A96AC5C4DAB6DCFF5E0DA87F9906C5E	Can Generate power from 10MW-30MW depending on the height. If more than 1 turbine is in its range it will produces less. Maxes out at 4 turbines and makes no power at all. Each wind turbine in range redurce the power output.
+
+Can be daisy chained up to 2 power lines.	발전량: 10MW-30MW (높이에 따라 다름) if more than 1 터빈 is in its range it will produces less. 최대 4개의 터빈을 사용하고 전력을 전혀 공급하지 않습니다. 범위 내의 각 풍력 터빈은 출력을 줄입니다.
+
+최대 2개의 전원 라인을 데이지 체인으로 연결할 수 있습니다.
+1555744E45187BDA4F6F36B107E8B5A1	Can be placed on a boiler platform to boil water into steam.	물을 증기로 끓이기 위해 보일러 플랫폼에 놓을 수 있습니다.
+E892138A463E8FE8ED8A7886667C6469	Can be placed on a boiler platform to boil water into steam.
+
+Note: Reaches its maximum efficiency at 500°C	can be placed on a 보일러 플랫폼 to boil 물 into steam.
+
+note: reaches its maximum efficiency at 500°c
+8499046B49C9645BF8333E8EBE563372	Can be placed on a boiler platform to turn water into steam….but better.
+
+Note: Reaches its maximum efficiency at 2000°C	can be placed on a 보일러 플랫폼 to turn 물 into steam….but better.
+
+note: reaches its maximum efficiency at 2000°c
+B47823094FCC947144CD6899050E68C5	Can be placed on a converter platform and uses steam to make a turbine spin which turns a generator to produce electrical power.	컨버터 플랫폼에 배치할 수 있으며 증기를 사용하여 발전기를 돌려 전력을 생산하는 터빈 스핀을 만들 수 있습니다.
+A2D0BE24428BA638FF32BD8FBE549761	Can burn any type of fission or fusion-based fuel though some By-products may be made depending on the fuel.
+
+Can produce up to 2000° heat.	Can burn any type of fission or fusion-based fuel though some By-products may be made depending on the fuel.
+
+Can produce up to 2000° heat.
+19CF082E44C850189FF5FEB877728148	Can handle more steam than a Mk.1 turbine. Can be placed on a converter platform and uses steam to make a turbine spin which turns a generator to produce electrical power.	Mk.1 터빈보다 더 많은 증기를 처리할 수 있습니다. 컨버터 플랫폼에 배치할 수 있으며 증기를 사용하여 발전기를 돌려 전력을 생산하는 터빈 스핀을 만들 수 있습니다.
+33ECBD79433B39ED8F6E748475D175CD	Can handle more steam than a Mk.2 turbine. Can be placed on a Super Conductive platform and uses compressed steam to make a turbine spin which turns a generator to produce electrical power.	Mk.2 터빈보다 더 많은 증기를 처리할 수 있습니다. 슈퍼 컨덕티브 플랫폼에 배치할 수 있으며 압축된 증기를 사용하여 터빈 스핀을 만들고 발전기를 돌려 전력을 생산합니다.
+66F7EDF84EE770CC2C871CAB43204893	Carbon Dust	탄소 가루
+C1219D5840644C553C50568425257405	Carbon Dust	탄소 가루
+219747B745123AD708570E9995B50D34	Carbon Dust	탄소 가루
+2370E1944FF74A2CA51546826940E6B2	Carbon Mesh	탄소 그물
+71CEE3554F845EDA4C4550919052A204	Carbon Mesh	탄소 그물
+D0B839A34850F3C92F692BA137B88E44	Carbon Mesh	탄소 그물
+118911CE4A820E59AA204488A17263C5	Carbon Output	탄소 출력
+71A10F744015418571DD80B0DB89C56D	Carbon Refining	탄소 정제
+0B2ABE644C1692A72BE23E9B2A55A618	Chamber Pressure:	챔버 압력:
+6DA4287048B179F7C4FCC0A9E5E09BDC	Cloudy Coolant	탁한 냉각수
+4903FFBD4D9B1579FF17D6874C958015	Cloudy Coolant	탁한 냉각수
+0EA21D3340144DFCFE75EAB75B4847D4	Cloudy Coolant used to make Reactor Coolant in a refinery.	정제소에서 원자로 냉각제를 만드는 데 사용되는 탁한 냉각제.
+EFCF193C47F3B5485D43A69F4289CC16	Co2 Carbon Dust	이산화탄소 탄소 먼지
+F1515BEB4F8D06F4B16BE296542E8CDF	Co2 Chimney	이산화탄소 굴뚝
+70EB3F7E4D67C3358B008EB4AD5BC375	Co2 Chimney	이산화탄소 굴뚝
+125895404B41A5E4002A86984E0CE8CF	Coal Heater	석탄 가열기
+114435464B99C036B2166E83C85FAA65	Coal Heater	석탄 가열기
+366E2F7E43D61F0D7F95C58BEC75DBDB	Compressed Steam	압축된 증기
+7225650E4C3C52C33DCBB29851680546	Consuming	소비 중
+8314381441A0FFB9B044F291514B8098	Control Regulator	제어 조절기
+DD6C560448A319BC8F5540BD9BF44595	Control Regulator	제어 조절기
+9171B25641894452372925B9B88F651F	Control Unit	제어 장치
+B66AB59C4C1C7ACFCB0221B60B80F3FA	Control Unit	제어 장치
+CCE0593843D2A57B655C589DDD666B7C	Control Unit	제어 장치
+ED28DEFC4F3F71D02292B586E87F5B52	Control Unit	제어 장치
+FE3D83F64E96C436A75CE284D966FD3D	Control Unit	제어 장치
+6EA44ACE46FEB94C745B3D91CFA2DFFA	Control Unit	제어 장치
+8366C4AE4B3A22C553E5A6BC11544857	Control Value	제어 값
+DBD53AAF448C5550EB4DB5B55EEEEDAF	Control Value	제어 값
+FE9920FB4E1527E6A019A1B4D4DFCAFF	Converter Platform	변환기 플랫폼
+D6F1A19E48427F13EF1B64940AD30103	Converter Platform	변환기 플랫폼
+8284DF4A48FB9BBF81FDE09338476835	Coolant	냉각수
+951EF7604346C17A4CCF58A105EB7236	Coolant Powder	냉각수 분말
+CD55E67F488B2D5587947EA9CA26E808	Coolant Powder	냉각수 분말
+3544BDD84DBF8AD32D6867B1BA054E76	Coolant Powder	냉각수 분말
+D30F92554125B56777EE76B6A47B98F1	Coolant:	냉각수:
+FB6EEF814F312EC5405760BF52EFD299	Cooling Platform	냉각 플랫폼
+DC4A2F0C45678519D99D198876A81ACC	Cooling Platform	냉각 플랫폼
+30F6BEAB4FC2EC342662C5BBBBECA416	Cooling your modular reactor with water will improve your reactors stability.	모듈식 원자로를 물로 냉각하면 원자로의 안정성이 향상됩니다.
+BCB1C8F94F3F4AA1A3D4F3AA21D2D2F0	Cough Cough, Co2 Emissions	기침 기침, 이산화탄소 배출
+73FE54D64D88DBA17B93ADB34D771695	Currently generating:	현재 생성 중:
+68D09AB74E3930FB6FC3D2A69FF4FE20	Dyson Sphere	다이슨 스피어
+1D95B009490814C4DDA66796A1C1FA95	Dyson Sphere	다이슨 스피어
+F21142DB49FD62811799F4A5191F6101	Dyson Sphere	다이슨 스피어
+1E8205604CFE5A1BD1E9C79603604495	Dyson Sphere H1	다이슨 스피어 H1
+7FCADAD448CFB103D8A4E0952F82AD48	Dyson Sphere H2	다이슨 스피어 H2
+3A037D1F4E042EA8B4F096950673B698	Dyson Sphere H3	다이슨 스피어 H3
+7EA223E84E8179611E3CA496983F66B2	Dyson Sphere H4	다이슨 스피어 H4
+8C864947473F0E2060B2C3A44E1C6665	Electric Grounding	전기 접지
+7CBFA5F045DF9A0B97B410B346E95BDE	Electric Grounding	전기 접지
+8FCB509342B84B7FED79BAAC1C9793D0	Electric Grounding	전기 접지
+D24ABFAA40F693FB225C8295D5EF513E	Electric Grounding	전기 접지
+F29BEE754CA69FCD9E1964BD7410FBDA	Electric Grounding	전기 접지
+A6B7487E48FF84E0948EC5A74074A582	Emitter Unit	이미터 장치
+A58B9CA14D6CE54F6272AAAE1276D0F3	Emitter Unit	이미터 장치
+BF39CF8D4B9C6317EB5F76A124F44503	Energy	에너지
+F59253EB41D8D35A39E63EB5DC182A8B	Exposure: 	노출: 
+A88C63D54070E5182C2E37B2DDF83D41	FAILED	실패
+88A9D99C4A60F9D49AFA53B52B264FBD	FAILED	실패
+ED48F39243A6AEF0458EE38122789420	Fluid	유체
+2E2A188A4811A6D59FFE18B26610A021	Fluid / Gas Buffer:	유체/가스 버퍼:
+4655542D47A12DE703575E9799420AB3	Fluid / Gas Buffer:	유체/가스 버퍼:
+858B285D4B8C7156FCE67C97856D91A7	Fluid / Gas Buffer:	유체/가스 버퍼:
+E0FAC1C6458017B25DF94CBF00F6F117	Fluid / Gas Buffer:	유체/가스 버퍼:
+A505A6BB4CE9793D2CA93EA98BEDE179	Friction	마찰
+E280ED0B406BAB56EFA5BFA678146A3B	Fuel Automation	연료 자동화
+87ED192C49706174B039339411477DE9	Fuel Excellerant	연료 우수제
+166FE66C458FE59DAF9E9490A25A5370	Fuel Level:	연료 레벨:
+F4778DBD424820A4EA94C79DA550D168	Fuel Level:	연료 레벨:
+E4E634E646555AB49C47739D2E27DC6C	GREEN	초록
+9344837149878BED8D3679AF19223A6B	GROWING	성장하는
+8E7894A442BF304C4561DDA8802C1F5B	GW	GW
+2DE93D80405B3BEF8604438AF93E50CA	Gas Containment	가스 격납 장치
+1CCCAA4A49D520A50328EAA197AB5E84	Generates 10GW of power.	발전량: 10GW
+D64B1C38476C771ED78988B8CEC09936	Generates 150MW during the day and some at night!
+
+Has a higher efficiency due to its sun tracking solar panel, that brings the efficiency up to 69%.
+
+Some Renewable power from the binary star system of Akycha!	발전량: 150MW (낮 동안) / 약간 (밤)
+
+추적 태양 전지판 덕분에 효율이 최대 69%까지 향상됩니다.
+
+아키차 쌍성계로부터 오는 재생 가능 전력입니다!
+598B329C480C8825E4EC96A217ACE941	Generates 150MW of power.	발전량: 150MW
+F2225AAE46B1E6D18DCFA986C96FBD01	Generates 300MW of power.	발전량: 300MW
+556BE6C647401B3020BFDEACAA3141C1	Generates 500MW of power.	발전량: 500MW
+A93A0D8D4962624FD18A6C8527AA23A0	Generates 75MW during the day and some at night!
+
+Has a higher efficiency due to its sun tracking solar panel, that brings the efficiency up to 69%.
+
+Some Renewable power from the binary star system of Akycha!	발전량: 75MW (낮 동안) / 약간 (밤)
+
+추적 태양 전지판 덕분에 효율이 최대 69%까지 향상됩니다.
+
+아키차 쌍성계로부터 오는 재생 가능 전력입니다!
+336D83554FF6656776654F93AD1B077C	Generates 8MW during the day!
+Has a slider to set how much power you want to be maintained as an output!
+
+Some renewable power from the binary star system of Akycha!	발전량: 8MW (낮 동안)
+출력으로 유지할 전력량을 설정하는 슬라이더가 있습니다!
+
+아키차 쌍성계로부터 오는 재생 가능 전력입니다!
+2338BC9045D0BDB1BDD508919FCB2EFC	Generator Attached	Generator Attached
+36745FC9453926611346969C348B8D43	Greenhouse Gas	온실가스
+8C1108174DE9CBCE39C9708CCEBE7286	HV Generator	HV 발전기
+74CAC93543F67E0D8AF7B1946FEDFC1A	Heat Regulator	열 조절기
+A9573ED54B2C392D0AA815988CF00523	Heat Regulator	열 조절기
+AD55FA8B4A699AF0738480A909359875	Heat:	열:
+F7192A7947B8AC9CA0DC53A4A8217B58	Heater Attached	가열기 부착됨
+932335DC42EF955A20201984CB79C78B	Heater Not Attached	가열기 부착되지 않음
+[B9F9886148079BE617453D9472FF7C39]	Heater Not Attached	가열기 부착되지 않음
+804DB13F42412725085E44AB9382E99A	Heater Not Attached	가열기 부착되지 않음
+6248B5474BDEF90022918091D5C2E083	High Pressure	고압
+CBF4DC914816B9C82498689603B49B60	High Pressure Steam	고압 증기
+189F14E44358CEBFB81845926F7D968E	High Pressure Steam Canister	고압 증기 용기
+8548B7C0405A915FB8E0F1BFECBCBBBA	Home	집
+7D64C1844A17BA76781AA19654BE5A08	Hot Steam!	뜨거운 증기!
+37BB2F88411C6A4C0D1086A651587656	How to start the reactor	원자로 시동 방법
+7F95BA494DCF6A8E28DBC984D92527C3	How to stop the reactor	원자로 정지 방법
+B5254A20402A04FBC8488781D1FBA8C6	INSERT FUEL	연료 필요
+1D1EF480451A143C3CE21EA3EBB7F974	INSERT FUEL	연료 필요
+41D841C74F6AE205BDDB6DB8A9550BF5	IO	IO
+6667233B4EF0A73343535D9004636E8B	IO	IO
+9152E9844A6DED218DEB6FB5DC57CBDF	IO	IO
+52E1CF614E70B618E70DA0A0BF640EE9	IO Modules	IO 모듈
+6F5F3ABF406C6A9AF12674AF47BCE51A	ITEM NAME	아이템 이름
+E9C1EA2A4FB86B302AF66FA6AFA953DB	Icarus	이카루스
+7ADD9D8E44B8A86F0DDE2697BC651649	Icarus Terminal	이카루스 터미널
+741CCAAF4C72A885182A7EAF23686470	Icarus Terminal	이카루스 터미널
+239CCA854D5596B247AB3B903377AB1A	Idle	유휴 상태
+3A8E80FB4A90B5EC1B1061B6D7EB3386	Idle	유휴 상태
+5677B4D5403B780431D65D9EA2BCDF61	Injector Regulator	인젝터 조절기
+A6DD22244EFCC1E87D61D2A716BEA7F6	Injector Regulator	인젝터 조절기
+E013F01E46CF97B7DC8581B2B1EEF3AB	Injector Regulator	인젝터 조절기
+41B9812F49F5844714D5DE90C63F6947	Injector Regulator	인젝터 조절기
+7D771F9D4E7950979CAB93AE3B01CA8D	Instead of creating power directly turn the water into steam to use in a turbine	동력을 생산하는 대신 물을 직접 증기로 만들어 터빈에 사용합니다
+4354F30E404641A8C678DBBAD2D33C10	Interface to better utilise your reactors	원자로를 더 잘 활용할 수 있는 인터페이스
+039367634A9398C9795A33AF86A444D7	Interface to better utilise your reactors	원자로를 더 잘 활용할 수 있는 인터페이스
+0B6A633B4FBCBB0FCDF62795266BAC0C	Items	아이템
+C9BCD8F94BE3F4C6C2D988B55DD29688	LIGHT	빛
+A464959A461670F16C2AF3878EE62FF8	LVGenerator	LV 발전기
+766D7D6243BB811D358692B278B0AD78	LVGenerator	LV 발전기
+3348B5354571C393B4E9F79081C518E5	Liquid Deuterium	액체 중수소
+35D7ACCF439879771DAFE99706815010	Liquid Deuterium	액체 중수소
+14D905CC4615E750422295BE240C6709	Low Pressure	저압
+BDCF59F641413129BFC4748D3525CCAA	Low Pressure Steam	저압 증기
+4FCFF9E545604536CDBC34A23B53CA4D	Low Pressure Steam Canister	저압 증기 용기
+58FA562D47142506E843D7AECC72367A	MASSIVE thank you to everyone!!! we can't believe we are the first mod to hit 100,000 downloads! to celebrate we are gifting you a limited time only statue to build! n a week you wont be able to build this anymore or pick block it so build as many wherever you want while you can!	모두에게 엄청난 감사를 드립니다!!! 우리는 우리가 100,000 다운로드를 달성한 최초의 모드라는 것을 믿을 수 없습니다! 기념으로 우리는 당신에게 제한된 시간 동안만 지을 수 있는 조각상을 제공합니다! 일주일 안에 당신은 더 이상 이것을 짓거나 그것을 고를 수 없을 것입니다. 그러니 당신이 할 수 있을 때 어디든 당신이 원하는 만큼 만들 수 있습니다!
+6060B4EA47B736578399C3A6F6DF308E	MODULE	모듈
+C608339A45868433B48DE1948F4A9ABF	MP: Boiler	MP: 보일러
+481664ED4562BB7499B3F4BDE268B371	MP: Cooler	MP: 냉각기
+56D8AA7240F4392F5B88B591722B67C9	MP: Generator	MP: 제너레이터
+A983A4CD4F95B12199E8399D548C7CB0	MP: Heater	MP: 가열기
+2DAF85E140ACF6116FE4AAAB7471CBC6	MP: Turbine	MP: 터빈
+E2E3373C45F863A7F87D0DBE1F91CC4D	MV Generator	MV 발전기
+0D5395E5475E855B41EDE5A0E2A1C9FC	MW	MW
+DF32BD4A4E6B42766E44D5A42523DF68	Management	관리
+7C07D57D480A3E455903B9B287D56F03	Maximum Output: <TextValue>300MW</>	최대 발전량: <TextValue>300MW</>
+F1FC5EE04DB34E29D204AFBA7F621FB8	Maximum Output: <TextValue>300MW</>	최대 발전량: <TextValue>300MW</>
+3E1252CA4872A111F70E9E95D2DCA353	Maximum Output: <TextValue>{power}MW </>	최대 발전량: <textvalue>{전력}mw</>
+4C6BB9F445B150EBB9A5B49FC6010E39	Micro Reactor	초소형 원자로
+97DA142B4F08072A45901EA2FC0938E0	Micro Reactor	초소형 원자로
+A30994F6464FBDE882132594E007DAD4	Micro Reactor	초소형 원자로
+041052984C6C7DF3D320679E5D7E9A5B	Micro Reactor	초소형 원자로
+26F03A4B42085B39CBD0379B45601C19	Milestone reached: A new heating method has been made available by the Modular Power R&D Division. You are now able to combust flammable liquids in exchange for steam.	마일스톤 달성: 도달한 마일스톤: 모듈식 전력 R&D 부서에서 새로운 난방 방식을 사용할 수 있게 되었습니다. 이제 증기를 대신하여 가연성 액체를 연소할 수 있습니다.
+80627431488D713E32CE10A69D2195A2	Milestone reached: A new heating method has been made available by the Modular Power R&D Division. You are now able to combust flammable liquids in exchange for steam.	마일스톤 달성: 도달한 마일스톤: 모듈식 전력 R&D 부서에서 새로운 난방 방식을 사용할 수 있게 되었습니다. 이제 증기를 대신하여 가연성 액체를 연소할 수 있습니다.
+1E3295194E3032EB14F874AB37B84D51	Milestone reached: FicsIt R&D Have developed an automated biomass burner after learning of inefficiencies in power production. You can now automate production with an added Conveyor Input Hole	마일스톤 달성:  FicsIt R&D 전력 생산의 비효율성을 알게 된 후 자동 바이오매스 버너를 개발했습니다. 이제 컨베이어 입력 구멍을 추가하여 생산을 자동화할 수 있습니다
+91BCA5B5419EF24BD08392A8315CAD91	Milestone reached: FicsIt R&D Have developed an automated biomass burner after learning of inefficiencies in power production. You can now automate production with an added Conveyor Input Hole™	마일스톤 달성:  FicsIt R&D 전력 생산의 비효율성을 알게 된 후 자동 바이오매스 버너를 개발했습니다. 이제 컨베이어 입력 구멍을 추가하여 생산을 자동화할 수 있습니다™
+30BA870048CD644CC661139FEF22A707	Milestone reached: FicsIt R&D Have developed an automated biomass burner after learning of inefficiencies in power production. You can now automate production with an added Conveyor Input Hole™	마일스톤 달성:  FicsIt R&D 전력 생산의 비효율성을 알게 된 후 자동 바이오매스 버너를 개발했습니다. 이제 컨베이어 입력 구멍을 추가하여 생산을 자동화할 수 있습니다™
+EA1F6F0646CF3ADF8C4AF491AB042A09	Milestone reached: Fusion powered reactors are now available for producing high amounts of power. Note: This is a wasteless process, but requires coolant to be manufactured in order to keep the reactors within operating range.	마일스톤 달성: fusion 전력ed 원자로 are now available for 생산 high amounts of 전력. note: this is a wasteless process, but requires 냉각수 to be manufactu빨간색 in order to keep the 원자로 within operating range.
+75CF08B24B1FFB7150DC95B1A2719EC6	Milestone reached: Fusion powered reactors are now available for producing high amounts of power. Note: This is a wasteless process, but requires coolant to be manufactured in order to keep the reactors within operating range.	마일스톤 달성: fusion 전력ed 원자로 are now available for 생산 high amounts of 전력. note: this is a wasteless process, but requires 냉각수 to be manufactu빨간색 in order to keep the 원자로 within operating range.
+C11A895544AE0C3DDE41169D9BF499F6	Milestone reached: In exchange for several R&D members due to radiation poisoning, Modular power division have produced 100% safe high power generation methods for you to utilise in production. These include a nuclear combustion chamber and a high voltage generator. Note: Working with nuclear resources can cause death, which is not recommended for 100% efficiency	마일스톤 달성:  방사선 중독으로 인한 여러 R&D 멤버를 대신하여 모듈러 발전 부문은 100% 안전한 고출력 방식을 생산에 활용할 수 있도록 제작하였습니다. 여기에는 핵 연소실과 고전압 발생기가 포함됩니다. 참고: 핵 자원으로 작업하면 사망을 초래할 수 있으며, 이는 100% 효율성을 위해 권장되지 않습니다
+BEC109EF422D4007E4430CBA9D7ADF3B	Milestone reached: In exchange for several R&D members due to radiation poisoning, Modular power division have produced 100% safe high power generation methods for you to utilise in production. These include a nuclear combustion chamber and a high voltage generator. Note: Working with nuclear resources can cause death, which is not recommended for 100% efficiency	마일스톤 달성:  방사선 중독으로 인한 여러 R&D 멤버를 대신하여 모듈러 발전 부문은 100% 안전한 고출력 방식을 생산에 활용할 수 있도록 제작하였습니다. 여기에는 핵 연소실과 고전압 발생기가 포함됩니다. 참고: 핵 자원으로 작업하면 사망을 초래할 수 있으며, 이는 100% 효율성을 위해 권장되지 않습니다
+D8984C8F476C4347C9EC21B3A6EB1063	Milestone reached: In exchange for several R&D members due to radiation poisoning, Modular power division have produced 100% safe high power generation methods for you to utilise in production. These include a nuclear combustion chamber and a high voltage generator. Note: Working with nuclear resources can cause death, which is not recommended for 100% efficiency	마일스톤 달성:  방사선 중독으로 인한 여러 R&D 멤버를 대신하여 모듈러 발전 부문은 100% 안전한 고출력 방식을 생산에 활용할 수 있도록 제작하였습니다. 여기에는 핵 연소실과 고전압 발생기가 포함됩니다. 참고: 핵 자원으로 작업하면 사망을 초래할 수 있으며, 이는 100% 효율성을 위해 권장되지 않습니다
+F7A945604B93D112952A7BB20E0B4C4B	Milestone reached: In exchange for several R&D members due to radiation poisoning, Modular power division have produced 100% safe high power generation methods for you to utilise in production. These include a nuclear combustion chamber and a high voltage generator. Note: Working with nuclear resources can cause death, which is not recommended for 100% efficiency	마일스톤 달성:  방사선 중독으로 인한 여러 R&D 멤버를 대신하여 모듈러 발전 부문은 100% 안전한 고출력 방식을 생산에 활용할 수 있도록 제작하였습니다. 여기에는 핵 연소실과 고전압 발생기가 포함됩니다. 참고: 핵 자원으로 작업하면 사망을 초래할 수 있으며, 이는 100% 효율성을 위해 권장되지 않습니다
+93CB6DF245E44BE7EFE3E4B2C63653E5	Milestone reached: R&D from the Refined Power branch of FicsIt have developed improved wind generation devices. Note: These devices have to be distanced 12 to 20 foundations in order for maximum efficiency. In addition, your resource scanner has been provided with the ability to detect unknown elements. R&D has allowed me to name a particular one: Element 65. Warning: This element is unknown and may be dangerous. Take caution	마일스톤 달성: 도달한 마일스톤: Fics의 Refined Power 지점의 R&D 향상된 풍력 발전 장치를 개발했습니다. 참고: 이러한 장치는 최대 효율성을 위해 12~20개의 기초 사이의 거리를 두어야 합니다. 또한 리소스 스캐너에 알 수 없는 요소를 탐지하는 기능이 제공되었습니다. R&D는 제가 특별한 이름을 지을 수 있게 해주었습니다. 요소 65입니다. 경고: 이 요소는 알 수 없으며 위험할 수 있습니다. 조심하세요
+8B650F70477702D57558259352CD1A75	Milestone reached: R&D from the Refined Power branch of FicsIt have developed improved wind generation devices. Note: These devices have to be distanced 12 to 20 foundations in order for maximum efficiency. In addition, your resource scanner has been provided with the ability to detect unknown elements. R&D has allowed me to name a particular one: Element 65. Warning: This element is unknown and may be dangerous. Take caution	마일스톤 달성: 도달한 마일스톤: Fics의 Refined Power 지점의 R&D 향상된 풍력 발전 장치를 개발했습니다. 참고: 이러한 장치는 최대 효율성을 위해 12~20개의 기초 사이의 거리를 두어야 합니다. 또한 리소스 스캐너에 알 수 없는 요소를 탐지하는 기능이 제공되었습니다. R&D는 제가 특별한 이름을 지을 수 있게 해주었습니다. 요소 65입니다. 경고: 이 요소는 알 수 없으며 위험할 수 있습니다. 조심하세요
+FC1C1C6A4F6679BFA7A727918918516C	Milestone reached: R&D has now provided the ability to harvest the power of a star within your system. Note: This is a lengthy process and requires a constant flow of materials to keep operational. Ficsit does not waste. 	마일스톤 달성: R&D는 이제 시스템 내에서 별의 힘을 수확할 수 있는 기능을 제공했습니다. 참고: 이 프로세스는 시간이 오래 걸리고 지속적으로 작동하려면 재료의 흐름이 필요합니다. 픽시트가 낭비되지 않습니다. 
+74709A714D19B9159FE7828149A7C138	Milestone reached: R&D has now provided the ability to harvest the power of a star within your system. Note: This is a lengthy process and requires a constant flow of materials to keep operational. Ficsit does not waste. 	마일스톤 달성: R&D는 이제 시스템 내에서 별의 힘을 수확할 수 있는 기능을 제공했습니다. 참고: 이 프로세스는 시간이 오래 걸리고 지속적으로 작동하려면 재료의 흐름이 필요합니다. 픽시트가 낭비되지 않습니다. 
+24F2A3394DAA65094CBF0284098F6C94	Milestone reached: R&D have developed refining process for carbon based minerals. These can be further used in construction of the dyson sphere, and in the production of photovoltaic cells	마일스톤 달성: r&d have developed refining process for carbon based minerals. these can be further used in construction of the 다이슨 스피어, and in the 생산 of 광전지s
+F630A2CB47C4D2BB3C8863A4BAE06102	Milestone reached: R&D have developed refining process for carbon based minerals. These can be further used in construction of the dyson sphere, and in the production of photovoltaic cells	마일스톤 달성: r&d have developed refining process for carbon based minerals. these can be further used in construction of the 다이슨 스피어, and in the 생산 of 광전지s
+4A46CD2B414CC648F753A081A4C0E186	Milestone reached: R&D have identified new power generation locations for your new FicsIt approved water turbines. These are now easier to find due to an update to your resource scanner. In addition, photovoltaic cells have been tweaked and provided for use in solar panels to provide energy for exploration outposts	마일스톤 달성: r&d have identified new 전력 generation locations for your new ficsit approved 수력 터빈s. these are now easier to find due to an update to your resource scanner. in addition, 광전지s have been tweaked and provided for use in 태양 전지판s to provide 에너지 for exploration outposts
+146DC0C34DF770869A553286A732DC68	Milestone reached: R&D have identified new power generation locations for your new FicsIt approved water turbines. These are now easier to find due to an update to your resource scanner. In addition, photovoltaic cells have been tweaked and provided for use in solar panels to provide energy for exploration outposts	마일스톤 달성: r&d have identified new 전력 generation locations for your new ficsit approved 수력 터빈s. these are now easier to find due to an update to your resource scanner. in addition, 광전지s have been tweaked and provided for use in 태양 전지판s to provide 에너지 for exploration outposts
+AE0879D24839820E9F5729B671B51251	Milestone reached: Refined Power R&D division have discovered more conventional methods of generating power on your assigned Space Work Rock. However, due to credit shortages, they were unable to combine the processes, therefore they named it Modular Power. Stay Efficient	마일스톤 달성:  정제된 전력 R&D 부서는 할당된 스페이스 워크 록에서 전력을 생산하는 보다 일반적인 방법을 발견했습니다. 그러나 신용 부족으로 인해 프로세스를 결합할 수 없었기 때문에 Modular Power라는 이름을 붙였습니다. 효율성 유지
+55624F794A9BA1D1CD6B04A2F4E8BD3F	Milestone reached: Refined Power R&D division have discovered more conventional methods of generating power on your assigned Space Work Rock. However, due to credit shortages, they were unable to combine the processes, therefore they named it Modular Power. Stay Efficient	마일스톤 달성:  정제된 전력 R&D 부서는 할당된 스페이스 워크 록에서 전력을 생산하는 보다 일반적인 방법을 발견했습니다. 그러나 신용 부족으로 인해 프로세스를 결합할 수 없었기 때문에 Modular Power라는 이름을 붙였습니다. 효율성 유지
+F4F9F732457C9A068153A59905E25069	Milestone reached: The Refined-Power R&D Division have developed a new power generation method. This building can generate up to 30MW of power based on its altitude. Note: If a wind generation device is within the vicinity of another building of the same type, performance will not be optimal. Stay Efficient!	마일스톤 달성: the refined-전력 r&d division have developed a new 전력 generation method. this 건설ing can generate up to 30mw of 전력 based on its altitude. note: if a wind generation device is within the vicinity of another 건설ing of the same type, performance will not be optimal. stay efficient!
+65DE514E4D3507F776A4FD96F8538DA9	Milestone reached: The Refined-Power R&D Division have developed a new power generation method. This building can generate up to 30MW of power based on its altitude. Note: If a wind generation device is within the vicinity of another building of the same type, performance will not be optimal. Stay Efficient!	마일스톤 달성: the refined-전력 r&d division have developed a new 전력 generation method. this 건설ing can generate up to 30mw of 전력 based on its altitude. note: if a wind generation device is within the vicinity of another 건설ing of the same type, performance will not be optimal. stay efficient!
+1DA47EA9446704E9D333BEB057CF7EED	Milestone reached: The new Modular Power R&D division have been assinged to improve Modular power. They have now provided you with upgraded Boiling and generation methods.	마일스톤 달성:  모듈식 전력을 개선하기 위해 새로운 모듈식 전력 R&D 부서가 배정되었습니다. 그들은 이제 당신에게 업그레이드된 비등 및 생성 방법을 제공했습니다.
+34CF95AC407DDBF433BD0C91C24BA9C6	Milestone reached: The new Modular Power R&D division have been assinged to improve Modular power. They have now provided you with upgraded Boiling and generation methods.	마일스톤 달성:  모듈식 전력을 개선하기 위해 새로운 모듈식 전력 R&D 부서가 배정되었습니다. 그들은 이제 당신에게 업그레이드된 비등 및 생성 방법을 제공했습니다.
+E92A43E74EB708DC81515BB695ECE37B	Milestone reached: You now have access to an upgraded solar panel, which utilizes sun tracking technology to ensure maximum efficiency. R&D have also outfitted this new model with a battery to ensure 100% productivity. Note: A manual input has been added to control the amount of power stored	마일스톤 달성: you now have access to an upgraded 태양 전지판, which utilizes sun tracking technology to ensure maximum efficiency. r&d have also outfitted this new model with a battery to ensure 100% 생산성. note: a manual input has been added to 컨트롤 the amount of 전력 sto빨간색
+A2158C5A41D040D5E0EBCE98647F444C	Milestone reached: You now have access to an upgraded solar panel, which utilizes sun tracking technology to ensure maximum efficiency. R&D have also outfitted this new model with a battery to ensure 100% productivity. Note: A manual input has been added to control the amount of power stored	마일스톤 달성: you now have access to an upgraded 태양 전지판, which utilizes sun tracking technology to ensure maximum efficiency. r&d have also outfitted this new model with a battery to ensure 100% 생산성. note: a manual input has been added to 컨트롤 the amount of 전력 sto빨간색
+EA10D3A94AA6124468D11C83AECFB392	Misc	기타
+BF6FD57F4CDA769CDE6C59B304C91C7C	Mk1 water turbine can only be placed on dedicated nodes placed all around the world that can be found by the scanner!
+Generates 8, 20, 50MW depending on the node it is placed on
+
+Some sploosh power for your factory with no item input!	Mk1 수력 터빈은 스캐너로 찾을 수 있는 전 세계에 배치된 전용 노드에 배치할 수 있습니다!
+배치된 노드에 따라 8, 20, 50MW를 생성합니다
+
+공장에 아이템이 없더라도 약간의 날개를 실어줄 수 있습니다!
+393FDD444AD06A7A5E017B81BBA3D70F	Modular Combustion	모듈식 연소
+AB3568AD462401EF06D175869365A717	Modular Parting	모듈식 분할
+C73C50A64658416EEA8893BF7E11CB58	Modular Power Boiler	모듈식 전기 보일러
+156C1C424B774666DAC23881EDBED950	Modular Power Cooler	모듈식 전기 냉각기
+B8CCB72A43480045B4EA8793F764462C	Modular Power Generation	모듈식 발전
+571A0E4D4F35B46BB5C1D9BCCD5C6839	Modular Power Generator	모듈식 발전기
+4ED68AAE48EC942F4819E2808924003E	Modular Power Heater	모듈식 전기 가열기
+8FC4D5FC4A2152559A8E3D90A1DC6DC4	Modular Power Turbine	모듈식 동력 터빈
+030BBFD548D21FEC9A002FBD37AB78A6	Modular Power: Cooler	모듈식 전원: 냉각기
+5E1DF6674C76DE0629E235B867DD0EB5	Modular Power: Heater	모듈식 전원: 가열기
+7DC827DE41F39C15FDFED79C929D1F44	Modular Power: Power	모듈식 전원: 전원
+74B105FF446E0DCDB9BB2D83193286B4	Modular Reactor	모듈형 원자로
+0685448745B6E9D2AF024F9F735D0216	Modular Reactor	모듈형 원자로
+609B7FA44D806646630B4296F94635C7	Modular Reactor Basic Guide	모듈식 원자로 기본 가이드
+E47B67444A43A8801EED5DB91AA7CFF0	Modular Reactor Better Shielding	모듈식 원자로 차폐 개선
+96283A254D47FF950686B0B127601917	Modular Reactor Buildings	모듈식 원자로 건물
+A6241A0C408306CE577924BEEFF63CDD	Modular Reactors	모듈식 원자로
+91E602A7487E6D3FAE497C86AB517C8A	Modular Reactors	모듈식 원자로
+8D10342649E6638BEFEB1A916728C46C	Modular Reactors Cooling	모듈식 원자로 냉각
+557548774CBA9F1B774EFFAB482884CE	Monitor Unit	모니터 장치
+75B4D7014D6DBD4E4C54989F34A679FF	Monitor Unit	모니터 장치
+9606D0B44DF91E599F19ED8B22ADEB68	Monitor Unit	모니터 장치
+C153E73944CA702E2E492692F7F5261F	Monitor Unit	모니터 장치
+CAE17EF747D8E5DA2A8CA2A04B39FAD4	Monitor Unit	모니터 장치
+3A50A89F4B73721F883EE7969B7CD6B5	Monitor Unit	모니터 장치
+2E72B8C541715CAEA89F97A7A595701D	Multiplier	곱셈기
+443FF49C4D9B0EB7741B0D8E5CA4650F	Multiplier	곱셈기
+55FFB1BE431B07601E79D39CEC54CDDE	Multiplier	곱셈기
+E5F12E7C42824CA820564A9F9E238FA1	Multiplier	곱셈기
+583418C449E48EAB6AB59AA1B4E0A8B1	NOT USED	사용되지 않음
+1D86A154461804B8AD8C128D0AD3E88E	NOT USED	사용되지 않음
+8E8B1E84425CA6CDD48B4189F354BAF7	Need first a heater!	가열기가 먼저 필요합니다!
+94898F004DEEEEE1E98FA8B0531D47C3	Next	다음
+4E3BF8924D5280AF7A4CAC98D510BD9B	No Generator	발전기 없음
+86A5F3E94EC7C0E1C8718AA011C03E03	No Generator	발전기 없음
+[888D51A843053011565060A64B31C351]	No Generator	발전기 없음
+D2FDBC2843981B585CCB63BE1B5C893B	No Turbine	터빈 없음
+[BE1E873740012CF5333651A6E8A44E30]	No Turbine	터빈 없음
+C25690EA488463C1E18966BDA95C53D3	No Turbine	터빈 없음
+A60785204F2D98177F83BA84D0D0E42D	Node used for placing water turbines on.	물 터빈을 배치하는 데 사용되는 노드입니다.
+313FAA8540611002294387B2FDF760B5	Nuclear Heater	원자력 가열기
+0A677B5341D05FF053748DB5B6D71DEB	Nuclear Heater	원자력 가열기
+494B48CB4D772BD2A1A29F8202B3ECE6	OFFLINE	오프라인
+[D7D014BA44B85FF86AA44E98D07901F7]	OFFLINE	오프라인
+C1CCBB734936F9187D8C6681D95A9E16	ORANGE	오렌지
+F90A0A7F4F0B9FF48B92C69820095CA6	OUTPUT	출력
+952DD8F24CD8627E17B641B665F6656D	OUTPUT	출력
+34E0614145E4F35A92AF0BAEA55F9D07	Overview / About	개요 / 정보
+FD276ABF41FD756A0D8A7EA9F1515E59	PRODUCING	생산
+65FE6CA2402A55E53B61C2AAA9C65347	PRODUCING	생산
+9F2DC42B413FD4ECF295B199E93DF84A	PRODUCTIVITY	생산성
+3FEFB9FB426561F6491FF797D92ACFD1	PROXIMITY	근접성
+95C489074E630D6456561AA4D658B2CB	Packaged Co2	포장된 이산화탄소
+D3D8CDEE46CAD1BDB6067B86F40DA882	Packaged High Pressure Steam	포장된 고압 증기
+21C613D84CE02F89BF492E9DC9172503	Packaged Low Pressure Steam	포장된 저압 증기
+95630E984911727061178EA5CA0CD9EC	Particles	입자
+35184C1A4DF1E8688FEF168AEC54B26E	Photovoltaic Cell	광전지
+82EC233F408F42183D55428D157BEAC7	Photovoltaic Cell	광전지
+CF23DAA64DA786E764583F9ED4922E94	Photovoltaic Cell	광전지
+7F397B494B117DBB23BC62B933F8817F	Planning your factory	공장 계획
+5B24E7A74C82CAAE9BCAD3950ED69320	Power	전력
+1933E7D24E2D9386880F8D9C3F2A9A7C	Power	전력
+9FE6C9F044494B58233CE58073E5A1F4	Power Output:	전력 출력:
+55D40712416287EB7EB5AF9D40DDC059	Power Output:	전력 출력:
+F10727054389E8D38B5618B0D765E012	Power Output:	전력 출력:
+870EA85541F9F166ACE3569D8AAC29D9	Prev	이전
+69373CF94F9862D4F3585684F733A3C8	Production	생산
+6E4D85444C38B26AA854B283A84A9284	Production	생산
+C01E3CA842B7F80042CFA39D95A9B3C8	Production	생산
+31F7D6774D78B3891715109DBD67A49A	Production	생산
+EE2DC5CB405764369E3ECF847803CA74	Project Icarus	이카루스 계획
+3C9B6CAB4BBA139D03C436BF691204A1	REACTOR 01	원자로 01
+003ADFE44D09F465AC48D6946B495CF8	REACTOR 0{index}	원자로 0{index}
+59D75CD840DB06B731328784F84EED7B	RED	빨간색
+701882E7434EA78416DC5595ECAE09BA	REGULATOR	조절기
+6AAF804B43D33CF3173D12A16A5C9E0E	REGULATOR	조절기
+A9D2E1F0466B1F394E7888838F4681B6	ROTATIONAL	회전식
+32DF84A348848982825C4C9CC8B32CD4	RP Patreon Icarus Unlock	RP Patreon 이카루스 잠금 해제
+D273494A4EEF4E599860D39C0DEB4213	RP Patreon Unlock	RP Patreon 잠금 해제
+9328EE2A4ECC0419D76557B75A5FCA64	RPM:	RPM:
+DD92870746DA4D587F348CA424109173	RPM:	RPM:
+C6E170824B15D728885A8B8507220CEF	RUNNING	작동 중
+794244564D0148B712082A803830419C	RUNNING	작동 중
+A5FD7E0F41709DC08D3960B749DFDD30	Radation	방사선
+62542B3A444D1BD1F47F80831862B99A	Radation	방사선
+6034A27A4FD011985642F39C0C563480	Reactor Chamber	원자로 챔버
+F7629FA94FC7E909787F2E9FC4A2A3AD	Reactor Chamber	원자로 챔버
+058762DD44C01EB1AFDCF0B5525B9A6F	Reactor Chamber	원자로 챔버
+74941A3C46025972502EB3BAF5B273CC	Reactor Coolant	원자로 냉각제
+7F2304EE4A3DB9DCE36AD890BE3316B8	Reactor Coolant	원자로 냉각제
+63FFA17F4A5BB50FD0BCF3A25961A1D3	Reactor Coolant is used to cool the Arc Reactor.	원자로 냉각제는 아크 원자로를 냉각하는 데 사용됩니다.
+6A3F3256434D0E66497953904B5AF307	Reactor Cooling	원자로 냉각
+C68D80954708D3A8EC54CFA88BAA4F71	Reactor Cooling	원자로 냉각
+454D41B744128DAEDF3A69830CC9D145	Reactor Cooling	원자로 냉각
+2FD145B64AAF84786C90528ED177ECB3	Reactor Foundation	원자로 기초
+7C8F900F44A1B3AD3EEBA29EA40E60AA	Reactor Foundation	원자로 기초
+C23A17014F1CAFEC9D2174AF61BE40B4	Reactor IO	원자로 IO
+DDE63B6843F1118C12422E8C280C524E	Reactor IO	원자로 IO
+9D5BE4764BA1EEA294CBD180CBDF5AA0	Reactor IO	원자로 IO
+A67DD787473E2119AFB9B2AD79AFA94E	Reactor Sheilding	원자로 차폐
+351878184AD512A7B22F3D98983BBB30	Reactor Sheilding	원자로 차폐
+B0466316465F3BAA76CE529E73EBB1B2	Reactor Shielding Mk1	원자로 차폐 Mk1
+802E0A8E41A4BCB65EC655ACA4EFEAFB	Reactor Shielding Mk1	원자로 차폐 Mk1
+F12884A34F13A17896CB8BA6EE1A1EA7	Reactor Shielding Mk1	원자로 차폐 Mk1
+A71DEB04498882ACA3A4A8A266699399	Reactor Shielding Mk2	원자로 차폐 Mk2
+D3BBCEA34177D76F07896280D32FEABD	Reactor Shielding Mk2	원자로 차폐 Mk2
+9C191B694B930666B29CB5BAD933D3EE	Reactor Shielding Mk2	원자로 차폐 Mk2
+B65F76A74814A3390840DE8EB79940A7	Reactor Shielding Mk3	Reactor Shielding Mk3
+FB5A2FEE4A245E1807A433953232F2A1	Reactor Shielding Mk3	Reactor Shielding Mk3
+AB7512A84381D4F17FB4A2B8AA4C6371	Reactor Shielding Mk3	Reactor Shielding Mk3
+AE4585924DDCB84F1E91A08012F33D1D	Reactor Support Ring	원자로 지지 링
+D502C293403840B55CB698A7B76E8BA2	Reactor Support Ring	원자로 지지 링
+DFBAC2B245B210DCA8FF2C9C633CDEAA	Reactor Support Ring	원자로 지지 링
+6D4C679A4EB41D31AB91B5879E7E171E	Reactor Triggered EStop - Reason: {Reason}	원자로 비상 정지됨 - 사유: {Reason}
+8F8A5F2B4FEA6CC7FC237D9019C3474D	Reactors	원자로
+B5B25BBF4187750DEE0DC1984C3533CD	Refined E65	정제된 E65
+59C96EBF48CEDCFCDDFF09906F8D843E	Refined E65	정제된 E65
+B403A40043D50BADEEC56F85B70A1A0D	Refined Power	정제된 힘
+A9E6EA914A997AC944FF999DABB731D0	Refined Power	정제된 힘
+CB5103BD409ECDE1F40C89964F88A77A	Refined Power	정제된 힘
+C38CFF2E4D7CB2A4B309588C19916111	Refined Power Auto Biomass	정제된 동력 자동 바이오매스
+51CA50E74F50D5F9568168BA853C0002	Refined Power Mk1	정제 파워 Mk1
+940D4D4F40435ACD9D4C3EB099C61297	Refined Power Mk2	정제 파워 Mk2
+42C09D9042F540F1CC497BA662591FCE	Refined Power Mk2	정제 파워 Mk2
+5711DC52410DCF430E017AB531278415	Refined Power Mk3	정제 파워 Mk3
+5B0238964A7E99F8286A3E9353A59D50	Refined Power Mk4	정제 파워 Mk4
+0EC6B301423CFFC4965C67971C1B35B0	Refined Power Solar Panels	정제된 동력 태양 전지판
+92622E6E4B5A85B954E405BCB5A51238	Refined Power Solar Panels	정제된 동력 태양 전지판
+E4F1A1144408CA38EECD159C14154197	Refined Power Tier 0	정제된 전력 계층 0
+F42742C74FD12723CB0500815791F5ED	Refined Power Tier 1	정제된 파워 Tier 1
+3AB254A94673EE1E47F54A9ACFC320CB	Refined Power Tier 2	정제된 파워 Tier 2
+7E8258CF46F89CB5DAA739ABC829C107	Refined Power Tier 3	정제된 파워 Tier 3
+59A56D3C4B92E23A3143459C3A81D77E	Refined Power Tier 3.2	정제된 파워 Tier 3.2
+6FB3AF4849D027A918A5C3A6FF6AB3EF	Refined Power Tier 5	정제된 파워 Tier 5
+9B0FC88A4BB33AB55E182DB8FA71EBAD	Refined Power Tier 5.2	정제된 파워 Tier 5.2
+770B82FF4A1C6DCFDEEF32AA885D964B	Refined Power Tier 7	정제된 파워 Tier 7
+8AED18EF422663F9C7088E9FF881C62B	Refined Power Tier DS1	세련된 파워 Tier DS1
+4D2742CD4742E22EB138B1A3CDCAF78F	Refined Power Tier DS1	세련된 파워 Tier DS1
+19579762456A3EDE4B04C19F19EB0EA8	Refined Power Tier MP1	세련된 파워 티어 MP1
+E7E85BE742C08C0C9D78E182FBF8DE63	Refined Power Tier MP2	세련된 파워 티어 MP2
+7BB60D7246355CCD7C6FF08A8231BE2F	Refined Power Tier MP3	세련된 파워 티어 MP3
+3A27E67B4EBF520724CF88BB58357141	Refined R&D has impoved reactors that can be enhanced by researching.	정제된 R&D는 연구를 통해 강화될 수 있는 원자로를 개선했습니다.
+9B7EBFC34022814DB0A19EBA98584577	Refined Research and Development (RR&D) is proud to present to you this highly advanced modular reactor system for superior power generation within offworld industrial settings.
+
+RR&D have designed this system to provide for your energy needs for the full term of your contract with Ficsit Inc. Which includes expansion of generation mechanisms, extensive upgrade opportunities, and the full utilisation of secondary systems to enable you to realise the full potential of the design.	refined research and development (rr&d) is proud to present to you this highly advanced 모듈형 원자로 system for superior 전력 generation within offworld industrial settings.
+
+rr&d have designed this system to provide for your 에너지 needs for the full term of your contract with ficsit inc. which includes expansion of generation mechanisms, extensive upgrade opportunities, and the full utilisation of secondary systems to enable you to realise the full potential of the design.
+3463EC554AC4D928F0ACEEA2EE620902	Regulator	조절기
+AF63064C4971D715E7ACB39915FF5BB8	Regulator	조절기
+C1891A864604C43BB53028B2847F4D52	Regulator	조절기
+FC666CBB495E2EF55585BA8892EA207F	Regulator	조절기
+45093D7E48D442786C6F3F93AE3ABD10	Reinforced Carbon-Carbon	강화 탄소-탄소
+5AD743F3434AB6A1E61A4ABF30A6E22B	Reinforced Carbon-Carbon	강화 탄소-탄소
+105F2CBA4BD4974EFA951FB9DAEF0072	Reinforced Carbon-Carbon	강화 탄소-탄소
+C603E1664B63555100730FAE2DE77BFA	Resource and research requirements	자원 및 연구 요구사항
+A3B310244E46B5A251ECE5A7A8F7A63E	Rotational	회전식
+B18C49E448E5545F3A2DF39B3B04E493	SC RefinedPower	SC 정제 전력
+90D2E0414C261A51093AD382988A5B2D	SENSOR	센서
+5BF78B0E4774AC0E15EF6E89D2F9944B	Shareholders will know this by the RR&D internal memo code-name of: Project Big Cake.
+
+We would like to remind shareholders to utilise their priority access chips to enhance their user experience.
+	Shareholders will know this by the RR&D internal memo code-name of: Project Big Cake.
+
+We would like to remind shareholders to utilise their priority access chips to enhance their user experience.
+
+0AB330194122F1DCC3F01C8D9414E8A7	Show Sphere	구체 표시
+423D6FDF46CB6C287D52EAA59E9AF4AC	Solar Panel	태양 전지판
+6298AAE5480D87E8743E2B950D6B004A	Solar Panel Mk1	태양 전지판 Mk1
+DCFF793043316C0FD7DBD0A650610D64	Solar Panel Mk1	태양 전지판 Mk1
+F0AF0D304141092416EEF8910881C5E2	Solar Panel Mk1	태양 전지판 Mk1
+568D55C7459F67CA985989B9E471653B	Solar Panel Mk2	태양 전지판 Mk2
+2F9EFB7049925F1CCB57DD84728C0A4D	Solar Panel Mk2	태양 전지판 Mk2
+517D6B184C3AF32EC57BA5A601AAEF77	Solar Panel Mk3	태양 전지판 Mk3
+48D8B6E5413D7E33C75AB1B7D8466002	Solar Panel Mk3	태양 전지판 Mk3
+7E2D79E2452DF6C54BD81B8E255AD602	Solar Panels	태양 전지판
+C4EB07C1451F79267FFC1D8F4EAF229B	Solar Roof	태양열 지붕
+8FA627644A3C6ABBF6A9A2AB2B692C63	Solar Roof Material	태양열 지붕 재료
+83861A4A4FAA520935F595933CB87CA5	Solution Heater	솔루션 가열기
+9EDD0D21484C16E6C0C3E4836021FF64	Solution Heater	솔루션 가열기
+6EB049B64B3D5E52945B58BC203AEBD4	Sound	소리
+7251079E4FAF80A66B12159EE2DEE484	Starting	시작하는 중
+1139F9AB4A9101CCBA575399AE65A8EB	Starting	시작하는 중
+DBE019054574C9A30B1F8A8AF212FA1C	Steam Containment	증기 격납 장치
+4F9C5E374F9E52AE70FE5F8D30A33410	Steam Containment	증기 격납 장치
+433BC38846A111119556C3969EB52A28	Steam Conversion	증기 변환
+90E6913A44711B235B51F5A0348F014E	Steam Cooling Tower	증기 냉각탑
+2143A7E14B2B3AFEAF72E79D6674C05B	Steam Cooling Tower	증기 냉각탑
+E2AFCE8449D72CABCF061698B0656D06	Steam Pump	증기 펌프
+DB1D3D734468073C3A64EBB131E108F5	Steam Pump	증기 펌프
+391F4B10496F5164A91573835460F1F4	Steam Water	스팀워터
+8D15DDEB491B366D1AAB158CCF21C971	Stopping	정지 중
+C8630E2E42C25B275D22AE88D7674C65	Stopping	정지 중
+317E04604831CD22D0C918912F7C20CA	Super Conductivity	초전도성
+F89FC0CD439D708E36847CAC4D963681	Super Conductor Platform	슈퍼 컨덕터 플랫폼
+094C5667460FD8D3567314B616276504	Super Conductor Platform	슈퍼 컨덕터 플랫폼
+A68E44C342AC30B813FF7795BC31485D	Super HV Generator	슈퍼 HV 발전기
+B928DA5749371369E161BBAA0C92E84B	Super HV Turbine	슈퍼 HV 터빈
+AC43573A4FEB05CC03A27B951E190995	THANK YOU! to everyone who plays and enjoy the mod, to celebrate us hitting this 2nd milestone we have given you a limited build time for it to be placed in your world! in a week you wont be able to build this anymore or pick block it so build as many wherever you want while you can!
+
+The Tesla coil also does some spicy stuff
+
+And as always massive thanks to our patreons and detonators! you guys are legends	thank you! to everyone who plays and enjoy the mod, to celebrate us hitting this 2nd milestone we have given you a limited 건설 time for it to be placed in your world! in a week you wont be able to 건설 this anymore or pick block it so 건설 as many wherever you want while you can!
+
+the tesla coil also does some spicy stuff
+
+and as always massive thanks to our patreons and detonators! you guys are legends
+9E4B64A0460CDAD42EC64ABB3FAE5621	Temperature:	온도:
+EA21501A4D9A445402908595D18165BE	Temperature:	온도:
+B9E45338492A39CE9B67D99E62F5B3A2	Tesla Coil - 250k downloads	Tesla Coil - 250,000 다운로드
+BB0094504B86C06EC0631AB6A7D7301A	The Dyson Sphere is capable of 1TW of power once all hangars are unlocked and requires all 4 Build Stages to be completed.	다이슨 스피어는 모든 격납고의 잠금이 해제되면 1tw의 전력을 사용할 수 있으며, 4개의 빌드 단계를 모두 완료해야 합니다.
+7D24C3104F274B009F4C94AB54314FBD	The modular reactors for dummys guide will get you started into the world of reactor improvements.	더미 가이드를 위한 모듈식 원자로는 여러분을 원자로 개선의 세계로 안내할 것입니다.
+478242DB4AC6DF2F86EE4D8EB3639C31	There are a few ways to stop the reactor
+1. By triggering an emergency stop via lack of resources or steam over-pressure
+2. By correctly shutting down activity.
+3. Switching both Power & Steam output to the ‘OFF’ state.
+	there are a few ways to stop the reactor
+1. by triggering an emergency stop via lack of resources or steam over-pressure
+2. by correctly shutting down activity.
+3. switching both 전력 & steam 출력 to the ‘off’ state.
+
+CCBE072340734349AB3008938CA818F8	Thorium	토륨
+18F286F04525CAB31302C99B315CA7C9	Thorium	토륨
+A88744224A67D367530905B7C412927F	Time: 	시간: 
+46F4BCDB4ABD76E283086797BE2BE266	Turbine	터빈
+2F89B3254194DFB3CE626185A73BD013	Turbine Attached	터빈 부착됨
+6D0AB8DD4FCEA979C09795A0B24C9C86	Turbine Mk1	터빈 Mk1
+817C56FE4AF5F201CE36FDAE3E2F89A6	Turbine Mk2	터빈 Mk2
+A7F9B6D8403356DDB0FF8FBF8A1B3558	TurbineMk1	터빈 Mk1
+3039B26049589361664001BA73FBFA07	TurbineMk2	터빈 Mk2
+D1B4AB0A4E095F57DFD6B8BE13904DB8	Turbines	터빈
+3EEE5821453A6EF524B7DAAFE12B3205	Unfiltered Deuterium	여과되지 않은 중수소
+CA05DA394B859A0643D9B7AD1D19F3A8	Unfiltered Deuterium	여과되지 않은 중수소
+EE4C00CE4D236038F1B5C1BFC6B974F7	Unknown Refined Power	알 수 없는 정제된 힘
+2C3580CE4A5B9C7A1C3AA2BC49E1A2A8	Unpackaged Co2	포장되지 않은 이산화탄소
+E8000ECD47403FBE145DDFB3409D96DA	Unpackaged High Pressure Steam	포장되지 않은 고압 증기
+5A0119CC4DCA6F0CEF5C48B8D334027E	Unpackaged Low Pressure Steam	포장되지 않은 저압 증기
+C8A237964DF30A597108B3863538BE58	Used to burn any type of biofuel to be turned into heat and makes a waste product of Carbon Dioxide that needs to be vented out or used in recipes.
+
+Can produce up to 500° heat.	Used to burn any type of biofuel to be turned into heat and makes a waste product of Carbon Dioxide that needs to be vented out or used in recipes.
+
+Can produce up to 500° heat.
+4274EF01406A6E01039F7E8C94AE7E0E	Used to burn any type of liquid carbon-based fuel to be turned into heat and also makes a waste product of carbon dioxide that needs to be vented out or used in recipes.
+
+Can produce up to 750° heat.	Used to burn any type of liquid carbon-based fuel to be turned into heat and also makes a waste product of carbon dioxide that needs to be vented out or used in recipes.
+
+Can produce up to 750° heat.
+5571F0FB4ADD3B39303CD2B0EAE2B026	Used to burn any type of solid carbon based fuel to be turned into heat and makes a waste product of carbon dioxide that needs to be vented out or used in recipes.
+
+Can produce up to 500° heat.	Used to burn any type of solid carbon based fuel to be turned into heat and makes a waste product of carbon dioxide that needs to be vented out or used in recipes.
+
+Can produce up to 500° heat.
+170FBA474572476F21EEEFAA04769A2F	Used to disperse Co2 into the atmosphere.	이산화탄소를 대기 중으로 분산시키는 데 사용됩니다.
+178F15334CC7D56953C38D9A58EEF05A	Used to disperse steam into the atmosphere.	증기를 대기 중으로 분산시키는 데 사용됩니다.
+504556054AA88B2CB69DDEBBC0F73A08	Used to place Steam and Co2 chimneys.	증기 냉각탑이나 이산화탄소 굴뚝을 배치하는 데 사용됩니다.
+D974B378439080BF9F77BD9A1C6D0189	Used to place any type of heater and any type of boiler to produce steam.	증기를 생성하기 위해 모든 유형의 가열기와 모든 유형의 보일러를 배치하는 데 사용됩니다.
+969DC6E440956CDFD55199A514E79EB2	Used to place any type of steam turbine and any type of generator to produce power.	모든 유형의 증기 터빈과 모든 유형의 발전기를 배치하여 전력을 생산하는 데 사용됩니다.
+8EAC08134E1A278FD4503E967D150D7A	User Manual	사용 설명서
+493DED7E43DED9DB9597ABAD87BCB344	Using Reactor Coolant can greatly improve stability of your reactor allowing for more productivity of power.	원자로 냉각제를 사용하면 원자로의 안정성을 크게 향상시켜 전력 생산성을 높일 수 있습니다.
+7CF2BEE74EDBA8700F0212ADA0933B93	Very Hot and Compressed Steam!
+
+Used in Super HV Turbine 	very hot and 압축된 증기!
+
+used in 슈퍼 HV 터빈 
+7F36A0EF4E9934F64861F7BE9DEBC44F	WARM UP	워밍 업
+CA3641F546246E59F6D5FDBEA4254CA4	WTNode	WTNode
+67398353436EE43816CF089FFBC36C96	Warm Steam!	따뜻한 증기!
+D6D2B75D4A3933BF714AAD858BA5C5EC	Water	물
+024688604EFB7BD999D1399C5EFDD759	Water	물
+1F8E3D5B406DC1F33141FABD0AA91931	Water Cooling	수냉
+38C6D2A44FDE38A687A91C9AAB836981	Water Pump	워터 펌프
+9A00CC0B47E25A8A2FBE7A866B83D4B2	Water Purification	정수
+64D0C83F4C0A90C109D4A29566D1455B	Water Purification	정수
+902B024C4FCBB4CBA0076BB6B8DDA20E	Water Turbine	수력 터빈
+9ADE85394F40BC3F9210C48A20CD533C	Water Turbine Mk1	수력 터빈 Mk1
+5186A23849EE3C862785D1B4AD2FC2BA	Water Turbine Mk1	수력 터빈 Mk1
+C60827CB4735C3A06B6287B72C9EEC59	Water Turbine Node	수력 터빈 노드
+4610C08741ED3B3F317173A5B7440290	We strongly recommend that new users carefully read this user guide in order to understand and predict the requirements for continued use. Primarily; We would like to ensure users are aware of the extensive construction of secondary and tertiary systems, and that such systems will require advanced planning.	신규 사용자는 지속적인 사용을 위한 요구사항을 이해하고 예측하기 위해 이 사용 설명서를 주의 깊게 읽을 것을 강력히 권장합니다. 주로, 사용자들이 2차 및 3차 시스템의 광범위한 구성에 대해 인지하고 이러한 시스템에는 고급 계획이 필요합니다.
+C81D3E164201F9C19C9274B342BC2C6F	Wind Turbine	풍력 터빈
+833040914D8996C60F2845ABFC597E02	Wind Turbine Mk1	풍력 터빈 Mk1
+6136F5B1445F2ABB474BF3912EC13B04	Wind Turbine Mk1	풍력 터빈 Mk1
+ED17A321451F2141C562E6BBD8BDEC17	Wind Turbine Mk2	풍력 터빈 Mk2
+88CD406641D4C5CC9E9CD0886D74C7C2	Wind Turbine Mk2	풍력 터빈 Mk2
+4E75CB72486056CE10FF7A8B94E542A8	Wind Turbine Mk3	풍력 터빈 Mk3
+436B3AB7495A352F81877B82D5510FA8	Wind Turbine Mk3	풍력 터빈 Mk3
+13B717BA4D638869D14BBABF60BCB2AD	{Power} MW	{전력} mw
+D65D0FC24B703DA00BDA5192B8BF5584	{distance}m	{distance}m
+50F99BEA4D4FA0DE2A7B2C84E7C67C4B	{height} M	{height} M
+D911647E427A74E4E5F0A89BD280534B	{power} MW	{전력} mw
+070B581A4C72E80C86D24A89E05DAA68	{power} MW	{전력} mw
+8B89D2764233458C320BCE9D0FF22150	{power}MW	{전력}mw
+727A6E2C48BC20359201008782C6659B	{time} Secs	{time}초
+Offline	Offline	오프라인
+Online	Online	온라인
+Particles	Particles	입자
+Sound	Sound	소리
