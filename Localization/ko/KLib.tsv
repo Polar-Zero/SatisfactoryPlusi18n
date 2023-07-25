@@ -69,7 +69,7 @@ FBE94CB04B0EC665C216F5A7BE79DB03	Conveyor Belt	컨베이어 벨트
 CA0F599F437F18E169FC97BE614BD274	Cooling Water, packaged for alternative transport.	대체 수송을 위해 포장된 냉각수.
 73951E304565875B665050A3C0088342	Copper Busbars	구리 버스바
 D67DAEBF4C032B783ECF649B783A35D5	Copper Pipes	구리 파이프
-7F4F0D594F659AAB1C542F9CDAF664AD	Copper Rod	구리 막대
+7F4F0D594F659AAB1C542F9CDAF664AD	Copper Rod	구리 봉
 326B126341280AF34B8ED789B3AB573F	Copper Slug	구리 슬러그
 79ABB7324C048E26A52D43AC5DBDCFD1	Copper Slug Egg	구리 슬러그 알
 C7A90946415D99786DAE41858282123B	Crotinnium Ore	크로티늄 광석
@@ -186,7 +186,7 @@ D13F8BEA44B46CC3C0E501804D9F2FC4	Increase the item capacity by {Bytes} Ficsit By
 CB9961584ADAE981DCB5019EEF14B36A	Iron Slug	철 슬러그
 478E0CB64010B9D05178BF84ED243C64	Iron Slug Egg	철 슬러그 알
 34BAAA2A44B8AC06728C96998654E959	Iron Wire	철 전선
-B88C72A44BF2EE0281F4758757EF4ED4	Is it the right time for this? 	지금이 지금이 적기입니까? 
+B88C72A44BF2EE0281F4758757EF4ED4	Is it the right time for this? 	지금이 적기입니까? 
 1700B6AA4F5F4F5BE2BE888E85F46C8B	Is needed to build solar panels or used as a filter for liquids.	태양 전지판을 만드는 데 필요하거나 액체의 필터로 사용됩니다.
 2FE9B00147CF772A50C431BA845F1AFE	Is used for cleaning Crystals	크리스털 세척에 사용됩니다
 B82017D9401DA6B8FE2970A98CAED0F0	Item Drive Mk.{Tier}	항목 드라이브 Mk.{계층}
@@ -203,10 +203,10 @@ E8AEECFF470E807356817D8DA9F9394D	Kovar Ingot	코바르 주괴
 2407E3384F1C9AFCD6B40085FD749AD4	Lead Ingot	납 주괴
 C3B3FF964B0F2DD5C80753ACBE377CE8	Lead Plates	납판
 1EA22A3B49D716C84BD0F8966433FCC4	Lead Sheet	납 박판
-6046AE4543D1574070B10E81F0A2A03F	Lime Dust	라임 더스트
-5A980280495861B2D2D5ABB2F52D7AB4	Lime Slug	라임슬러그
-C71A42F8450F546004E0CD90EA54A137	Lime Slug Egg	라임 슬러그 알
-FFC02D534B4868A7E227298AD2D22CA4	Lime dust is used for many things! Examples include fertilisers, clarification processes, containment of harmful gases, steel manufacture, plastics/rubbers, paints and concrete. \n\nA really important thing.	라임 더스트 is used for many things! examples include fertilisers, clarification processes, containment of harmful 가스es, steel manufacture, plastics/rubbers, 페인트s and concrete. \n\na really important thing.
+6046AE4543D1574070B10E81F0A2A03F	Lime Dust	석회 가루
+5A980280495861B2D2D5ABB2F52D7AB4	Lime Slug	석회 슬러그
+C71A42F8450F546004E0CD90EA54A137	Lime Slug Egg	석회 슬러그 알
+FFC02D534B4868A7E227298AD2D22CA4	Lime dust is used for many things! Examples include fertilisers, clarification processes, containment of harmful gases, steel manufacture, plastics/rubbers, paints and concrete. \n\nA really important thing.	석회 가루는 많은 용도로 사용됩니다! 예를 들면 비료, 정화 공정, 유해 가스 봉쇄, 철강 제조, 플라스틱/고무, 페인트 및 콘크리트가 있습니다. \n\n정말 중요한 것입니다.
 5E0A6D6342908C4EC18A73A837D838AB	Low Energized Slug Slime	낮은 에너지의 슬러그 슬라임
 170F2F2148E89DFF7E1C61A6CBE5E38C	MAX	맥스.
 249966D94F57BA99E8689DA058FCD30B	Magnesium Granules	마그네슘 과립
@@ -418,27 +418,27 @@ D99865B94A5C239FDE2A34A5D4A83BE7	ResourceWell: {ItemName} - {Purity} - {Location
 3D4222DA4F0B3C9075595AAADE39E358	Rotor Blades	로터 블레이드
 BB71BFE94321B5952CF1E18BC9CDE8BE	Rotor Blades	로터 블레이드
 677781494DB328733DE03C8387FD9F64	Rubyte Ore	루바이트 광석
-9B276CF2448603DB9AB26B9EEC8E3692	Salt	소금.
+9B276CF2448603DB9AB26B9EEC8E3692	Salt	소금
 8F770FFB499025439B35B3980EAA6B8F	Sand	모래
 3C4E5799475E62739167B58C072C512A	Sand for glass	유리용 모래
 9101ACDA46626E7A97DE8A8FC2359F6D	Saphirite Ore	사피라이트 광석
 96B402664C9744303A46D8A632F4F27F	Satmonium Ore	사트모늄 광석
-051E2E1E4081982DDDFB528E0F970CD3	Save	절약해요
+051E2E1E4081982DDDFB528E0F970CD3	Save	저장
 0BCAA74E4C5DA76F18B42D9988520975	Section not in use	섹션 미사용
 7930949149E0BC90D1E5B8BC2D1C5085	Server Rack	서버 랙
 B29D67694D5486404780F7B6BADAE141	Set Value	값 설정
 223D9EF642FD5ECDE0D510A3C4A3D60A	Set Value	값 설정
 9A0C362A499A5E74E5F8CE80E26E5AC2	Show Empty	비어 있음 표시
-D8B93BE040F106F94CAFCD9B17525060	Silver Ingot	은괴
-B4D4F45E46ADB4BD816B7DB1E27CD426	Silver Plates	실버 플레이트
+D8B93BE040F106F94CAFCD9B17525060	Silver Ingot	은 주괴
+B4D4F45E46ADB4BD816B7DB1E27CD426	Silver Plates	은 판
 45DC878C46D85091E19B67B01CF32320	Simple Conveyor Belt	간이 컨베이어 벨트
 046B57D7491B77A7CF0F92B489AE11AA	Simple Photovoltaic Cell	간단한 태양광 전지
 A7C2BA96442F270140FB02979C384DD2	Simple salts. 	단순한 소금. 
 E96663BA47726DCB8F587A914237BC1D	Slag for processing to Cement	시멘트 처리를 위한 광재
-CD73AFCF44AB78352D3B059AC26F9574	Slug DNA - Blue	슬러그 DNA - 파란색
-5D9BCEA843A2CF29DA832EAC68FBFC8E	Slug DNA - Purple	슬러그 DNA - 보라색
-A369CF4B4F28FC92A741A49833F591EF	Slug DNA - Yellow	슬러그 DNA - 노란색
-EC51AEB24DC1BE927535E2827F074FD6	Slug Food	슬러그 푸드
+CD73AFCF44AB78352D3B059AC26F9574	Slug DNA - Blue	파란 슬러그 DNA
+5D9BCEA843A2CF29DA832EAC68FBFC8E	Slug DNA - Purple	보라 슬러그 DNA
+A369CF4B4F28FC92A741A49833F591EF	Slug DNA - Yellow	노란 슬러그 DNA
+EC51AEB24DC1BE927535E2827F074FD6	Slug Food	슬러그 음식
 343BE5624C5B5BC0198A188BABAD3CBD	Slugs Tier 1	슬러그 티어 1
 E526D6DC446C761F2C2947AFD5FE4345	Slugs Tier 2	슬러그 티어 2
 5EC3C2E8423A75D754CDB4AEE098F0CB	Slugs Tier 3	슬러그 티어 3
@@ -447,12 +447,12 @@ E526D6DC446C761F2C2947AFD5FE4345	Slugs Tier 2	슬러그 티어 2
 C2BA0D264CAB1B85E7C85FA14D66CFB0	Slugs Tier 6	슬러그 티어 6
 3F1461894AD632A8C790D6A02518F734	Slugs Tier 7	슬러그 티어 7
 97C6BF3E449DE3989F6566B543ED4289	Smelter	제련소
-B2E1E45E47233E9045F728B417A261F3	Solder Rod	땜납 봉
+B2E1E45E47233E9045F728B417A261F3	Solder Rod	땜납 막대
 08740FD341681AA5AFFA76973072B830	Solder Wire	땜납 전선
-65B3987C4F76EE27A6256185DAFBE4DD	Sphere	구
+65B3987C4F76EE27A6256185DAFBE4DD	Sphere	구체
 5D43CE6240D27817536FD4AA5572B27A	Stabilization Frame	안정화 프레임
 C5CDB6574932D1C58EE69D9E6D85382C	Stabilized Quantum Crystal	안정화된 양자 결정
-B0E333254B40BB252D88628B9DD58A82	Steam	스팀
+B0E333254B40BB252D88628B9DD58A82	Steam	증기
 63B1D544452AFC46CCBD259B9DF8C2D6	Steam uses very versatile	증기는 매우 다양한 용도로 사용됩니다
 C5817BAA488DBA439FC7328B6FDCB719	Steam, packaged for alternative transport.	대체 운송을 위해 포장된 증기.
 67B3F2E942A109AACB500993FE18F45A	Steel Rod	강철 봉
@@ -656,8 +656,8 @@ Weaving	Weaving	천뜨기
 NetworkPoles_D	A network pole for transmitting and dividing information over longer distances.\n\nCan connect up to 6 cables. and attached walls.	더 먼 거리에서 정보를 전송하고 분할하기 위한 네트워크 전신주입니다.\n\n최대 6개의 케이블을 연결할 수 있으며, 벽에 붙일 수 있습니다.
 Build_AirCollector_Name	Air Collector	공기 수집기
 Build_Module_Crusher_D	Attached to the Modular Miner.\n\nCrushed the ore that extract instantly.\n\nIncreases the power required by the modular miner. \n\nHalved the bonus from all Modules \nExample: you have 3 Energy Modules Mk.1 so your total bonus with that module is 37.5%	모듈식 채굴기에 부착할 수 있습니다.\n\n추출한 광석을 즉시 분쇄하며,\n\n모듈식 채굴기 작동에 필요한 전력량이 증가됩니다. \n\n모든 모듈의 보너스 절반으로 감소 \n예시: 3개의 에너지 모듈 Mk.1이 있으므로 해당 모듈의 총 보너스는 37.5%입니다
-Build_SmelterModule_D	Attached to the Modular Miner.\n\nSmelt the ore that extract instantly.\n\nSmelt only the first ingot types (like iron, copper or tin)\n\nIncreases the power required by the modular miner. \n\nHas no bonus or malus.	모듈식 채굴기에 부착할 수 있습니다.\n\n추출한 광석을 즉시 제련합니다.\n\n첫 번째 광석 유형(철, 구리, 주석 등)만 제련합니다\n\n모듈식 채굴기 작동에 필요한 전력량이 증가됩니다. \n\n보너스나 마이너스가 없습니다.
-Build_Module_Energy_Tier2_D	Attached to the Modular Miner.\n\nThe energy consumption fluctuates now! ({PowerMin}-{PowerMax} MW per Module) \nGive the miner more power to extract resources faster.\n\nIncreases the power required by the modular miner.\n\nBonus to production: {BonusOnProduction}%	모듈식 채굴기에 부착할 수 있습니다.\n\n에너지 소비량이 시간에 따라 변동됩니다! ({PowerMin}-{PowerMax} MW/모듈) \n채굴기에 더 많은 전력을 주어 더 빠른 속도로 채굴할 수 있도록 돕습니다.\n\nincreases the power required by the 모듈식 채굴기.\n\n생산성 보너스: {BonusOnProduction}%
+Build_SmelterModule_D	Attached to the Modular Miner.\n\nSmelt the ore that extract instantly.\n\nSmelt only the first ingot types (like iron, copper or tin)\n\nIncreases the power required by the modular miner. \n\nHas no bonus or malus.	모듈식 채굴기에 부착할 수 있습니다.\n\n추출한 광석을 즉시 제련합니다.\n\n첫 번째 광석 유형(철, 구리, 주석 등)만 제련합니다\n\n모듈식 채굴기 작동에 필요한 전력량이 증가됩니다.\n\n보너스나 마이너스가 없습니다.
+Build_Module_Energy_Tier2_D	Attached to the Modular Miner.\n\nThe energy consumption fluctuates now! ({PowerMin}-{PowerMax} MW per Module) \nGive the miner more power to extract resources faster.\n\nIncreases the power required by the modular miner.\n\nBonus to production: {BonusOnProduction}%	모듈식 채굴기에 부착할 수 있습니다.\n\n에너지 소비량이 시간에 따라 변동됩니다! ({PowerMin}-{PowerMax} MW/모듈) \n채굴기에 더 많은 전력을 주어 더 빠른 속도로 채굴할 수 있도록 돕습니다.\n\n모듈식 채굴기 작동에 필요한 전력량이 증가됩니다.\n\n생산성 보너스: {BonusOnProduction}%
 Build_Module_Fluid_D	Attached to the Modular Miner.\n\nincreases the miner's effectiveness. this requires gas or liquid. \n\nIncreases the power required by the modular miner. \n\nBonus to effectivity: based on fluid / Gas	모듈식 채굴기에 부착할 수 있습니다.\n\n기체나 액체를 추가 소비하는 것으로, 광부의 효율성을 높입니다. \n\n모듈식 채굴기 작동에 필요한 전력량이 증가됩니다. \n\n효율성 보너스: 유체/가스에 따라 다름
 Build_MiningHead_Mk1_D	Attached to the Modular Miner.\nDepending on the level, the amount of material that is extracted changes.\nSome ores require a certain tier.\n\nIncreases the power required by the modular miner. \n\nQuantity per run: {Quantity}	모듈식 채굴기에 부착할 수 있습니다.\n레벨에 따라 채광되는 광석의 양이 달라집니다.\n어떤 광석은 특정 티어가 필요합니다.\n\n모듈식 채굴기 작동에 필요한 전력량이 증가됩니다. \n\n실행 당 수량: {Quantity}
 Build_StorageContainerMk1_N	Awesome Sink Storage Mk.1	Awesome Sink 저장소 Mk.1
@@ -666,10 +666,10 @@ Build_BioWaterExtractor_SF+_Name	Bio Water Extractor	바이오 워터 추출기
 Build_PipeHole2_D	Can be attached to walls, allowing Pipelines to pass through them.	파이프라인이 벽을 통과할 수 있도록 벽에 부착할 수 있습니다.
 Build_Conv_WallHole_D	Can be used as a connection for conveyor belts. 	컨베이어 벨트의 연결부로 사용할 수 있습니다. 
 Build_SoldifierAndCooler_D	Can cool down material or produce various materials from chemical compounds. Cooling metals produces water steam that has to be removed.	물질을 식히거나 화합물로부터 다양한 물질을 생성할 수 있습니다.  금속을 냉각시키면 수증기가 생성되며, 제거되어야 합니다.
-FluidConditioner_D	Can purify fluids and extract resources from them.\n\nHas one output but many products.\nThe products depend on which liquid is being processed.\n\nSorting systems are recommended! 	유체를 정화하고 부산물을 추출할 수 있습니다.\n\n한 출력부에서 모든 부산물이 배출됩니다.\n가공되는 유체에 따라 출력이 다릅니다.\n\n분류 시스템 사용을 권장합니다! 
+FluidConditioner_D	Can purify fluids and extract resources from them.\n\nHas one output but many products.\nThe products depend on which liquid is being processed.\n\nSorting systems are recommended! 	유체를 여과하고 부산물을 추출할 수 있습니다.\n\n한 출력부에서 모든 부산물이 배출됩니다.\n여과되는 유체에 따라 출력 품목이 다릅니다.\n\n분류 시스템 사용을 권장합니다! 
 Build_CeilingStackableConvPole_N	Ceiling Stackable Conveyor Pole	천장 적층형 컨베이어 폴
 Build_ChemReactor_n	Chemical Reactor	화학 반응기
-Build_AirCollector_Desc	Collects air from the environment. The higher it is, the more air the Air Collector can collect.\n\nIf there are other collectors nearby, it collects less air.\n\nThere should always be a certain range between 2 buildings in order to suck up air more efficiently. This range can be viewed with R in build mode.\n\nIf Placed nearly from Gas Pillar it will collect Toxic Air.	collects air from the environment. the higher it is, the more air the 공기 수집기 can collect.\n\n근처에 다른 수집기가 있으면 효율이 감소됩니다.\n\n공기를 더 효율적으로 수집하려면 건물 사이에 일정한 거리가 있어야 합니다.  이 범위는 빌드 모드에서 R로 볼 수 있습니다.\n\n가스 기둥 근처에 두면 유독성 공기가 수집됩니다.
+Build_AirCollector_Desc	Collects air from the environment. The higher it is, the more air the Air Collector can collect.\n\nIf there are other collectors nearby, it collects less air.\n\nThere should always be a certain range between 2 buildings in order to suck up air more efficiently. This range can be viewed with R in build mode.\n\nIf Placed nearly from Gas Pillar it will collect Toxic Air.	주변 환경에서 공기를 수집합니다. 높은 위치에 설치할수록 더 많은 공기를 모을 수 있습니다.\n\n근처에 다른 수집기가 있으면 효율이 감소됩니다.\n\n공기를 더 효율적으로 수집하려면 건물 사이에 일정한 거리가 있어야 합니다.  이 범위는 빌드 모드에서 R로 볼 수 있습니다.\n\n가스 기둥 근처에 두면 유독성 공기가 수집됩니다.
 ModularMiner_D	Consumes different amount of power. The amount depends on the modules.\n\nThe miner needs a drill to run. and different resources depending on the module.	모듈에 따라 다른 가변적인 전력을 소비합니다.\n\n채굴기 작동에는 드릴이 필요하며, 모듈에 따라 유체 자원 역시 필요할 수 있습니다.
 Build_StorageContainerMk1_D	Contains 24 slots for storing large amounts of items.\nHas one inputs and outputs for conveyor belts.\n\nThe last slot will be sinked if the Storage has Power	대량의 항목을 저장하기 위한 24개의 슬롯이 제공됩니다.\n컨베이어 벨트에 대한 입력 및 출력이 하나 있습니다.\n\n스토리지에 전원이 공급되면 마지막 슬롯이 싱크됩니다
 Build_StorageContainerMk2_D	Contains 48 slots for storing large amounts of items.\nHas two inputs and outputs for conveyor belts.\n\nThe last slot will be sinked if the Storage has Power	대량의 항목을 저장하기 위한 48개의 슬롯이 제공됩니다.\n컨베이어 벨트에 대한 두 개의 입력 및 출력이 있습니다.\n\n스토리지에 전원이 공급되면 마지막 슬롯이 싱크됩니다
@@ -678,7 +678,7 @@ Build_Crusher_N	Crusher	파쇄기
 Build_Module_Crusher_N	Crusher Module	파쇄 모듈
 Build_BioWaterExtractor_SF+_desc	Default extraction rate: 60m³ Bio Water per minute.\n\nNote This Building need Bio Water nodes.	기본 추출 속도: 60m³ 바이오 워터 / 분.\n\n바이오 워터 노드 위에 배치해야 합니다.
 Build_MiningHead_Mk3_N	Diamond Mining Head	다이아몬드 채굴 드릴
-NetworkPoleWallDouple	FaxIT Double Wall Pole	FaxIT 이중 벽극
+NetworkPoleWallDouple	FaxIT Double Wall Pole	FaxIT 이중 벽 전신주
 Ram_In_N	FaxIT Input Processor	FaxIT 입력 프로세서
 Ram_Out_N	FaxIT Output Processor	FaxIT 출력 프로세서
 NetworkPole_N	FaxIT Pole	FaxIT 폴
