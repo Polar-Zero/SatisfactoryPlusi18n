@@ -1,102 +1,115 @@
-Gas Containment
-Fluid Control Unit
-Heat Regulator Control Unit
-Fuel Excellerant
-Injector Regulator
-Carbon Output
-Water Purification
-per minute
-Particles
-Sound
-Temperature:
-Burn Percentage:
-Fluid / Gas Buffer:
-Offline
-Online
-Produced
+Amount
 Boiler Attached
 Boiler Not Attached
-Heater Attached
-Heater Not Attached
-Generator Attached
-Generator Not Attached
-Turbine Attached
-Turbine Not Attached
-Power Output:
-RPM:
-Fluid Conditioner filtration medium monitoring
-Input Management
-Output Regulator
-Slot not in use
-Fluid Conditioner waste by-products
-Modular Power Turbine
-Modular Power Generator
-Waster Purification
-Multiplier
-Steam Containment
-Regulator
-Low Pressure
-Control Value
-EnableCheats
-Fly
-Ghost
-UnlockAll
-No Power, Fuel & Cost
-Set Day
-Set Night
+Burn Percentage:
+CO2 Pressure
+Carbon Output
 Clear Inventory
+Collectors in Range:
 Complete Research
-No Damage
-Item Name
-Type
-Amount
-Enter text here...
-No Plot
-Greenhouse Gas
-Dodad Thingy
-Fluid Discharge
+Compute Module
 Control Unit
-Power
-Growth
-Item Stack Size:
-Solid
-Invalid
-Node quallity survey
-Mining Efficiency
-Power: {cur}/{max} MW
-Prod. Time: {time} sec
-Productivity: {perc}%
-No Power!
-No Power
-Missing Egg!
-Missing Slug!
-Run
-Standby
-FUNCTION:\n{Function}
-Drill
-Fluid
+Control Value
 Crusher
+Dodad Thingy
+Drill
+Dust Prevention
+Electric Grounding
+EnableCheats
+Energy
 Energy 1
 Energy 2
 Energy 3
-Smelter
+Enter text here...
+Exposure:
+Extraction Progress:
+FUNCTION:\n{Function}
+Fluid
+Fluid / Gas Buffer:
+Fluid Conditioner filtration medium monitoring
+Fluid Conditioner waste by-products
+Fluid Control Unit
+Fluid Discharge
+Fly
+Friction
+Fuel Excellerant
+Gas Containment
+Generator Attached
+Generator Not Attached
+Ghost
+Greenhouse Gas
+Growth
+Heat Regulator Control Unit
+Heater Attached
+Heater Not Attached
+Height bonus:
 Idle
+Injector Regulator
+Injector Regulator
+Input Management
+Invalid
+Item Name
+Item Stack Size:
+Leaf Inspection
+Low Pressure
+Malus:
+Mining Efficiency
+Missing Egg!
+Missing Slug!
+Modular Power Cooler
+Modular Power Generator
+Modular Power Heater
+Modular Power Turbine
+Monitor Unit
+Monitor Unit
+Mouldy Seed
+Multiplier
+Multiplier
+No Damage
+No Generator
+No Plot
+No Power
+No Power!
+No Power, Fuel & Cost
+Node quallity survey
+Noise Generator
+Offline
+Offline
+Online
+Output Regulator
+Particles
+Power
+Power Output:
+Power: {cur}/{max}
+Power: {cur}/{max} MW
+Prod. Time: {time} sec
+Produced
+Productivity: {perc}%
+RPM:
+Random Math
+Regulator
+Rotational
+Run
+Seed Extractor
+Seed Extractor
+Seed Sifting
+Set Day
+Set Night
+Slot not in use
+Smelter
+Solid
+Sound
+Standby
+Steam Containment
+Steam Pump
+Temperature:
+Time:
+Turbine Attached
+Turbine Not Attached
+Type
+UnlockAll
+Waster Purification
+Water Purification
+per minute
 {num} secs
 {time} Sec
-Collectors in Range:
-Malus:
-Height bonus:
-Seed Extractor
-Random Math
-Compute Module
-Noise Generator
-Multiplier
-Seed Extractor
-Offline
-Extraction Progress:
-Leaf Inspection
-Mouldy Seed
-Dust Prevention
-Seed Sifting
-Modular Power Heater
-No Generator
