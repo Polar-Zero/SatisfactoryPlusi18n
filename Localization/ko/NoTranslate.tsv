@@ -9,7 +9,10 @@ Collectors in Range:
 Complete Research
 Compute Module
 Control Unit
+Control Unit
 Control Value
+Crop Stabiliser
+Crops
 Crusher
 Dodad Thingy
 Drill
@@ -20,10 +23,12 @@ Energy
 Energy 1
 Energy 2
 Energy 3
+Enriched Crops
 Enter text here...
 Exposure:
 Extraction Progress:
 FUNCTION:\n{Function}
+Fertilised Crops
 Fluid
 Fluid / Gas Buffer:
 Fluid Conditioner filtration medium monitoring
@@ -34,6 +39,7 @@ Fly
 Friction
 Fuel Excellerant
 Gas Containment
+Generator
 Generator Attached
 Generator Not Attached
 Ghost
@@ -61,9 +67,11 @@ Modular Power Generator
 Modular Power Heater
 Modular Power Turbine
 Monitor Unit
+Monitor Unit
 Mouldy Seed
 Multiplier
 Multiplier
+Natural Light
 No Damage
 No Generator
 No Plot
@@ -72,11 +80,14 @@ No Power!
 No Power, Fuel & Cost
 Node quallity survey
 Noise Generator
+Nothing
 Offline
 Offline
 Online
 Output Regulator
 Particles
+Plot 1
+Plot {plotIndex}
 Power
 Power Output:
 Power: {cur}/{max}
@@ -86,9 +97,11 @@ Produced
 Productivity: {perc}%
 RPM:
 Random Math
+Recipe:
 Regulator
 Rotational
 Run
+Seed Extractor
 Seed Extractor
 Seed Sifting
 Set Day
