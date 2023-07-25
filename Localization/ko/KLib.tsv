@@ -60,7 +60,7 @@ BABB320343EDFF345329F4967FDFD45F	Close	닫기
 C697F84E4AAB87353EB57787DC4AA598	Cold	냉각
 7F9DDA264DDCDDBA130E67966D6BF6D0	Cold Slag	차가운 광재
 70F6FF3F4DE3E8E63B677783BD69F5DB	Collected genes from a slug, maybe an egg can be created from them? I guess we need an analysis of the genes.	슬러그로부터 수집된 유전자, 어쩌면 그들로부터 알을 만들 수 있을까요? 유전자 분석이 필요할 것 같습니다.
-B1D9DAD2445D862BC902B89FD1BC8F24	Collectors in Range: 	수집기 범위: 
+B1D9DAD2445D862BC902B89FD1BC8F24	Collectors in Range: 	범위 내 수집기: 
 A5E50DBD4B30F7D53B2F7CA383F99AF2	Commonly used to surface roads and building parts.	일반적으로 도로 및 건물 부품 표면에 사용됩니다.
 BFCFB7CE435E5959E19C71BFD044C99D	Compact Biomass	압축 바이오매스
 C196D8A74192BB408D5875836210EE3A	Compact Biomass to Burn in the Biomass Heater.\n\nCan not use in the Biomass Burner!	바이오매스 가열기에서 사용 가능한 압축 바이오매스.\n\n바이오매스 버너에서는 사용할 수 없습니다!
@@ -216,15 +216,15 @@ FFC02D534B4868A7E227298AD2D22CA4	Lime dust is used for many things! Examples inc
 973AC9424BF4C62A81C24B976D85971D	Mainly used in the Gas Generator to make Power\n\nCan burn in the Gas Generator	mainly used in the 가스 generator to make power\n\ncan burn in the 가스 generator
 EA2D0F804D9D2C15BD1D2EBB6AD1E38D	Malus: 	말러스: 
 FFC90DC44104D82CA147F49CD0EF5604	Max Ficsit Byes : {Bytes} | Increse storage: {Increase}{suffix}	최대 Ficsit Byes: {Bytes} | 스토리지 증가: {Increase}{suffix}
-1D58C3954D0855CA6599839B578A3F80	Max Item Amount	최대 항목 금액
+1D58C3954D0855CA6599839B578A3F80	Max Item Amount	최대 아이템 수량
 8D6216A643E9BAE5838F1CACD0F5022E	Methane	메탄
 673E343A4C3C3EA8FD3D6284A5ACF2EB	Miner	광부
 23CEBA42402676CA7574468E61C6A216	Mineral Slug Slime	미네랄 슬러그 슬라임
-7BD0411740B7C2E11A9C2390BAA8DFE9	Mining Efficiency 	광업 효율성 
-35599E1949E4F6DC98FA5896C71BF6BE	Missing Egg!	계란 분실!
-AC3770CF409B76650A07F188BB943723	Missing Fluid Tank or Tier is to low!	누락된 오일 탱크 또는 계층이 너무 낮습니다!
-BDFD7EA7420A7A02ACF2B29532A85D47	Missing Incubator or Tier is to low!	인큐베이터 또는 계층이 너무 낮습니다!
-076CC2BF4447B499373CE097FCD8E45A	Missing Slug!	실종된 슬러그!
+7BD0411740B7C2E11A9C2390BAA8DFE9	Mining Efficiency 	채광 효율 
+35599E1949E4F6DC98FA5896C71BF6BE	Missing Egg!	계란 없음!
+AC3770CF409B76650A07F188BB943723	Missing Fluid Tank or Tier is to low!	유체 탱크가 없거나 장비 티어가 너무 낮습니다!
+BDFD7EA7420A7A02ACF2B29532A85D47	Missing Incubator or Tier is to low!	인큐베이터가 없거나 장비 티어가 너무 낮습니다!
+076CC2BF4447B499373CE097FCD8E45A	Missing Slug!	슬러그 없음!
 256EF90E4C967C3BC154AF813F87B992	Molten Aluminum	녹은 알루미늄
 9981805141D34B524901DA90BEAD87DB	Molten Aluminum, packaged for alternative transport.	대체 운송을 위해 포장된 녹은 알루미늄.
 636D9BA24407464AB3CCDE854E34034F	Molten Brass	녹은 황동
@@ -385,9 +385,9 @@ BC8B00BD47073FC0FFD05FB3DEB1DD5C	Player Transfer Buffer	플레이어 전송 버�
 2D3E9CCD46A2BFF2EC3001ADEF67ACDF	Power Relay	파워 릴레이
 C1BEB8594F798B2A85F12A968887727D	Power Shard Crystal	파워 샤드 크리스탈
 50C478B9408D1EE38008B0A4BD2E4BDE	Power Shard Frame	파워 샤드 프레임
-E2B5D93445FBDBEC200E10847FC96AD1	Power: {cur}/{max} MW	전원: {cur}/{맥스.} mw
+E2B5D93445FBDBEC200E10847FC96AD1	Power: {cur}/{max} MW	전원: {cur}/{max} mw
 B89D42F94335F1C00C0024AA39623EF0	Press [E] to Open Supply Box	[E]를 눌러 공급 상자를 엽니다
-CE4796774C2E3BC9D84E528EEC12C76B	Prod. Time: {time} sec	제품 시간: {시간을}초
+CE4796774C2E3BC9D84E528EEC12C76B	Prod. Time: {time} sec	소요 시간: {time}초
 415D01B948C48F588451369FC6A37EF0	Productivity: {perc}%	생산성: {perc}%
 8797158642F2889839DB9690FE04F9D4	Project Part #10. Ship with the Space Elevator to complete Phases of Project Assembly.\n\nPower Management Relays are responsible for powering Project Assembly and managing it's vast demand of energy. They are a core part of it's power network.	Project Part #10. Ship with the Space Elevator to complete Phases of Project Assembly.\n\nPower Management Relays are responsible for powering Project Assembly and managing it's vast demand of energy. They are a core part of it's power network.
 99604C65410399A1500590BB0460CEF2	Purified Caterium	정제된 카테리움
