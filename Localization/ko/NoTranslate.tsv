@@ -5,7 +5,7 @@ Burn Percentage:
 CO2 Pressure
 Carbon Output
 Clear Inventory
-Collectors in Range: 
+Collectors in Range:
 Complete Research
 Compute Module
 Control Unit
@@ -21,7 +21,7 @@ Energy 1
 Energy 2
 Energy 3
 Enter text here...
-Exposure: 
+Exposure:
 Extraction Progress:
 FUNCTION:\n{Function}
 Fluid
@@ -42,7 +42,7 @@ Growth
 Heat Regulator Control Unit
 Heater Attached
 Heater Not Attached
-Height bonus: 
+Height bonus:
 Idle
 Injector Regulator
 Injector Regulator
@@ -52,7 +52,7 @@ Item Name
 Item Stack Size:
 Leaf Inspection
 Low Pressure
-Malus: 
+Malus:
 Mining Efficiency
 Missing Egg!
 Missing Slug!
@@ -60,7 +60,6 @@ Modular Power Cooler
 Modular Power Generator
 Modular Power Heater
 Modular Power Turbine
-Monitor Unit
 Monitor Unit
 Mouldy Seed
 Multiplier
@@ -73,6 +72,7 @@ No Power!
 No Power, Fuel & Cost
 Node quallity survey
 Noise Generator
+Offline
 Offline
 Online
 Output Regulator
@@ -90,7 +90,6 @@ Regulator
 Rotational
 Run
 Seed Extractor
-Seed Extractor
 Seed Sifting
 Set Day
 Set Night
@@ -102,7 +101,7 @@ Standby
 Steam Containment
 Steam Pump
 Temperature:
-Time: 
+Time:
 Turbine Attached
 Turbine Not Attached
 Type
@@ -111,6 +110,4 @@ Waster Purification
 Water Purification
 per minute
 {num} secs
-{time} Secs
 {time} Sec
-{Time} Sec
