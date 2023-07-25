@@ -385,7 +385,7 @@ BC8B00BD47073FC0FFD05FB3DEB1DD5C	Player Transfer Buffer	플레이어 전송 버�
 2D3E9CCD46A2BFF2EC3001ADEF67ACDF	Power Relay	파워 릴레이
 C1BEB8594F798B2A85F12A968887727D	Power Shard Crystal	파워 샤드 크리스탈
 50C478B9408D1EE38008B0A4BD2E4BDE	Power Shard Frame	파워 샤드 프레임
-E2B5D93445FBDBEC200E10847FC96AD1	Power: {cur}/{max} MW	전원: {cur}/{max} mw
+E2B5D93445FBDBEC200E10847FC96AD1	Power: {cur}/{max} MW	전력: {cur}/{max} MW
 B89D42F94335F1C00C0024AA39623EF0	Press [E] to Open Supply Box	[E]를 눌러 공급 상자를 엽니다
 CE4796774C2E3BC9D84E528EEC12C76B	Prod. Time: {time} sec	소요 시간: {time}초
 415D01B948C48F588451369FC6A37EF0	Productivity: {perc}%	생산성: {perc}%
